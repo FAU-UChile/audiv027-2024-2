@@ -10,4 +10,5 @@ Foto sonic
 
 Traer webcam con USB y micrófono
 
+![image](https://github.com/user-attachments/assets/60abf26b-9e11-44bb-97db-335557b61b22)
 
