@@ -12,6 +12,6 @@ Aquí están mis apuntes, me gusta hacerlo en papel, así aprendo mejor, cuando 
 
 ![image](apuntes.jpg)
 
-Eso es lo que hice y aprendí hoy. 
+Eso es lo que hice y aprendí hoy, a veces hago estrellas cuando no sé que más escribir :P.
 
 Gracias por la clase!!
