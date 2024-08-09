@@ -6,7 +6,7 @@
 
 - tengo que hacer apuntes cada clase.
 
-- tengo hanbre.
+- tengo hambre.
 
 - se pueden hacer operaciones matemáticas con códigos.
 
