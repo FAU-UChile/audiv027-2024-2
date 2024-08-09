@@ -12,4 +12,6 @@ Aquí están mis apuntes, me gusta hacerlo en papel, así aprendo mejor, cuando 
 
 ![image](apuntes.jpg)
 
-Eso es lo que hice y aprendí hoy. Gracias por la clase!!
+Eso es lo que hice y aprendí hoy. 
+
+Gracias por la clase!!
