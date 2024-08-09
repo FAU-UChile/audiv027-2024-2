@@ -7,3 +7,7 @@ Foto sonic
 ![imagenDeSonic](./sonic.webp)
 
 ![image](./nombre.extension)
+
+Traer webcam con USB y micrófono
+
+
