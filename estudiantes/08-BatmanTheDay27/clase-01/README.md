@@ -2,16 +2,16 @@
 
 ## Resumen 
 
-- todo lo tengo que edita en mi fort y devo verificarlo con el nombre junto al gato.
+- Todo lo tengo que edita en mi fort y devo verificarlo con el nombre junto al gato.
 
-- tengo que hacer apuntes cada clase.
+- Tengo que hacer apuntes cada clase.
 
-- tengo hambre.
+- Tengo hambre.
 
-- se pueden hacer operaciones matemáticas con códigos.
+- Se pueden hacer operaciones matemáticas con códigos.
 
-- tengo sed.
+- Tengo sed.
 
 - Los nombres de archivos no deben de tener espacio. 
 
-- traer webcam.
+- Traer webcam.
