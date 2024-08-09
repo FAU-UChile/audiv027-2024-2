@@ -13,3 +13,5 @@
 - tengo sed.
 
 - Los nombres de archivos no deben de tener espacio. 
+
+- traer webcam.
