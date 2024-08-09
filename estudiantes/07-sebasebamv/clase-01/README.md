@@ -75,10 +75,8 @@
 
 *leer Markdown Cheatsheet*
 
-![emoji](.emoji.jpg)
-
-
 *descargar app github*
 
 *buscar perifericos para la clase*
 
+![emoji](./emoji.jpg)
