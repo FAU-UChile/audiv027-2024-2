@@ -11,3 +11,5 @@ Ví en Markdown Chearsheet cómo enfatizar o poner de distintas maneras las pala
 Aquí están mis apuntes, me gusta hacerlo en papel, así aprendo mejor, cuando escribo las cosas las memorizo, así me sirve más en lo personal.
 
 ![image](apuntes.jpg)
+
+Eso es lo que hice y aprendí hoy. Gracias por la clase!!
