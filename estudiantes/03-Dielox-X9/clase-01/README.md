@@ -16,4 +16,4 @@
 
 - Escribimos nuestros apuntes en el GitHub :)
 
-- Hasta la próxima clase
+- Hasta la próxima clase.
