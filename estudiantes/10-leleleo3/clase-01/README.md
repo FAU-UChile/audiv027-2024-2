@@ -36,7 +36,7 @@ De la misma manera, al programar se usarán comúnmente letras minúsculas a men
 
 README =/= readme
 
-También se nos dice que una forma sencilla de diferenciar una palabra de otra sin separarlas es: UsarMayúsculasAlInicioDeCadaUna
+También se nos dice que una forma sencilla de diferenciar una palabra de otra sin separarlas es: UsarMayúsculasAsí
 
 En la "Markdown Cheatsheet", cuyo link fue compartido desde U-Cursos, se encuentra un torpedo para la programación de texto en Github. Este detalla distintas formas de conseguir estilos de texto, crear listas, etc.
 
