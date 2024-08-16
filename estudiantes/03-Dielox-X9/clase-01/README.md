@@ -2,7 +2,7 @@
 
 ## Apuntes de hoy
 
-- Nuestro aprendizaje será por medio de la plataforma **GitHub** y otras plataformas de programación se **código libre**.
+- Nuestro aprendizaje será por medio de la plataforma **GitHub** y otras plataformas de programación de **código libre**.
 
 - Hemos aprendido sobre como crear un **fork** para poder guardar nuestro pogreso durantes las clases, **sin modificar el archivo original**.
 
