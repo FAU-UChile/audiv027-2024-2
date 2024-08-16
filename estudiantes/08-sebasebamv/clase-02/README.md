@@ -28,4 +28,3 @@ tutoriales de ia
 https://alt-ai.net/
 
 referencias de ia en tec.
-
