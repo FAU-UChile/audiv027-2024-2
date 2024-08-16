@@ -1,4 +1,4 @@
-# clase
+# clase 2
 
 ## Resumen
 
