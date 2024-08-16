@@ -2,7 +2,7 @@
 
 ## Apuntes preliminares
 
-* Se muestra el trabajo de Andreas Refsgaard
+* Se muestra el trabajo de *Andreas Refsgaard*
   - persona que pasa muy rápido de "la idea al hacer"
   - artista, "programador creativo"
   - desarrolla giros polémicos y artísticos ante los parámetros convencionales
@@ -21,10 +21,10 @@
    "Booksby.ai" - libros hechos por inteligencia artificial; inventa el resumen, las reseñas 
 
 ## Gene Kogan
-  matemático, fue maestro de Andreas
+  pionero; matemático, fue maestro de Andreas
 
   ### Cubist Mirror
-  - ej: Arpillera mirror (trabajo de docente Aaron que está inspirado en la obra de Gene Kogan)
+  - ej: *Arpillera mirror* (trabajo de docente Aaron que está inspirado en la obra de Gene Kogan)
 * * *
 
 ## Conceptos
@@ -32,6 +32,10 @@
 - YOLOv2/YOLO90000
 - Arxiv -
 - Flickr -
+- ml4a.net
+- colab
+- GAN
+- Alt.AI
 - "scrape" / "webscaping" - técnica de cómo bajar cosas sistemáticamente en el internet
 - cuello de botella
 - docente habla de su tesis y trabajo (vídeo en vimeo) - ej: algoritmo de hacer chistes; máquina de protestar 
@@ -42,5 +46,11 @@
 - CPU
 - GPU
 - DPU - unidad procesadoras de tensores
+- p5.js
 - 
+
+## Personajes importantes
+- Cassie Tarakajian - creadora de p5
+- Golan Levin - profesor MIT (libro: Code as Creative Medium)
+- Hannah Davis
 - 
