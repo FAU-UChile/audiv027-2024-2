@@ -24,4 +24,4 @@ ml4a.net = son tutoriales para hacer cosas
 
 neural network = red neuronal tener numeros que va cambiando para lograr su objetivo y cuando llega a su objetivo llega a un numero, usa matrices 
 ## link de consulta
-alt  ai 
+ https://alt-ai.net/ 
