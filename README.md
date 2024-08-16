@@ -59,16 +59,16 @@ unidad 2: inteligencia artificial en computadores personales
 | [clase-04](clases/clase-04/) | 2024-09-06 viernes      | ia en aplicaciones web            |
 | [clase-05](clases/clase-05/) | 2024-09-13 viernes      | ia en aplicaciones web            |
 | semana receso                | 2024-09-16 / 2024-09-20 | sin clases, sin evaluaciones      |
-| [clase-06](clases/clase-06/) | 2024-09-13 viernes      | trabajo grupal en primer proyecto |
-| [clase-07](clases/clase-07/) | 2024-04-26 viernes      | presentaciones de primer trabajo  |
-| [clase-08](clases/clase-08/) | 2024-05-10 viernes      | ia en computadores                |
-| [clase-09](clases/clase-09/) | 2024-05-17 viernes      | ia en computadores                |
-| [clase-10](clases/clase-10/) | 2024-05-24 viernes      | ia en computadores                |
-| [clase-11](clases/clase-11/) | 2024-05-31 viernes      | ia en computadores                |
-| [clase-12](clases/clase-12/) | 2024-06-07 viernes      | segundo trabajo                   |
-| [clase-13](clases/clase-13/) | 2024-06-14 viernes      | segundo trabajo                   |
-| semana de trabajo autónomo   | 2024-06-17/21           | no hay clase                      |
-| [clase-14](clases/clase-14/) | 2024-06-28 viernes      | presentaciones de segundo trabajo |
+| [clase-06](clases/clase-06/) | 2024-09-27 viernes      | trabajo grupal en primer proyecto |
+| [clase-07](clases/clase-07/) | 2024-10-04 viernes      | presentaciones de primer trabajo  |
+| [clase-08](clases/clase-08/) | 2024-10-11 viernes      | ia en computadores                |
+| [clase-09](clases/clase-09/) | 2024-10-18 viernes      | ia en computadores                |
+| [clase-10](clases/clase-10/) | 2024-10-25 viernes      | ia en computadores                |
+| [clase-11](clases/clase-11/) | 2024-11-01 viernes      | ia en computadores                |
+| [clase-12](clases/clase-12/) | 2024-11-08 viernes      | segundo trabajo                   |
+| semana de trabajo autónomo   | 2024-11-11/15           | no hay clase                      |
+| [clase-13](clases/clase-13/) | 2024-11-22 viernes      | segundo trabajo                   |
+| [clase-14](clases/clase-14/) | 2024-11-29 viernes      | presentaciones de segundo trabajo |
 | cierre acta                  | 2024-07-06 sábado       | envío actas                       |
 
 ## notas
