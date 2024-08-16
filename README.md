@@ -11,7 +11,7 @@
 - créditos: 03
 - semestre: segundo semestre 2024
 - profesore: [aarón montoya-moraga](https://github.com/montoyamoraga)
-- estudiantes inscritos: TBD, 11 + 5
+- estudiantes inscritos: 11 diseño, 05 arquitectura
 
 ## materiales para el curso
 
@@ -54,17 +54,17 @@ unidad 2: inteligencia artificial en computadores personales
 | sesión                       | fecha                   | tema                              |
 | :--------------------------- | :---------------------- | :-------------------------------- |
 | [clase-01](clases/clase-01/) | 2024-08-16 viernes      | introducción a ia                 |
-| [clase-02](clases/clase-02/) | 2024-08-23 viernes      | ia en computadores                |
-| [clase-03](clases/clase-03/) | 2024-08-30 viernes      | ia en computadores                |
-| [clase-04](clases/clase-04/) | 2024-09-06 viernes      | ia en computadores                |
-| [clase-05](clases/clase-05/) | 2024-09-13 viernes      | ia en computadores                |
+| [clase-02](clases/clase-02/) | 2024-08-23 viernes      | ia en aplicaciones web            |
+| [clase-03](clases/clase-03/) | 2024-08-30 viernes      | ia en aplicaciones web            |
+| [clase-04](clases/clase-04/) | 2024-09-06 viernes      | ia en aplicaciones web            |
+| [clase-05](clases/clase-05/) | 2024-09-13 viernes      | ia en aplicaciones web            |
 | semana receso                | 2024-09-16 / 2024-09-20 | sin clases, sin evaluaciones      |
 | [clase-06](clases/clase-06/) | 2024-09-13 viernes      | trabajo grupal en primer proyecto |
 | [clase-07](clases/clase-07/) | 2024-04-26 viernes      | presentaciones de primer trabajo  |
-| [clase-08](clases/clase-08/) | 2024-05-10 viernes      | ia en aplicaciones web            |
-| [clase-09](clases/clase-09/) | 2024-05-17 viernes      | ia en aplicaciones web            |
-| [clase-10](clases/clase-10/) | 2024-05-24 viernes      | ia en aplicaciones web            |
-| [clase-11](clases/clase-11/) | 2024-05-31 viernes      | ia en aplicaciones web            |
+| [clase-08](clases/clase-08/) | 2024-05-10 viernes      | ia en computadores                |
+| [clase-09](clases/clase-09/) | 2024-05-17 viernes      | ia en computadores                |
+| [clase-10](clases/clase-10/) | 2024-05-24 viernes      | ia en computadores                |
+| [clase-11](clases/clase-11/) | 2024-05-31 viernes      | ia en computadores                |
 | [clase-12](clases/clase-12/) | 2024-06-07 viernes      | segundo trabajo                   |
 | [clase-13](clases/clase-13/) | 2024-06-14 viernes      | segundo trabajo                   |
 | semana de trabajo autónomo   | 2024-06-17/21           | no hay clase                      |
