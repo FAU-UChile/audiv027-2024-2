@@ -1,4 +1,6 @@
-# clase
+# clase-01
+
+viernes 16 agosto 2024
 
 Foto sonic
 
@@ -11,4 +13,3 @@ Foto sonic
 Traer webcam con USB y micrófono
 
 ![image](https://github.com/user-attachments/assets/60abf26b-9e11-44bb-97db-335557b61b22)
-
