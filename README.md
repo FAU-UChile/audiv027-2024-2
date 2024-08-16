@@ -10,7 +10,8 @@
 - sección: 01
 - créditos: 03
 - semestre: segundo semestre 2024
-- profesore: [aarón montoya-moraga](https://github.com/montoyamoraga)
+- profesore: aarón montoya-moraga <https://github.com/montoyamoraga>
+- monitore: vic clavería <https://github.com/vickgit201>
 - estudiantes inscritos: 11 diseño, 05 arquitectura
 
 ## materiales para el curso

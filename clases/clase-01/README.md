@@ -6,7 +6,7 @@ viernes 09 agosto 2024
 
 - aarón montoya-moraga <https://montoyamoraga.io/> <https://github.com/montoyamoraga/>
 
-  - profesor
+  - profesore
   - NYU ITP <https://tisch.nyu.edu/itp>
   - Processing <https://processing.org/>
   - p5.js <https://p5js.org/>
@@ -15,7 +15,12 @@ viernes 09 agosto 2024
   - Future sketches <https://www.media.mit.edu/groups/future-sketches/>
   - Sinestesia <https://www.sinestesia.cc/>
   - Diseno UDP <https://github.com/disenoUDP>
-  - Diseno UChile <https://github.com/disenoUChile>
+  - Diseno UChile <https://github.com/FAU-UChile>
+
+- vic clavería <https://github.com/vickgit201>
+
+  - monitore
+  - Diseno UChile <https://github.com/FAU-UChile>
 
 ## inspiraciones varias para este curso
 
