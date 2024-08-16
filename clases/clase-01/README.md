@@ -62,7 +62,7 @@ preguntas para estudiantes
 
 - ir a tu fork
 - comprobar que estás en tu fork
-- ir a tu carpeta dentro de estudiantes/
+- ir a tu carpeta dentro de estudianstes/
 - dentro de tu carpeta, ir a tu clase-01
 - escribir apuntes de prueba y hacer commit
 
