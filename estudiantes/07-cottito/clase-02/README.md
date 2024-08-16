@@ -20,7 +20,7 @@
 
    "Booksby.ai" - libros hechos por inteligencia artificial; inventa el resumen, las reseñas 
 
-- # Gene Kogan
+## Gene Kogan
   matemático, fue maestro de Andreas
 
   ### Cubist Mirror
