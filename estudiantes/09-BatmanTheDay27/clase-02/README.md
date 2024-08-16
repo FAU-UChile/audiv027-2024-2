@@ -14,4 +14,8 @@
 
 - Sirven mucho las matemáticas para aprender a hacer IA. Se crean *neural network*, cada una de estas neuronas se componen de conjunto de números y se presentan como *tensores* los cuales en si son *matrices*. se ve batstante complicado.
 
-- 
+- *Arpillera mirror (2019)*, es un software que utiliza tu cámara para editarte en tiempo real.
+
+- *ml4a.net* tiene muchas herramientas interesantes, como reemplazar tu rostro por el de otro, o reemplazar tus labios para aparentar que dices algo que no es.
+
+- *Cassie Tarakajian* creó la herramienta *P5*, La cual usaremos en la siguiente parte de la clase.
