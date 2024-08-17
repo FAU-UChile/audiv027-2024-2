@@ -1,7 +1,7 @@
 # estudiantes
 
 - [00-vickgit201](./00-vickgit201/)
--
+- [01-Vixo46](./01-Vixo46/)
 - [02-tbd](./02-tbd/)
 - [03-jibbx](./03-jibbx/)
 - [04-Dielox-X9](./04-Dielox-X9/)
