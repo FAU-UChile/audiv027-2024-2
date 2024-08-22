@@ -5,3 +5,5 @@ Fue una clase corta, no anoté muchas cosas, resulta que se cortó el agua enton
 Aquí están mis apuntes que logré anotar!!
 
 ![image](IMG_2816.jpg)
+
+Gracias por leer :D
