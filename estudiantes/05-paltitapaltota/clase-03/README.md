@@ -22,3 +22,13 @@ la inteligencia  artifical sirve para entrenar y no hacer desde cero un algoritm
 maya man 
 
 google creative lab
+posenet sketchbook
+me recordo aun programa de compu 
+real time pose rensor flow
+
+carolina pino  interfaces de la gente 
+irene alvarado
+
+comunas unidas 
+
+teachable machine  introduccion muy buena 
