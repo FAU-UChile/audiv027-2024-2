@@ -32,3 +32,13 @@ irene alvarado
 comunas unidas 
 
 teachable machine  introduccion muy buena 
+
+john cage silence
+
+// para comentarios  y buenos modales
+
+p5.js estudiar sus codigos manual
+
+function setup t¿da kis eventos iniciales ocurre una vez
+
+function draw ocurre muchas veces hasta que ponco stop 
