@@ -1,5 +1,5 @@
 # clase
-##HEY THERE
+## HEY THERE
 
 Puede que no esté aqui la proxima semana, por temas de horario con otros ramos. Trataré de disfrutar la clase.
 
