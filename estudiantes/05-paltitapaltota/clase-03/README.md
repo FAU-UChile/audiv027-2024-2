@@ -18,3 +18,7 @@ console.log("hola :)"); se usa para ver si esta funcionando una parte de mi codi
 nam june paik
 
 la inteligencia  artifical sirve para entrenar y no hacer desde cero un algoritmos 
+
+maya man 
+
+google creative lab
