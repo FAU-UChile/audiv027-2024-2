@@ -35,5 +35,7 @@
 - antes de una programación podemos hacer un comentario por ej:
 
 - // por BatmanTheDay
+
 function setup() {
+  
   createCanvas(400, 400);
