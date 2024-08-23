@@ -2,7 +2,7 @@
 
 ## Resumen
 
-- Aprenderemos a usar *p5.js*.
+- Aprenderemos a usar *pl5.js*.
 
 - La página posee varias herramientas de programación-
 
@@ -10,7 +10,7 @@
 
 - Usaremos en un futuro *javascript*.
 
-- p5 al inicio era muy generico.
+- pl5 al inicio era muy generico.
 
 - El profe se hechó el programa durante un día porque le faltó una coma.
 
@@ -29,3 +29,5 @@
 - Al agregar el 0.5.0 al script, se me abrió la cámara, ej: src="https://unpkg.com/ml5@0.5.0/dist/ml5.min.js".
 
 - Nam June Paik
+
+- En *teachable machine* puedes entrenar a la ia de la webcam. 
