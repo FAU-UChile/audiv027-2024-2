@@ -39,3 +39,5 @@
      function setup() {
   
         createCanvas(400, 400);
+
+- Primero setup y luego draw
