@@ -1,7 +1,7 @@
 # clase 2
 ## Apuntes
 ***
-andreas refsgaard tiene muchos trabajos  muy proactiva artista y programador creativo, crea proyectos divertidos, toma cosas y le da un giro poco covensional
+andreas refgaard tiene muchos trabajos  muy proactiva artista y programador creativo, crea proyectos divertidos, toma cosas y le da un giro poco covensional
 2017  an algorithm watching a movie trailer 
 
 doodle
