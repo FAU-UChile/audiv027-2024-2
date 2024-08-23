@@ -54,10 +54,10 @@ unidad 2: inteligencia artificial en computadores personales
 
 | sesión                       | fecha                   | tema                               |
 | :--------------------------- | :---------------------- | :--------------------------------- |
-| [clase-01](clases/clase-01/) | 2024-08-16 viernes      | introducción a ia                  |
-| [clase-02](clases/clase-02/) | 2024-08-23 viernes      | ia en aplicaciones web             |
-| [clase-03](clases/clase-03/) | 2024-08-30 viernes      | ia en aplicaciones web             |
-| [clase-04](clases/clase-04/) | 2024-09-06 viernes      | ia en aplicaciones web             |
+| [clase-01](clases/clase-01/) | 2024-08-07 viernes      | introducción a ia                  |
+| [clase-02](clases/clase-02/) | 2024-08-16 viernes      | ia en aplicaciones web             |
+| [clase-03](clases/clase-03/) | 2024-08-23 viernes      | ia en aplicaciones web             |
+| [clase-04](clases/clase-04/) | 2024-08-30 viernes      | ia en aplicaciones web             |
 | [clase-05](clases/clase-05/) | 2024-09-13 viernes      | ia en aplicaciones web             |
 | semana receso                | 2024-09-16 / 2024-09-20 | sin clases, sin evaluaciones       |
 | [clase-06](clases/clase-06/) | 2024-09-27 viernes      | trabajo grupal en primer proyecto  |
