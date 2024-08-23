@@ -14,3 +14,7 @@ el lugar = el valor de n
 preload pre carga para que prepare los materiales antes de seguir 
 
 console.log("hola :)"); se usa para ver si esta funcionando una parte de mi codigo, imprimir algo en la consola. o ver si llega a los lugares 
+
+nam june paik
+
+la inteligencia  artifical sirve para entrenar y no hacer desde cero un algoritmos 
