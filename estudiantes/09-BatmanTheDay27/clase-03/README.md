@@ -30,4 +30,10 @@
 
 - Nam June Paik
 
-- En *teachable machine* puedes entrenar a la ia de la webcam. 
+- En *teachable machine* puedes entrenar a la ia de la webcam.
+
+- antes de una programación podemos hacer un comentario por ej:
+
+- // por BatmanTheDay
+function setup() {
+  createCanvas(400, 400);
