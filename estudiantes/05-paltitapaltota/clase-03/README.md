@@ -1,10 +1,11 @@
-# clase
-p5.js editor la gracia es que puedo ver lo que programo a tiempo real tiene dos ventanas 
-nos creamos una cuenta  y usamos el face api 
+### Clase 3
+p5.js editor  
+La gracia es que puedo ver lo que programo a tiempo real tiene dos ventanas. Nos creamos una cuenta y usamos el face api  
+os creamos una cuenta  y usamos el face api 
 computer vision buscar
 se crea una base de datos para que el computador saque sus conclusiones. 
-head son los ingredientes
-body es lo que ocurre
+head = son los ingredientes
+body = es lo que ocurre
 script ahi podemos programar javascript es muy variable 
 escribiremos una linea  
 
@@ -43,9 +44,20 @@ function setup t¿da kis eventos iniciales ocurre una vez
 
 function draw ocurre muchas veces hasta que ponco stop 
 
+fuentes o personas de relevancia 
+
+- nam june paik
+- maya man 
+- google creative lab
+- posenet sketchbook
+- carolina pino  interfaces de la gente 
+- irene alvarado
+- john cage silence
+
 ### tarea
+
 simulate: particle
-me meti a un ejemplo de como hacer particulas 
+ un ejemplo de como hacer particulas 
 https://editor.p5js.org/p5/sketches/Simulate:_Particle
 Este es un intento de recrear ese sistema de partículas usando p5.js. 7. * Inspirado en Particle.js, aportado por Sagar Arora
 
@@ -91,6 +103,12 @@ ahhhhhhhhhhh  :0
 ![image](https://github.com/user-attachments/assets/a340314f-2a4c-4ddf-8742-bae2e59952d9)
 
 ####que paso aqui??
+
+![image](https://github.com/user-attachments/assets/067d7e84-eb77-4e62-b784-c92441f0e1d3)
+
+![image](https://github.com/user-attachments/assets/bea3e17a-b6b9-44a2-a537-32b7b47bfbc5)
+
+
 
 
 
