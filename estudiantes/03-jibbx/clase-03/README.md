@@ -1,4 +1,4 @@
-# clase-03
+# clase3
 
 <https://p5js.org/>  -  <https://editor.p5js.org/> - <https://editor.p5js.org/jibbx/sketches>  
 Free and open-source JavaScript (computer programming languaje) library for **creative coding**.  
