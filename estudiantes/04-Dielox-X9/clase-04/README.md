@@ -24,4 +24,4 @@
 
 - Runway programa creado por diseñadores chilenos, se ocupa para efectos visuales y fue utilizado en la pelicula "Todo en todas partes al mismo tiempo".
 
-- - "Common Voice" es una gran base de datos, creada por la comunidad para quienes quieran apoyar de forma anónima, donando tu voz diciendo frases que captará para crear esta base de datos.
+- "Common Voice" es una gran base de datos, creada por la comunidad para quienes quieran apoyar de forma anónima, donando tu voz diciendo frases que captará para crear esta base de datos.
