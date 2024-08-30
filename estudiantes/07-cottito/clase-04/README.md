@@ -12,6 +12,7 @@ Nuevamente se utiliza ml5.js
 
 * * * 
 ## MODELOS DE ML5 
+https://docs.ml5js.org/#/reference/sound-classifier
 * Image Classifier
 * DOODLENET
 * BODY SEGMENTATION - se utiliza para cambiar los fondos por ejemplo
@@ -35,7 +36,8 @@ https://editor.p5js.org/cottito/sketches/Mld88mhKX
 
 * * * 
 ## REFERENCIAS
-* STUPID HACKATHON - ¿Qué es? Un proyecto de arte dirigido a la inutilidad y la creación de cosas ridículas 
+* STUPID HACKATHON - ¿Qué es? Un proyecto de arte dirigido a la inutilidad y la creación de cosas ridículas
+https://github.com/emilyxxie/hypochondriapp?tab=readme-ov-file
 Sam Lavigne
 * LEAP MOTION
 
@@ -58,6 +60,7 @@ tecnología Runaway - (ej: tecnología empleada en "Todo en todas partes al mism
 * PETE WARDEN
 
 * MOZILLA COMMON VOICE - "Donar tu voz"
+https://commonvoice.mozilla.org/es/speak
 
 * Rafael Lozano-Hemmer
 
