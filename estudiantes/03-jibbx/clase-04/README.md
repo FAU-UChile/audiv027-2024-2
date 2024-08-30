@@ -24,4 +24,24 @@ Con imagenes originales de entrenamiento de COCO, el codigo (python script) pres
 
 https://cocodataset.org/#home GRAN BASE DE DATOS DE IMAGENES (LABELED)
 
+LISA JAMHOURY  
+https://lisajamhoury.com/portfolio/movement-and-code/  
+https://editor.p5js.org/lisajamhoury/sketches/  
+
+THE CODING TRAIN - https://www.youtube.com/@TheCodingTrain  
+THE NATURE OF CODE - by DANIEL SHIFFMAN  
+https://runwayml.com/ https://runwayml.com/studios  
+
+VISION X COMPUTADOR - Computer Vision es un campo de la informática que se centra en permitir que los equipos identifiquen y comprendan objetos y personas en imágenes y vídeos.  
+  
+https://editor.p5js.org/ml5/sketches/HUm7NYMW3  SOUND CLASSIFIER  
+
+- Pete Warden https://petewarden.com/  
+- Rafael Lozano-Hemmer https://www.lozano-hemmer.com/
+
+https://commonvoice.mozilla.org/es/datasets BASE DE DATOS DE VOCES - Inicitativa para construir una base de datos con donaciones voluntarias.
+
+https://openframeworks.cc/ - openFrameworks is an open source C++ toolkit for creative coding.
+
+
 
