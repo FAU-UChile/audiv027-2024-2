@@ -6,7 +6,7 @@
 
 - Comenzamos creando una cuenta en **P5.js** y corriendo el código de *Face Collage* de la página *"ml5, (Link de la página en clase 2)"*.
 
-- Mediante este código probamos como podemos verificar que algo este funcionando sin alterar el código utilizando *console.log("Probando");*
+- Mediante este código probamos como podemos verificar que algo este funcionando sin alterar el código utilizando *console.log("Probando");*.
 
 - Para que el código *console.log("Probando")* funcione debemos de persionar la tecla *TAB* a su vez lo en el entreparentesis debe de ir una comillas.
 
