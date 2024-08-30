@@ -24,10 +24,14 @@
 
 - Los códigos empiezan por *"Setup"* y luego por *"Draw"*.
 
-- Páginas interesante Google Creative Lab
+- Páginas interesante Google Creative Lab.
 
 - Se nos encargó probar p5 y cargar lo utilizado a la hoja de apuntes acá en GitHub.
 
-- 
+---
 
-- Excelente clase, una forma muy entretenida se programar.
+- https://editor.p5js.org/Dielox-X9/sketches/NOMJhzarB
+
+---
+
+- Excelente clase, una forma muy entretenida de programar.
