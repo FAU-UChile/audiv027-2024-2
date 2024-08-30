@@ -18,6 +18,7 @@ Nuevamente se utiliza ml5.js
 * HANDPOSE
 * FACEMESH
 * SOUND CLASSIFIER
+* SENTIMENT
 
 * * * 
 ## Ejercicio Identificador de Imagen
@@ -44,7 +45,7 @@ https://www.sergiomoradiaz.com/
 * LISA JAMHOURY
 lisajamhoury.com
 
-*KINECTRON GITHUB
+* KINECTRON GITHUB
 * KINECT
 
 * THE CODING TRAIN
@@ -59,3 +60,5 @@ tecnología Runaway - (ej: tecnología empleada en "Todo en todas partes al mism
 * MOZILLA COMMON VOICE - "Donar tu voz"
 
 * Rafael Lozano-Hemmer
+
+* Roy Macdonald
