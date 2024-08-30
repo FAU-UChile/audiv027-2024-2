@@ -3,5 +3,10 @@
 * "el código puede tener versiones paralelas" ese mundo paralelo se le llama BRANCH
 "Master" / "Slave" antiguamente se hablaba de eso para destruir esa forma de rellenar, se cambió a MAIN
 
+* * * 
 ## SISTEMA CLASIFICADOR DE IMAGEN
 Nuevamente se utiliza ml5.js
+
+* * * 
+## Ejercicio Identificador de Imagen
+https://editor.p5js.org/cottito/sketches/Mld88mhKX
