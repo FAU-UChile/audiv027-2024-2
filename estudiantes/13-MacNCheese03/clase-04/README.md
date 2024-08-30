@@ -53,3 +53,7 @@ Vamos a cerrar con el último modelo, se llama Sentiment para identificar cual e
 ES PELIGROSA porque te da el sentimiento de las cosas, es más útiles para temas como bullying y como identificarlo. 
 
 Es tiempo ya de pensar en el proyecto que queremos hacer AAAAA QUE MIEDO 
+
+ANTES DE QUE SE ME OLVIDE EL PROFE DIJO QUE SOLO VALE LA PENA SINCRONIZAR CUANDO ESTAS BEHIND, NO AHEAD.
+
+ya eso era, me voy---
