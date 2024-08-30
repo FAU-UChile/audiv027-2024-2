@@ -17,7 +17,7 @@ Nuevamente se utiliza ml5.js
 * BODY SEGMENTATION - se utiliza para cambiar los fondos por ejemplo
 * HANDPOSE
 * FACEMESH
-
+* SOUND CLASSIFIER
 
 * * * 
 ## Ejercicio Identificador de Imagen
@@ -37,15 +37,25 @@ https://editor.p5js.org/cottito/sketches/Mld88mhKX
 * STUPID HACKATHON - ¿Qué es? Un proyecto de arte dirigido a la inutilidad y la creación de cosas ridículas 
 Sam Lavigne
 * LEAP MOTION
+
 * SERGIO MORA DIAZ - espacios inmersivos
 https://www.sergiomoradiaz.com/
+
 * LISA JAMHOURY
 lisajamhoury.com
+
 *KINECTRON GITHUB
 * KINECT
+
 * THE CODING TRAIN
 mención a su libro "Shiffman Nature Of Code" - Shiffman creador de ML5 
 * No Starch
+
 * Cristobal Valenzuela
 tecnología Runaway - (ej: tecnología empleada en "Todo en todas partes al mismo tiempo")
-* 
+
+* PETE WARDEN
+
+* MOZILLA COMMON VOICE - "Donar tu voz"
+
+* Rafael Lozano-Hemmer
