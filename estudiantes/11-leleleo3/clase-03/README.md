@@ -133,6 +133,9 @@ En base a p5.js Reference Tutorials Examples, hacer experimentos con p5 y subir 
 
 1. Sonic magico
 https://editor.p5js.org/leleleo3/sketches/STqn3Osa0
+
+Frankenstein de varias referencias y tutoriales de formas, edición de cursor, desplazamiento y edición de texto.
+
 2. Sonic magico saltarin y bailarin
 https://editor.p5js.org/leleleo3/sketches/Yqm3NRBhD
 
@@ -143,5 +146,5 @@ https://editor.p5js.org/leleleo3/sketches/GeI2A41ze
 4. Cubo girando
 https://editor.p5js.org/leleleo3/sketches/1KHOSBuv-
 
-
+Tomé este ejemplo de la página de referencias y tutoriales para entender mejor como funcionaban las formas 3d. Solo cambié el color y el tamaño de la forma y el canvas.
 
