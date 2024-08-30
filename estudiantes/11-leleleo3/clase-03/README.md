@@ -143,6 +143,9 @@ Andrés me ayudó a revolver cómo convertir el movimiento de los rectángulos e
 
 3. Triangulos volados
 https://editor.p5js.org/leleleo3/sketches/GeI2A41ze
+
+Lo realicé en base al ejemplo del cuadrado de la clase anterior, cambiando la forma y la dinámica del cursor.
+
 4. Cubo girando
 https://editor.p5js.org/leleleo3/sketches/1KHOSBuv-
 
