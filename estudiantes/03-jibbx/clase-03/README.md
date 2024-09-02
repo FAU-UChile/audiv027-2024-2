@@ -1,13 +1,13 @@
-# clase-03
+# clase3
 
 <https://p5js.org/>  -  <https://editor.p5js.org/> - <https://editor.p5js.org/jibbx/sketches>  
 Free and open-source JavaScript (computer programming languaje) library for **creative coding**.  
 A collection of **pre written code**, it simplifies the process of of creating **interactive visuals** with code in the web browser.  
   
-JavaScript = CPL commonly used to create interactive effects within web browsers.  
-function preload() = Preparar-cargar materiales antes de seguir. [con el codigo]  
-        mouseClicked() = Acciones al hacer click con el mouse.  
-          setup() = Pasa una vez al comienzo del codigo.  
+**JavaScript** = CPL commonly used to create interactive effects within web browsers.  
+**function preload()** = Preparar-cargar materiales antes de seguir. [con el codigo]  
+        **mouseClicked()** = Acciones al hacer click con el mouse.  
+          **setup()** = Pasa una vez al comienzo del codigo.  
 
 **let** n = 3 (Que exista[let])  
 

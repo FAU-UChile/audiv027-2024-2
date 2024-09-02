@@ -6,7 +6,7 @@
 
 - Comenzamos creando una cuenta en **P5.js** y corriendo el código de *Face Collage* de la página *"ml5, (Link de la página en clase 2)"*.
 
-- Mediante este código probamos como podemos verificar que algo este funcionando sin alterar el código utilizando *console.log("Probando");*
+- Mediante este código probamos como podemos verificar que algo este funcionando sin alterar el código utilizando *console.log("Probando");*.
 
 - Para que el código *console.log("Probando")* funcione debemos de persionar la tecla *TAB* a su vez lo en el entreparentesis debe de ir una comillas.
 
@@ -24,10 +24,14 @@
 
 - Los códigos empiezan por *"Setup"* y luego por *"Draw"*.
 
-- Páginas interesante Google Creative Lab
+- Páginas interesante Google Creative Lab.
 
 - Se nos encargó probar p5 y cargar lo utilizado a la hoja de apuntes acá en GitHub.
 
-- 
+---
 
-- Excelente clase, una forma muy entretenida se programar.
+- https://editor.p5js.org/Dielox-X9/sketches/NOMJhzarB
+
+---
+
+- Excelente clase, una forma muy entretenida de programar.
