@@ -1,4 +1,4 @@
-# clase
+# *clase 1*
 
 ![Kirby chato](https://github.com/user-attachments/assets/d0d1ebfd-d6c4-42a4-ba80-c566ff60ffa8)
 
