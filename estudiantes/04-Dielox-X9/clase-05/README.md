@@ -8,7 +8,7 @@
 - La red del metro sigue la cuenta de instagram del simulador "IG: @metrosantiagosim".
 
 ---
-## Segunda Parte: Clase
+## Segunda Parte: Clase Información IA
 - La página de ML5 agregó una notoficación ayudando a los usuarios, pues con los cambios de biblioteca que habian hecho muchos códigos se habian roto, pero con esta nueva ayuda oficial de ML5 se pueden solucionar.
 
 - El profesor nos explicó sobre como funcionan los nombres de los archivos y como se van distinguiendo en cada parche ejemplo: 1.15.2, el primer número es como la versión mas compleja, el segundo es una versión con los cambios sin del cambios grandes y el tercer número son los parches.
@@ -26,5 +26,19 @@
 - Biblioteca de libros de uso libre sin derechos de autor: https://www.gutenberg.org/.
 
 - UTF-8 trnasforma el formato de los caracteres a un código entendible para el computador.
+---
+BREAK
+
+--- 
+## Tercera Parte: Clase Entrenar modelo IA
+
+- Ocuparemos el código Char-rn usando *"Google Collab"* que es un computador en la nube, sin usar los recursos del computador.
+
+- En google Collab hacemos una copia del código entregado por el profesor, vamos ejecutando el código junto al profesor paso por paso.
+
+- El paso decicivo es entrenar la IA con un texto de uso libre, este modelo se demora en entrenarse.
+
+---
+BONUS
 
 - 
