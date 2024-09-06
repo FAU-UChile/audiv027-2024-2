@@ -13,8 +13,19 @@ Cambio en ML5
 * Protoboard
 * Tiny ML (Machine Learning)
 * Output
-* 
+* RNN Red neuronal (NN Neural Network)
+* CHARNN
+* Lua
+* Torch
+
+## MODELO PARA GENERAR TEXTO CHARNN EN ML5js
+* Cantidad de caracteres
+https://github.com/ml5js/training-charRNN
+* Proyecto Gutenberg, página de libros de donde sacaremos la UTF-8
+https://www.gutenberg.org/cache/epub/996/pg996.txt
+* UTF-8 - protocolo y formato de código que lo transforma a algo más entendible
+* ASCII - código americano 
 
 ## APUNTES
 * "¿Qué es la inteligencia artificial?"
-  -  
+
