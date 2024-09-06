@@ -22,7 +22,7 @@
 
 - Método de la inteligencia artificial que enseña a las computadoras a procesar datos de una manera similar a como lo hace el cerebro humano. 
 
-## Chat Rnn
+## Char Rnn
 
 ## Proyecto Gutenberg
 
@@ -32,4 +32,6 @@
   
 - ASCII: O Código ASCII es un código de caracteres escritos que se basa en el alfabeto latino.
 
-## 
+## Entrenando nuestro propio algoritmo de Char Rnn
+
+- 
