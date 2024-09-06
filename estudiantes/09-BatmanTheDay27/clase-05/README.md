@@ -8,6 +8,6 @@
 
 - En programación no se deberia borrar el pasado, ya que sirve como referencia
 
-- Los microcontroladores son computadores pequeños que no esta´´án hechos para hacer operaciones muy grandes, o de una gran variedad.
+- Los microcontroladores son computadores pequeños que no están hechos para hacer operaciones muy grandes, o de una gran variedad.
 
 - 
