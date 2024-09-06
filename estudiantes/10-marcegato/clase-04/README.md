@@ -10,4 +10,4 @@ Tengo que confesarlo, cuando vimos p5, estuve la mayoría de la clase intentando
 
 ![image](IMG_3794.jpg)
 
-No supe como sacar ss en la pantalla del pc, no funcionaban los recortes de pantalla tampoco NKSDNAKSD,, pero ahí está mi gran logro
+No supe como sacar captura de pantalla del pc, no funcionaban los recortes de pantalla tampoco NKSDNAKSD,, pero ahí está mi gran logro
