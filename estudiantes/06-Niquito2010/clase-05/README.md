@@ -22,8 +22,6 @@
 
 - Método de la inteligencia artificial que enseña a las computadoras a procesar datos de una manera similar a como lo hace el cerebro humano. 
 
-## Char Rnn
-
 ## Proyecto Gutenberg
 
 - Repositorio de libros sin derechos de autor para descargar en UTF8
