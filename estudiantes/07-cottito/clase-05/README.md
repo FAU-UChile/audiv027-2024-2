@@ -17,7 +17,20 @@ Cambio en ML5
 * CHARNN
 * Lua
 * Torch
+* Python
+* Pygame
+* IPYNB - Notebook interactivo en Python
+* Google Colab
+https://colab.research.google.com/drive/1x72T3cGhcdJvcsSZwP75-1Cc2uX11gxd#scrollTo=rcpUrQmpkIIr
+* cd- cambiar de directorio
+* Fibra de vidrio
+* pip
+* 
 
+## Huella de Carbono de ChatGPT
+- 300 toneladas de Dioxido de Carbono
+
+  
 ## MODELO PARA GENERAR TEXTO CHARNN EN ML5js
 * Cantidad de caracteres
 https://github.com/ml5js/training-charRNN
@@ -25,7 +38,7 @@ https://github.com/ml5js/training-charRNN
 https://www.gutenberg.org/cache/epub/996/pg996.txt
 * UTF-8 - protocolo y formato de código que lo transforma a algo más entendible
 * ASCII - código americano 
-
+* 
 ## APUNTES
 * "¿Qué es la inteligencia artificial?"
 
