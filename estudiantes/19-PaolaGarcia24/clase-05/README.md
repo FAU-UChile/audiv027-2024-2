@@ -29,3 +29,5 @@ es un estandar que se usa para por dentro lo que significa cada caracter
 
 ASCII (acrónimo inglés de American Standard Code for Information Interchange —Código Estándar estadounidense para el Intercambio de Información—), pronunciado generalmente [áski]1​: 6  o (rara vez) [ásθi] o [ási], es un código de caracteres basado en el alfabeto latino, tal como se usa en inglés moderno. Fue creado en 1963 por el Comité Estadounidense de Estándares (ASA, conocido desde 1969 como el Instituto Estadounidense de Estándares Nacionales, o ANSI) como una evolución de los conjuntos de códigos utilizados entonces en telegrafía. Más tarde, en 1967, se incluyeron las minúsculas, y se redefinieron algunos códigos de control para formar el código conocido como US-ASCII.
 
+Según la estimación realizada en 2020 por Payal Dhar, y publicada en la prestigiosa revista Nature, la huella de carbono de entrenar a un solo gran modelo lingüístico como ChatGPT equivale a unas 300 toneladas de dióxido de carbono emitido.
+La Inteligencia Artificial y, en concreto, ChatGPT, consumen un litro de agua por cada 100 preguntas aproximadamente
