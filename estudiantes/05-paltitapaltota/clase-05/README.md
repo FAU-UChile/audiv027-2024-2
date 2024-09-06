@@ -32,3 +32,5 @@ es un estandar que se usa para definir que hay dentro de otros caracteres
 https://www.pygame.org/news
 
 googlecolab
+
+chat gpt  genera 16.800 gramos de CO2 por minuto
