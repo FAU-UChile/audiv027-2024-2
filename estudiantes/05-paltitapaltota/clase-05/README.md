@@ -28,3 +28,7 @@ https://www.gutenberg.org/ es una bibloteca virtual gratuita
 
 UTF-8 (8-bit Unicode Transformation Format) es un formato de codificación de caracteres Unicode e ISO 10646 que utiliza símbolos de longitud variable.
 es un estandar que se usa para definir que hay dentro de otros caracteres
+
+https://www.pygame.org/news
+
+googlecolab
