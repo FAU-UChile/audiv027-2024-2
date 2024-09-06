@@ -64,7 +64,7 @@ function setup() {
   textoActual = caracteres[int(random(caracteres.length))];
 
   // tamano del texto
-  textSize(12);
+  textSize(20);
 
   // tipografia del texto
   textFont(miFont);
@@ -84,7 +84,7 @@ function setup() {
 function draw() {
 
   // fondo blanco
-  background(255);
+  background(0 , 255 , 0);
 
   // mostrar texto generado
   text(textoActual, 10*windowWidth/100, 10*windowHeight/100);
