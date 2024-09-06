@@ -20,6 +20,7 @@
 
 ## NN: Neural Network o Redes Neuronales
 
+- Método de la inteligencia artificial que enseña a las computadoras a procesar datos de una manera similar a como lo hace el cerebro humano. 
 
 ## Chat Rnn
 
@@ -29,4 +30,6 @@
 
 - UTF8: 8-bit Unicode Transformation Format es un formato de codificación de caracteres Unicode, utilizado para lenguaje web.
   
-- ASCII: O Código ASCII es un código de caracteres escritos que se basa en el alfabeto latino. 
+- ASCII: O Código ASCII es un código de caracteres escritos que se basa en el alfabeto latino.
+
+## 
