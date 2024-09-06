@@ -6,3 +6,8 @@ También vimos modelos en ml5.
 
 Tengo que confesarlo, cuando vimos p5, estuve la mayoría de la clase intentando clasificar una imagen para que llegara al 100%, alcancé el 98, mi mayor logro.
 
+![image](IMG_3793.jpg)
+
+![image](IMG_3794.jpg)
+
+No supe como sacar ss en la pantalla del pc, no funcionaban los recortes de pantalla tampoco NKSDNAKSD,, pero ahí está mi gran logro
