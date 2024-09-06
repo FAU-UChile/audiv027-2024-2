@@ -21,3 +21,5 @@
 - Se debe ingresar en una copia propia de *google collab*.
 
 - El profe instaló Python 3.6.15.
+
+- Según la estimación realizada en 2020 por Payal Dhar, y publicada en la prestigiosa revista Nature, la huella de carbono de entrenar a un solo gran modelo lingüístico como ChatGPT equivale a unas 300 toneladas de dióxido de carbono emitido.
