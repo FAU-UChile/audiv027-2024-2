@@ -50,3 +50,5 @@ entrenar:
 2024_2_audiv027_char_rnn_quijote.ipynb
 
 borrar en editar, montar PC, ejecutar en orden
+
+(audiv027-2024-1 github de curso anterior)
