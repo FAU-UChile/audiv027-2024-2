@@ -27,7 +27,8 @@ Tiny Machine Learning: Type of machine learning that allows models to run on sma
     
 **UTF-8** es un formato de codificación de caracteres Unicode e ISO 10646 que utiliza símbolos de longitud variable. [Estandar para definir que significa cada caracter]
 
-GoogleColab - https://colab.google/
+GoogleColab - https://colab.google/  
+https://colab.research.google.com/drive/117ht_jnQlgG4o8tN2m5Rmqj-TpvFOu-F#scrollTo=cRoW9mOYlf2W
 
     
   
