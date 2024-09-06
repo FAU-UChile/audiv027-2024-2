@@ -16,4 +16,4 @@
 
 - UTF-8 (8-bit Unicode Transformation Format) es un formato de codificación de caracteres Unicode que utiliza símbolos de longitud variable.
 
-- 
+- Empezaremos a entrenar un algoritmo en *google collab* = *colab.research.google.com*
