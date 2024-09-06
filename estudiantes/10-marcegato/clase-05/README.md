@@ -4,4 +4,4 @@ Para esta clase vino un compañero de nosotros, gabriel, lo conocí de antes, me
 
 
 
-*LTS long= term support
+*LTS = long term support
