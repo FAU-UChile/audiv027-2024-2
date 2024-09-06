@@ -6,7 +6,7 @@
 - [03-jibbx](./03-jibbx/)
 - [04-Dielox-X9](./04-Dielox-X9/)
 - [05-paltitapaltota](./05-paltitapaltota/)
-- [06-tbd](./06-tbd/)
+- [06-Niquito2010](./06-Niquito2010/)
 - [07-cottito](./07-cottito/)
 - [08-sebasebamv](./08-sebasebamv/)
 - [09-BatmanTheDay27](./09-BatmanTheDay27/)
