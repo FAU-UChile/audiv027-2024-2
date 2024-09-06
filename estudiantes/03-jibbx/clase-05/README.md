@@ -15,5 +15,6 @@ LTS: **L**ong **T**erm **S**upport
   
 Tiny Machine Learning: Type of machine learning that allows models to run on smaller, less powerful devices.  
 
+  Red Neuronal - A.I
                   
 
