@@ -32,4 +32,4 @@
 
 ## Entrenando nuestro propio algoritmo de Char Rnn
 
-- 
+- Link: https://colab.research.google.com/drive/1ssQYu9t9rZQ4n6JeaxDHWPrXM3w8NoWf?usp=sharing
