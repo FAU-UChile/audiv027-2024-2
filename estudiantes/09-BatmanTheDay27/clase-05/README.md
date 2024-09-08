@@ -25,3 +25,5 @@
 - Según la estimación realizada en 2020 por Payal Dhar, y publicada en la prestigiosa revista Nature, la huella de carbono de entrenar a un solo gran modelo lingüístico como ChatGPT equivale a unas 300 toneladas de dióxido de carbono emitido.
 
 - La Inteligencia Artificial y, en concreto, ChatGPT, consumen un litro de agua por cada 100 preguntas aproximadamente.
+
+- Entro en models y copio el nombre del que usaremos, luego lo copio en sketch.js
