@@ -42,3 +42,7 @@ https://www.gutenberg.org/cache/epub/996/pg996.txt
 ## APUNTES
 * "¿Qué es la inteligencia artificial?"
 
+
+
+
+https://fau-uchile.github.io/audiv027-2024-2/clases/clase-05/ejemplo-ml5js-char-rnn-canvas/
