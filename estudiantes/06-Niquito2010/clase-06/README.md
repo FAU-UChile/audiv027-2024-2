@@ -9,10 +9,19 @@
 
 #### Código: 
 
--(https://editor.p5js.org/Valentina_09/sketches/g2RbswnvZu)
-- Materiales: eachable Machine - Webcam - Editor de p5js - Ml5 - Markdown para escribir este documento
-- Versión de software:
-- Tipo de tecnología:
+- (https://editor.p5js.org/Valentina_09/sketches/g2RbswnvZu)
+  
+#### Materiales: 
+
+- eachable Machine
+- Webcam
+- Editor de p5js
+- Ml5
+- Markdown para escribir este documento
+  
+#### Versión de software:
+
+#### Tipo de tecnología:
 
 ## Idea de Proyecto
 
