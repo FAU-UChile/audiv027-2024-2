@@ -2,7 +2,7 @@
 ## Investigación Previa
 - Constantine Lobos / Diego Castillo
 - Para 2 semanas más
-- Idea: Breaking Bad y el reemplazo de rostros
+- Idea: Breaking Bad y el reemplazo de rostros (a la mitad) en base a selección de personajes
 
 # APUNTES
 * ¿Quién hizo Wekinator? - Rebecca Fiebrink
