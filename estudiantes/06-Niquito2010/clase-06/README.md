@@ -3,7 +3,8 @@
 ## Proyecto Snake Game con control Gestual
 
 - Integrantes de grupo: Natalie Astudillo (https://github.com/NAF02) - Valentina Ochoa (https://github.com/ValentinaOchoa09?tab=repositories)
-- Código: // Carga del modelo de Teachable Machine
+- Código:
+// Carga del modelo de Teachable Machine
 let poseModelURL = 'https://teachablemachine.withgoogle.com/models/29Q7HHyno/';
 
 // Variables video y poseNet
