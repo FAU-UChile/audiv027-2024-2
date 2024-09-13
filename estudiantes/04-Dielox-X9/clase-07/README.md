@@ -5,8 +5,10 @@
 - LOREM IPSUM
 
 ---
-# BREAK
+# *BREAK*
 
 ## Segunda Parte:
 
 - LOREM IPSUM
+
+# CIERRE DE CLASE
