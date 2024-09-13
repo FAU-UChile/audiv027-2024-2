@@ -12,7 +12,8 @@
 * p5.dom ya no se usa
 * La gestión de JavaScript en HTML y viceversa
 * La importancia de exportar los archivos
-* Le profe estuvo gestionando el código y arreglando un par de errores al traspasar el archivo a p5, logrando que el programa diferenciara los elementos
+* Le profe estuvo gestionando el código y arreglando un par de errores al traspasar el archivo a p5, logrando que el programa diferenciara los elementos- 
+* Le profe ofrece un 7.0 a la persona que pueda meterse al github para la persona que pueda enviar una sugerencia de cambio en el sistema de ml5 y p5 para que puedan agilizar ese proceso de cambio
 
 ## PÁGINAS Y RECURSOS
 - ml5.org
