@@ -24,3 +24,8 @@
 *Entrenar mdelo 
 * Después hay que exportarlo y que corra en P5
 * https://editor.p5js.org/montoyamoraga/sketches/uG1sOH1QE
+
+## TRABAJO DETECCIÓN DE ROSTROS
+- Referencias a Andreas
+- Detección de rostros
+- Entrenar modelo en base a ciertos criterios
