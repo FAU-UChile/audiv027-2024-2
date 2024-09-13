@@ -10,3 +10,5 @@
 ## Segunda Parte:
 
 - LOREM IPSUM
+
+# CIERRE DE CLASE
