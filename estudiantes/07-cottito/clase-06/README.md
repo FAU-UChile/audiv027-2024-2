@@ -19,3 +19,8 @@
 - ml5.org
 - p5js.org
 - Teachable Machine
+
+## GESTIONAR MODELO 
+*Entrenar mdelo 
+* Después hay que exportarlo y que corra en P5
+* https://editor.p5js.org/montoyamoraga/sketches/uG1sOH1QE
