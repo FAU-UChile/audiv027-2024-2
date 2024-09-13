@@ -44,3 +44,5 @@ Sensibilidad Artificial:
 es un trabajo  orientado a cuestiona los limites de la ia si es que puede remplazar al humano 
 https://github.com/FAU-UChile/audiv027-2024-1/tree/main/estudiantes/09-chicomaker/clase-14
 
+tonejs (buscar)
+
