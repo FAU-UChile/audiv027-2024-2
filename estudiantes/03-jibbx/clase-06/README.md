@@ -46,3 +46,17 @@ Proyecto:
   
 **MOVIMIENTO - SONIDO** 
 Musica-Tonos-Sonidos activados por el movimiento del cuerpo, deteccion por webcam.
+  
+_________________________________________________________________________________________________________  
+https://teachablemachine.withgoogle.com/  
+
+Tensorflow.js = Trabaja en Javascript  
+
+https://editor.p5js.org/jibbx/sketches/__eDY7e3z
+
+1. Entrenar Teachable Machine
+2. Generar codigo - Tensorflow.js
+3. Agregar codigo a la consola de p5
+    - HTML = Solo el script de descarga de ML5 [Actualizamos la version de ML5 - De **ml5@latest** a la **ml5@0.12.2**]
+    - El resto del codigo en sketch.js
+4. 
