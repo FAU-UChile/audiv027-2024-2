@@ -2,7 +2,8 @@
 
 ## Proyecto Snake Game con control Gestual
 
-- Integrantes de grupo:
+- Integrantes de grupo: Natalie Astudillo (https://github.com/NAF02)
+                        Valentina Ochoa (https://github.com/ValentinaOchoa09?tab=repositories)
 - Código:
 - Materiales:
 - Versión de software:
