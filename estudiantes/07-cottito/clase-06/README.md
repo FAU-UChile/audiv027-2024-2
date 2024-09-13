@@ -34,3 +34,6 @@ PASOS
 - Entrenar modelo en base a ciertos criterios
 - El modelo analiza las facciones
 - Se reemplaza el modelo antiguo con el modelo nuevo
+
+
+https://editor.p5js.org/cottito/sketches/hvcwe5gcs
