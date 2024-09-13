@@ -10,6 +10,7 @@
 * Para el trabajo puntual, que exista la mención de la versión del programa
 * De teachable Machine a p5js
 * p5.dom ya no se usa
+* La gestión de JavaScript en HTML y viceversa
 
 ## PÁGINAS Y RECURSOS
 - ml5.org
