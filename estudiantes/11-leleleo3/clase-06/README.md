@@ -43,6 +43,9 @@ https://github.com/FAU-UChile/audiv027-2024-1/tree/main/estudiantes/04-angebv00/
 
 ### Ideas en base a intereses personales
 
-imagen
-imagen
-imagen
+"ChainmailChasers"
+
+![smiledog1 copy](https://github.com/user-attachments/assets/2882712a-1fd1-4e29-b373-f7862405a820)
+
+![smiledog2](https://github.com/user-attachments/assets/11e46cf2-4393-4e01-8163-0720154065c6)
+
