@@ -28,9 +28,9 @@
 - Vemos que <Script> se le da uso en el lenguaje de HTML, también se le puede ordenar al modelo que lea otro archivo y así nos despejamos un poco el código el cual se puede leer en otro sector del código.
 
 ---
-## Tercera Parte: Trabajo Grupal - Constantine Lobos / Diego Castillo
+## Tercera Parte: Trabajo Grupal - Diego Castillo / Constantine Lobos
 
-Proyecto a desarrollar: Face/Off
+Proyecto a desarrollar (Nombre tentativo): ***Face/Off***
 
 *PASOS DE LA IDEA*
 
@@ -42,7 +42,7 @@ Proyecto a desarrollar: Face/Off
 
 - Reconstruir rostro Superponiendo cara encima de modelo base.
 
-- FELICITACIONES YA LO TIENES😄.
+- ***FELICITACIONES YA LO TIENES😄.***
 
 ---
 # *BONUS*
