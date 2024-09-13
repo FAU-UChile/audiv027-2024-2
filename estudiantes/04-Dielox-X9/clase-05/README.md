@@ -39,6 +39,6 @@ BREAK
 - El paso decicivo es entrenar la IA con un texto de uso libre, este modelo se demora en entrenarse.
 
 ---
-BONUS
+# BONUS
 
-- 
+- CHAT GPT produce 422 millones de toneladas al año, consumen un litro de agua por cada 100 preguntas.
