@@ -27,6 +27,20 @@ Continuous black flowers with a white circle center draw on a dark grey backgrou
   
 https://editor.p5js.org/p5/sketches/Drawing:_Pulses  
 
+**{(’You are the only one here’)}***  
+PERFORMANCE | 2021 - Lisa Jamhoury  
+
+Developed during the SloMoCo Spring 2021 Micro-residency 
+DesignSpace, Phoenix, AZ, 2021 
+Ars Electronica Concrete House (virtual), 2021  
+
+Performance set inside a one-person video call. Inside the call, the performer and her mirror image are tracked as two separate people by a machine learning algorithm. As they move closer toward each other, their two bodies combine into one, and the algorithm creates an abstract shape based on the combined body’s movements.  
+
+
+
+
+https://lisajamhoury.com/you-are-the-only-one-here
+
   
 Proyecto:
   
