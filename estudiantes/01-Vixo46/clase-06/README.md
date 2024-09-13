@@ -57,7 +57,7 @@ Trabajo inspirado en proyectos de la biblioteca de p5 y ml5js, `Handpose` y `Dra
 ------------------------------------------------------------------------------------------------------------------------
 
 
-
+*Me gustaria realizar proyecto que sea a partir de un teclado midi, que genere algun tipo de material grafico, imagenes, formas, etc. en base a al sonido que emita con algun plugin, instrumento digital.*
 
 
 
