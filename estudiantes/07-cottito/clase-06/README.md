@@ -9,5 +9,7 @@
 * Numpy - Gráfica númerica de Python
 * Para el trabajo puntual, que exista la mención de la versión del programa
 
-## PUNTUAL
+## PÁGINAS Y RECURSOS
+- ml5.org
+- p5js.org
 
