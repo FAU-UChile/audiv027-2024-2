@@ -46,3 +46,10 @@ Proyecto:
   
 **MOVIMIENTO - SONIDO** 
 Musica-Tonos-Sonidos activados por el movimiento del cuerpo, deteccion por webcam.
+  
+_________________________________________________________________________________________________________  
+https://teachablemachine.withgoogle.com/  
+
+Tensorflow.js = Trabaja en Javascript  
+
+
