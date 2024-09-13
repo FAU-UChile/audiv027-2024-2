@@ -11,3 +11,7 @@
 - *https://github.com/FAU-UChile/audiv027-2024-1/tree/main/estudiantes/07-vickgit201/clase-06*
 
 - *https://github.com/FAU-UChile/audiv027-2024-1/tree/main/estudiantes/15-NaimRoman/clase-06*
+
+- Las posibilidadas son muy variadas.
+
+- Las investigaciones sobre los desarrolladores de software, es mejor buscarlos en páginas oficiales y no preguntarle a google. Se puede equivocar.
