@@ -28,5 +28,9 @@
 
 ## TRABAJO DETECCIÓN DE ROSTROS
 - Referencias a Andreas
+PASOS
 - Detección de rostros
+- Entrenar base de datos
 - Entrenar modelo en base a ciertos criterios
+- El modelo analiza las facciones
+- Se reemplaza el modelo antiguo con el modelo nuevo
