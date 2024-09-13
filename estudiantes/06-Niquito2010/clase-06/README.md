@@ -18,10 +18,6 @@
 - Editor de p5js
 - Ml5
 - Markdown para escribir este documento
-  
-#### Versión de software:
-
-#### Tipo de tecnología:
 
 ## Idea de Proyecto
 
