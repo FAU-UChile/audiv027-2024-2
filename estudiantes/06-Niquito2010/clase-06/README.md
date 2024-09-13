@@ -22,3 +22,7 @@
 ## Idea de Proyecto
 
 - Hacer un proyeto similar pero que el movimiento de la serpiente se haga con seguimiento ocular
+
+## Teacheable Machine
+
+- Herramienta que nos permite crear modelos de entrenamiento automático,  para que reconozca nuesras imágenes, sonidos y gestos, con la finalidad de exportar el modelo un sitio externo.
