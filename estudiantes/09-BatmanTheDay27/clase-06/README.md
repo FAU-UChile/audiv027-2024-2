@@ -19,3 +19,7 @@
 - <script es para abrir un comentario. link, etc. Y el cierre de este texto es: >script (creo), o es <>/script>?
 
 - Para poder entrenar una ia podemos utilizar: [https://teachablemachine.withgoogle.com/train.](https://teachablemachine.withgoogle.com/)
+
+- ENTRENAR MODELO
+
+- 
