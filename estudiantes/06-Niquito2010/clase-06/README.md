@@ -13,7 +13,7 @@
   
 #### Materiales: 
 
-- eachable Machine
+- Teachable Machine
 - Webcam
 - Editor de p5js
 - Ml5
