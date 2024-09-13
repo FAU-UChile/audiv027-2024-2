@@ -3,9 +3,13 @@
 ## Proyecto Snake Game con control Gestual
 
 #### Integrantes de grupo: 
---Natalie Astudillo (https://github.com/NAF02) 
---Valentina Ochoa (https://github.com/ValentinaOchoa09?tab=repositories)
-- Código: (https://editor.p5js.org/Valentina_09/sketches/g2RbswnvZu)
+
+-Natalie Astudillo (https://github.com/NAF02) 
+-Valentina Ochoa (https://github.com/ValentinaOchoa09?tab=repositories)
+
+#### Código: 
+
+-(https://editor.p5js.org/Valentina_09/sketches/g2RbswnvZu)
 - Materiales: eachable Machine - Webcam - Editor de p5js - Ml5 - Markdown para escribir este documento
 - Versión de software:
 - Tipo de tecnología:
