@@ -26,8 +26,8 @@
 * https://editor.p5js.org/montoyamoraga/sketches/uG1sOH1QE
 * (los 3 archivos descargados se colocan en el p5)
 
-## TRABAJO DETECCIÓN DE ROSTROS
-- Referencias a Andreas
+## TRABAJO DETECCIÓN DE ROSTROS FACE/OFF (Nombre Tentativo de Proyecto) - Diego Castillo/Constantine
+ (Referencias a Andreas)
 PASOS
 - Detección de rostros
 - Entrenar base de datos
