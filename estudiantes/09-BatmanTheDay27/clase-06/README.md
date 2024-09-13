@@ -22,4 +22,4 @@
 
 - ENTRENAR MODELO
 
-- 
+- https://editor.p5js.org/BatmanTheDay27/sketches/YeH3e-lP6h
