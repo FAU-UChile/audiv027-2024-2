@@ -11,6 +11,7 @@
 * De teachable Machine a p5js
 * p5.dom ya no se usa
 * La gestión de JavaScript en HTML y viceversa
+* La importancia de exportar los archivos
 
 ## PÁGINAS Y RECURSOS
 - ml5.org
