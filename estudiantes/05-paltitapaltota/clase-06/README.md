@@ -4,7 +4,7 @@
 
 https://github.com/FAU-UChile/audiv027-2024-1
 
-me di cuenta que muchos trabajos de esta seccion usan wekinator
+me di cuenta que muchos trabajos de esta seccion usan wekinator hecho por Rebecca Fiebrink.
 
 # Control de gamepad-keyboard a traves de poses
 
