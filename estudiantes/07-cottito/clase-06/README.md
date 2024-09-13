@@ -9,6 +9,7 @@
 * Numpy - Gráfica númerica de Python
 * Para el trabajo puntual, que exista la mención de la versión del programa
 * De teachable Machine a p5js
+* p5.dom ya no se usa
 
 ## PÁGINAS Y RECURSOS
 - ml5.org
