@@ -17,14 +17,25 @@
 - https://teachablemachine.withgoogle.com
 
 ---
-# BREAK
+# *BREAK*
 
 ## Segunda Parte: Como entrenar tu modelo
 
-- En https://teachablemachine.withgoogle.com/ una vez creado tu modelo lo puedes exportar en TENSORFLOW.js (Corre con JAVASCRIPT)
+- En https://teachablemachine.withgoogle.com/ una vez creado tu modelo lo puedes exportar en TENSORFLOW.js (Corre con JAVASCRIPT).
 
 - Se nos explica que cosas de la exprtación está obsoleta y que debemos hacer para cambiarlo.
 
-- vemos que <Script> se le da uso en el lenguaje de HTML, también se le puede ordenar al modelo que lea otro archivo y así nos despejamos un poco el código el cual se puede leer en otro sector del código.
+- Vemos que <Script> se le da uso en el lenguaje de HTML, también se le puede ordenar al modelo que lea otro archivo y así nos despejamos un poco el código el cual se puede leer en otro sector del código.
+
+---
+# *BONUS*
+
+Instrucciones:
+
+- ENTRENAR MODELO https://teachablemachine.withgoogle.com/.
+
+- Exportarlo y Correrlo en P5 https://p5js.org/.
+
+- Explicar como se logró o por qué no se logró.
 
 # CIERRE DE CLASE
