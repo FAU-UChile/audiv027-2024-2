@@ -1,6 +1,6 @@
 # clase 5: RESUMEN
  
-## Primer parte: Proyecto Metro Santiago Simulator
+## Primera parte: Proyecto Metro Santiago Simulator
 - Al comenzar la clase nos encontramos con nuestro compañero Grabiel Castillo, quién nos ha explicado su proyecto personal, el cual consiste en un simulador del metro de santiago.
 
 - Dejó a algunos voluntarios hacer uso del simulador, este proyecto también fue presentado en el festival internacional del cine de santiago XR (SANFIC).
