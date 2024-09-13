@@ -15,3 +15,7 @@
 - Las posibilidadas son muy variadas.
 
 - Las investigaciones sobre los desarrolladores de software, es mejor buscarlos en páginas oficiales y no preguntarle a google. Se puede equivocar.
+
+<script es para abrir un comentario. link, etc. Y el cierre de este texto es: <>/script>
+
+- Para poder entrenar una ia podemos utilizar: [https://teachablemachine.withgoogle.com/train.](https://teachablemachine.withgoogle.com/)
