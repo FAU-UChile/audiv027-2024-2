@@ -12,6 +12,7 @@
 * p5.dom ya no se usa
 * La gestión de JavaScript en HTML y viceversa
 * La importancia de exportar los archivos
+* Le profe estuvo gestionando el código y arreglando un par de errores al traspasar el archivo a p5, logrando que el programa diferenciara los elementos
 
 ## PÁGINAS Y RECURSOS
 - ml5.org
