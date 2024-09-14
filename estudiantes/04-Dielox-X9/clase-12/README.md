@@ -5,7 +5,7 @@
 - LOREM IPSUM
 
 ---
-# BREAK
+# *BREAK*
 
 ## Segunda Parte:
 
