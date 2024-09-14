@@ -19,3 +19,21 @@
 - ml5.org
 - p5js.org
 - Teachable Machine
+
+## GESTIONAR MODELO 
+*Entrenar mdelo 
+* Después hay que exportarlo y que corra en P5
+* https://editor.p5js.org/montoyamoraga/sketches/uG1sOH1QE
+* (los 3 archivos descargados se colocan en el p5)
+
+## TRABAJO DETECCIÓN DE ROSTROS FACE/OFF (Nombre Tentativo de Proyecto) - Diego Castillo/Constantine
+ (Referencias a Andreas)
+PASOS
+- Detección de rostros
+- Entrenar base de datos
+- Entrenar modelo en base a ciertos criterios
+- El modelo analiza las facciones
+- Se reemplaza el modelo antiguo con el modelo nuevo
+
+
+https://editor.p5js.org/cottito/sketches/hvcwe5gcs
