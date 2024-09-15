@@ -46,3 +46,10 @@ https://github.com/FAU-UChile/audiv027-2024-1/tree/main/estudiantes/09-chicomake
 
 tonejs (buscar)
 
+
+https://editor.p5js.org/montoyamoraga/sketches/uG1sOH1QE
+
+
+tarea entrenar modelo 
+
+https://editor.p5js.org/paltitapaltota/sketches/DbNdzDfDy
