@@ -15,3 +15,6 @@ Nos gustaría usar esta imagen de referencia donde la persona que entre al proye
 Tomamos de referencia el ejercicio de mr bean donde el cursos determinaban el movimiento de la imagen.
 
 ahora break a comer pls no he almorzado.
+
+El profe nos corrigió que no usemos gifts solo videos y de preferencia en firefox.
+Comand i Herramienta de desarrollador que es donde nos muestra donde están los fallos de las cosas de una manera interna de los datos (como un hacker) 
