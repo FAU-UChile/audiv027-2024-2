@@ -49,6 +49,8 @@ mi equipo de trabajo es <https://github.com/NOMBRE> y <<https://github.com/NOMBR
 
 ----------
  
+TRABAJO en clase 8 de @MauroSSJ24
+
  agregar a  p5 para cambiar version 
  
  <!--inicio teachable machine-->
