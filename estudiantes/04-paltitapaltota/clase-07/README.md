@@ -25,3 +25,5 @@ Géneros que usaremos para entrenar en teachable machine : Jpop, Pop, Rock, Hip-
 
 referentes musicales en : https://musicmap.info/
 
+mientra hablabamos con el profesor quisimos llevar esta idea mas alla vamos a clasificar  en tres categorias los generos musicales miku hatsune, luis miguel, gustos de leandro. queremos ver y analizar  los datos que nos entrega la maquina para ver que ocurre cuando lanzamos canciones referentes a esos generos o diferentes a ellos  
+
