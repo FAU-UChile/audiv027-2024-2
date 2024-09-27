@@ -1,36 +1,18 @@
 # clase
-## Proceso de Trabajo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## instrucciones de trabajo de mitad de semestre
 
 - se empieza hoy
-- se entrega el próximo viernes hasta las 2:00pm, vía GitHub, en tu fork.
+- se entrega el próximo viernes 04 octubre hasta las 2:00pm, vía GitHub, en tu fork.
 - si hay un commit posterior, no se tomará en cuenta
 - el proyecto es en grupos de 2 o 3 personas
-- el proyecto se hace con la tecnología que ustedes quieran
+- el proyecto se hace con la tecnología que ustedes quieran:
 - el proyecto se presenta en clases, mostrando los contenidos de la entrega en GitHub
 - el proyecto es sobre lo que hemos visto en clases, posibles formatos:
-  - proyecto de inteligencia artificial hecho con p5.js, ml5.js, Wekinator, Teachable Machine, etc.
-  - proyecto de inteligencia artificial hecho a partir de GitHub, Google Colab, etc
-  - investigación sobre bases de datos
-  - tutoriales sobre herramientas hechas en clases
-  - adaptación de ejemplos vistos en clases
+  - proyecto de inteligencia artificial hecho con p5.js, ml5.js, Wekinator, Teachable Machine, etc.:
+  - proyecto de inteligencia artificial hecho a partir de GitHub, Google Colab, etc:
+  - investigación sobre bases de datos:
+  - tutoriales sobre herramientas hechas en clases:
+  - adaptación de ejemplos vistos en clases:
 
 ## pauta
 
@@ -62,3 +44,12 @@ la pauta es:
 ```md
 mi equipo de trabajo es <https://github.com/NOMBRE> y <<https://github.com/NOMBRE>>, entregamos en el repositorio en este enlace <https://github.com/disenoUChile/audiv027-2024-1/estudiantes/NOMBRE/clase-06>.
 ```
+## PROYECTO
+Equipo:
+
+-Javier Burgos
+
+-Nicolás Lagos
+
+-Valentina Soto 
+

@@ -1,21 +1,7 @@
 # clase
-## Proceso de Trabajo
+PAUTA PARA LA EVALUACION DEL PRIMER TRABAJO EN GRUPO.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ # clase-07
 
 ## instrucciones de trabajo de mitad de semestre
 
@@ -62,3 +48,24 @@ la pauta es:
 ```md
 mi equipo de trabajo es <https://github.com/NOMBRE> y <<https://github.com/NOMBRE>>, entregamos en el repositorio en este enlace <https://github.com/disenoUChile/audiv027-2024-1/estudiantes/NOMBRE/clase-06>.
 ```
+--------------------
+Conformacion de grupo: sebasebamv - PaolaGarcia24 - MauroSSJ24
+
+Ideas para el primer trabajo en grupo... 
+Selecionar las bebidas respecto a los gustos apareciendo imagenes_2 OPCIONES
+Segun preguntas al profe:
+Idea proyecto 1: 
+Identificacion de dos bebidas de nuestro gusto al momenot de mostrar en camara.
+
+Tomando en cuenta lo aprendido en la clases anterior con el modelo de Teachable Machine. https://teachablemachine.withgoogle.com/train
+El experimento consta de replicar el ejercicio anterior, entrenando la herramienta para que logre identificar entre 2 tipos de bebida y una tercera opcion.
+Entonces se eligen la coca-cola y la pepsi por su notoria rivalidad y popularidad.
+La tercera opcion corresponde a ninguna otra porque son las dos mejores bebidas del mundo y ninguna se le acerca a su impresionante sabor. 
+Luego de esto la gracia es mostrar una imagen correspondiente en cada de las opciones de este experimento, con tal de juzgar los malos gustos de los demas. 
+
+
+
+
+
+
+
