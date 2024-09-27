@@ -65,6 +65,15 @@ Luego de esto la gracia es mostrar una imagen correspondiente en cada de las opc
 
 
 
+ERRORES DETECTADOS:
+COMENTARIOS EN FLIPPEDVIDEO
+COMENTARIO EN LINEA 8 
+
+nos basamos en el ejemplo de Vixo46 para arreglar los errores de p5 del codigo entrenado. 
+copiamos y destruimos su codigo para adaptarlo al nuestro, para poder correr nuestro codigo, logrando que funcione.
+
+Luego al seguir revisando y corroborando paso a paso los dos codigos, nos dimos cuenta que NO GUARDAMOS EL COGIDO DENTRO DE P5, lo que nos generaba el error y no funcionaba el codigo. (la mala costumbre de no guardar) 
+
 
 
 
