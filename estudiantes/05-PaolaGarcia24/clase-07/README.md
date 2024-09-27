@@ -45,3 +45,11 @@ la pauta es:
 ```md
 mi equipo de trabajo es <https://github.com/NOMBRE> y <<https://github.com/NOMBRE>>, entregamos en el repositorio en este enlace <https://github.com/disenoUChile/audiv027-2024-1/estudiantes/NOMBRE/clase-06>.
 ```
+
+
+programacion para detectar bebidas 
+El propósito de este proyecto es poder detectar que tipo que
+
+como primer punto nos dimos a la tarea de poder encontrar diferentes botellas de bebidas para poder entrenar al programa
+En teachable machine hicimos que reconociera 3 elementos los 2 principales son Coca Cola y Pepsi, dentro del tercer elemento le mostramos diversos colores y botella para que con ello identifique a otros elementos, ese elemento lleva por nombre "wacala" dando alusión a que cualquier cosa que no sea ni pepsi ni coca no es agradable :)
+una vez entrenado el sistema lo copiamos a p5
