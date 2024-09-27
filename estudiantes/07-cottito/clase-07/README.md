@@ -1,6 +1,7 @@
 # clase
 ## Proceso de Trabajo
-
+* Se decidió trabajar con el modelo de FaceMesh, con la intención de usar esa malla para reemplazar el rostro con otra imagen
+* Como idea, los rostros que se mostrarían encima de la grilla serían personajes de Breaking Bad
 
 
 
@@ -15,6 +16,7 @@
 * https://mit-cml.github.io/yrtoolkit/yr/tutorials/facemesh.html
 * https://ai.google.dev/edge/mediapipe/solutions/vision/face_landmarker?hl=es-419
 * https://mediapipe-studio.webapps.google.com/demo/face_landmarker?hl=es-419
+* https://www.youtube.com/watch?v=ZXK8eFi0yKs
 
 
 
