@@ -48,7 +48,6 @@ mi equipo de trabajo es <https://github.com/NOMBRE> y <<https://github.com/NOMBR
 
 
 
-
 # HOLA 
 
 con mi dupla estamos haciendo un trabajo con reconocimiento de cara y objetos, se llama "malgenio hater", ya lo verán
