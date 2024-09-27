@@ -17,10 +17,11 @@
 * https://ai.google.dev/edge/mediapipe/solutions/vision/face_landmarker?hl=es-419
 * https://mediapipe-studio.webapps.google.com/demo/face_landmarker?hl=es-419
 * https://www.youtube.com/watch?v=ZXK8eFi0yKs
+* https://editor.p5js.org/p5/sketches
 
 
-
-
+## Progreso de Trabajo
+* https://editor.p5js.org/cottito/sketches/rOvRVM_xn
 
 
 ## instrucciones de trabajo de mitad de semestre
