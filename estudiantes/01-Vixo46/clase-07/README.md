@@ -46,5 +46,5 @@ la pauta es:
 
 
 ```md
-mi equipo de trabajo es <https://github.com/Vixo46> y <<https://github.com/marcegato>>, entregamos en el repositorio en este enlace <https://github.com/disenoUChile/audiv027-2024-1/estudiantes/Vixo46/clase-08>.
+mi equipo de trabajo es <https://github.com/Vixo46> y <<https://github.com/marcegato>>, entregamos en el repositorio en este enlace <https://github.com/Vixo46/audiv027-2024-2/tree/main/estudiantes/01-Vixo46/clase-08>.
 ```
