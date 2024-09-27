@@ -36,11 +36,6 @@ la pauta es:
 ## requisitos formales de la entrega
 
 - subir a tu carpeta de tu clase-07 tu proceso al final de la clase de hoy, y luego a la clase-08 tu entrega final, incluyendo TODOS tus archivos.
-
-
-
-#PROYECTO:
-
 - variables y archivos sin espacios, en camelCase o notación camello.
 - los comentarios se escriben en la línea de arriba del código
 - los comentarios se escriben en español
@@ -49,3 +44,12 @@ la pauta es:
 ```md
 mi equipo de trabajo es <https://github.com/NOMBRE> y <<https://github.com/NOMBRE>>, entregamos en el repositorio en este enlace <https://github.com/disenoUChile/audiv027-2024-1/estudiantes/NOMBRE/clase-06>.
 ```
+## PROYECTO
+Equipo:
+
+-Javier Burgos
+
+-Nicolás Lagos
+
+-Valentina Soto 
+
