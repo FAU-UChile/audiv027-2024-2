@@ -7,10 +7,14 @@
 
 
 
-
-
-
-
+## Links y Referentes
+* https://docs.ml5js.org/#/reference/facemesh
+* https://github.com/tensorflow/tfjs-models/tree/master/face-landmarks-detection
+* https://github.com/tensorflow/tfjs-models/tree/master/face-landmarks-detection/demos
+* https://teachablemachine.withgoogle.com/train
+* https://mit-cml.github.io/yrtoolkit/yr/tutorials/facemesh.html
+* https://ai.google.dev/edge/mediapipe/solutions/vision/face_landmarker?hl=es-419
+* https://mediapipe-studio.webapps.google.com/demo/face_landmarker?hl=es-419
 
 
 
