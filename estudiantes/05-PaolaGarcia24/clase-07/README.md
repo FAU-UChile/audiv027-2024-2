@@ -1,4 +1,3 @@
-# clase
 # clase-07
 
 ## instrucciones de trabajo de mitad de semestre
