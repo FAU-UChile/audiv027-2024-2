@@ -2,17 +2,17 @@
 ## instrucciones de trabajo de mitad de semestre
 
 - se empieza hoy
-- se entrega el próximo viernes hasta las 2:00pm, vía GitHub, en tu fork.
+- se entrega el próximo viernes 04 octubre hasta las 2:00pm, vía GitHub, en tu fork.
 - si hay un commit posterior, no se tomará en cuenta
 - el proyecto es en grupos de 2 o 3 personas
-- el proyecto se hace con la tecnología que ustedes quieran
+- el proyecto se hace con la tecnología que ustedes quieran:
 - el proyecto se presenta en clases, mostrando los contenidos de la entrega en GitHub
 - el proyecto es sobre lo que hemos visto en clases, posibles formatos:
-  - proyecto de inteligencia artificial hecho con p5.js, ml5.js, Wekinator, Teachable Machine, etc.
-  - proyecto de inteligencia artificial hecho a partir de GitHub, Google Colab, etc
-  - investigación sobre bases de datos
-  - tutoriales sobre herramientas hechas en clases
-  - adaptación de ejemplos vistos en clases
+  - proyecto de inteligencia artificial hecho con p5.js, ml5.js, Wekinator, Teachable Machine, etc.:
+  - proyecto de inteligencia artificial hecho a partir de GitHub, Google Colab, etc:
+  - investigación sobre bases de datos:
+  - tutoriales sobre herramientas hechas en clases:
+  - adaptación de ejemplos vistos en clases:
 
 ## pauta
 
@@ -36,6 +36,11 @@ la pauta es:
 ## requisitos formales de la entrega
 
 - subir a tu carpeta de tu clase-07 tu proceso al final de la clase de hoy, y luego a la clase-08 tu entrega final, incluyendo TODOS tus archivos.
+
+
+
+#PROYECTO:
+
 - variables y archivos sin espacios, en camelCase o notación camello.
 - los comentarios se escriben en la línea de arriba del código
 - los comentarios se escriben en español
