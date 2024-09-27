@@ -20,4 +20,16 @@ Idea base de lo que queremos hacer. Una pequeña zona (abajo, esquina derecha) q
 
 Además de esto, pensamos basarnos en la progresión de Mr. Bean. En este sentido, sería un gif creado por nosotres que avance según el movimiento del cursor.
 
+- [https://stackoverflow.com/questions/37374411/is-it-possible-to-make-an-image-move-with-the-cursor-when-the-cursor-reaches-the] Entrada que encontramos que contiene código para definir el espadio por el que puede moverse el cursor.
 
+- [https://www.quora.com/How-can-I-make-an-image-move-and-follow-the-mouse-cursor-on-a-web-page] How can I make an image move and follow the mouse cursor on a web page?
+
+- [https://p5js.org/examples/imported-media-video/] Video player, p5.js
+
+- [https://p5js.org/examples/imported-media-video-canvas/] Video canvas, p5.js
+
+- [https://p5js.org/examples/animation-and-variables-animation-with-events/] ANimation with events, p5.js
+
+- 
+
+Anotar lo que dijo le profe.
