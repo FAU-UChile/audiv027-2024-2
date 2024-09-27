@@ -9,6 +9,7 @@ Paula faray
 
 
 la problematica: Personas que no son capaces de reconocer géneros musicales https://www.reddit.com/r/LetsTalkMusic/comments/mem3pd/i_feel_like_i_cant_identifyunderstand_music_genres/
+![image](https://github.com/user-attachments/assets/bea5a365-6055-45ec-b416-97ad5ba0f14f)
 
 
 oportunudad: generar un proyecto que pueda detectar los principales géneros y variantes, que esten presentes en el audio musical que desee clasificar.
