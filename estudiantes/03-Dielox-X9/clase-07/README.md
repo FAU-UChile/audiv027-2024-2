@@ -1,14 +1,11 @@
 # clase 7: RESUMEN
 
-## Primera Parte: 
+## Primera Parte: Desarrollo de código
 
-- LOREM IPSUM
+- Se nos encargó modificar un código de ML5M PARA NUESTRO proyecto
 
----
-# *BREAK*
+- Links utiles:
 
-## Segunda Parte:
-
-- LOREM IPSUM
+https://github.com/auduno/clmtrackr
 
 # CIERRE DE CLASE
