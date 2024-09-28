@@ -44,9 +44,14 @@ la pauta es:
 
 ```md
 mi equipo de trabajo es <https://github.com/NOMBRE> y <<https://github.com/NOMBRE>>, entregamos en el repositorio en este enlace <https://github.com/disenoUChile/audiv027-2024-1/estudiantes/NOMBRE/clase-06>.
-```# clase
+```
 
 
 
+# HOLA 
 
-# HOLA con mi dupla queremos hacer un trabajo con reconocimiento de cara y objetos.
+con mi dupla estamos haciendo un trabajo con reconocimiento de cara y objetos, se llama "malgenio hater", ya lo verán
+
+mi dupla es <https://github.com/Vixo46>
+
+
