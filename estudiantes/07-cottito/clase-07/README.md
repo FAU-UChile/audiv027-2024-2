@@ -24,6 +24,7 @@
 ## Progreso de Trabajo
 * https://editor.p5js.org/cottito/sketches/rOvRVM_xn
 * https://editor.p5js.org/Dielox-X9/sketches/E5jqxzdb8
+* https://editor.p5js.org/cottito/sketches/2psk2RI5L
 
 
 ## instrucciones de trabajo de mitad de semestre
