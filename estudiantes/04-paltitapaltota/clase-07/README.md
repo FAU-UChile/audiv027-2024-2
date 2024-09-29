@@ -39,7 +39,7 @@ empezamos a entrenar la maquina con musica de luis miguel
 
 se realiza un primer modelo de practica para ver como funciona 
 le introducimos lo que es el ruido de fondo y luedo atravez del microfono le enseñamos que era luis miguel con la cancion "cuestion de piel"
-lo preparamos con 50 epocas ( aldkald) y nos da el modelo 
+lo preparamos con 50 epocas ( aldkald) y nos da el modelo  (insertar video)
 
 
 
