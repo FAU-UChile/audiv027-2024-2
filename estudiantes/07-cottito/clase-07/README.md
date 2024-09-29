@@ -18,10 +18,12 @@
 * https://mediapipe-studio.webapps.google.com/demo/face_landmarker?hl=es-419
 * https://www.youtube.com/watch?v=ZXK8eFi0yKs
 * https://editor.p5js.org/p5/sketches
+* https://p5js.org/reference/p5/createModel/
 
 
 ## Progreso de Trabajo
 * https://editor.p5js.org/cottito/sketches/rOvRVM_xn
+* https://editor.p5js.org/Dielox-X9/sketches/E5jqxzdb8
 
 
 ## instrucciones de trabajo de mitad de semestre
