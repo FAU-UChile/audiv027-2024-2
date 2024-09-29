@@ -3,7 +3,7 @@
 * Se decidió trabajar con el modelo de FaceMesh, con la intención de usar esa malla para reemplazar el rostro con otra imagen
 * Como idea, los rostros que se mostrarían encima de la grilla serían personajes de Breaking Bad
 * Con ayuda de tutoriales, pudimos colocar una base en el rostro, por ahora podemos trazar puntos en sectores del rostro de color negro (PUNTOS)
-
+* Modelo WEBGL
 
 
 
