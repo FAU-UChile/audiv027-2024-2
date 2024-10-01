@@ -1,1 +1,41 @@
-# clase
+# clase entrega
+
+INTEGRANTES:
+
+
+
+
+MOTIVACION:
+
+
+
+
+
+OBJETIVO:
+
+
+
+MATERIALES:
+
+
+
+
+PROCESO PASO A PASO:
+
+
+
+
+
+
+
+CONCLUSIONES:
+
+
+
+
+
+
+CITAS O REFERENTES:
+"Vixo46" 
+"Clase 06"
+
