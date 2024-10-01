@@ -16,9 +16,12 @@ Lograr entrenar un modelo de programacion mediante muestras hechas a travéz de 
 
 MATERIALES:
 
-Camara USB
-Teacheable Machine, https://teachablemachine.withgoogle.com/train
-p5.js, https://p5js.org/
+Camara USB.
+Teacheable Machine. 
+p5.js. 
+
+https://teachablemachine.withgoogle.com/train
+https://p5js.org/
 
 
 
@@ -42,6 +45,7 @@ PROCESO PASO A PASO:
 
 
 CONCLUSIONES:
+
 Nos basamos en el ejemplo de Vixo46 para arreglar los errores de p5 del codigo entrenado. Copiamos y destruimos su codigo para adaptarlo al nuestro, para poder correr nuestro codigo, logrando que funcione. Luego al seguir revisando y corroborando paso a paso los dos codigos, nos dimos cuenta que NO GUARDAMOS EL COGIDO DENTRO DE P5, lo que nos generaba el error y no funcionaba el codigo. (la mala costumbre de no guardar) Recordatorio: SIEMPRE APRETAR CTRL + S EN P5 DESDE UN PRINCIPIO.
 
 
