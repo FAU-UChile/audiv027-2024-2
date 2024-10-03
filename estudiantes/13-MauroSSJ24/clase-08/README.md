@@ -66,5 +66,7 @@ Nos basamos en el ejemplo de Vixo46 para arreglar los errores de p5 del codigo e
 
 CITAS O REFERENTES:
 
-"Vixo46" "Clase 06"
+"Vixo46" 
+
+"Clase 06"  https://github.com/MauroSSJ24/audiv027-2024-2/tree/main/estudiantes/13-MauroSSJ24/clase-06
 
