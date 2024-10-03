@@ -34,6 +34,23 @@ mientra hablabamos con el profesor quisimos llevar esta idea mas allá ,vamos a 
 
 Queremos ver y analizar  los datos que nos entrega la máquina para ver que ocurre cuando lanzamos canciones referentes a esos generos o diferentes a ellos  
 
-Fase 1 la máquina conoce lo que es bueno 
+Fase 1 Probando teacheable machine
 empezamos a entrenar la maquina con musica de luis miguel 
+
+se realiza un primer modelo de practica para ver como funciona 
+le introducimos lo que es el ruido de fondo y luedo atravez del microfono le enseñamos que era luis miguel con la cancion "cuestion de piel"
+lo preparamos con 50 epocas ( aldkald) y nos da el modelo  (insertar video)
+
+
+
+
+Al probarlo comprendimos que el modelo entiende que cualquier sonido solapando el sonido de fondo es luis miguel tambien como sonido de instrumental que no estuviera en las muestras de luis miguel tambien las tomama como ruido de fondo curiosamente esto sea aprobable por el microfono o otra variante que no estamos considerando ahora  , lo cual no cumple con nuestra espectativa . teacheable machine me dio una opcion de aumentar el numero de epocas para que fuera mas preciso ![image](https://github.com/user-attachments/assets/92a4c16f-c238-43cf-8f08-b0bf247cda11) pero tampoco cualquier sonido ya sea voz, aplauso incluso sonido ambiental que no estaba ahi al momdento dede hacer la muestra lo toma como luis miguel agregando que tambien es posible como no tiene mas clases con que comparar toma como sonido encima del sonido de fondo es luis miguel, no comprende como tal que es o el quien es luis miguel, sino sonido que esta solapando otro sonido.   
+en vez de enseñarle una cancion le enseñaremos un remix de las mejores canciones de luis miguel para que tenga mas elementos que aprender, esto lo haremos tambien con los otros topicos musicales que estamos toamndo ( miku hatsune y gustos musicales de Leandro).
+
+
+
+
+
+
+
 
