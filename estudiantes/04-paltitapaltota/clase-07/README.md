@@ -51,10 +51,18 @@ Sin embargo, descubrimos que cualquier sonido, ya sea una voz, aplausos o inclus
  
 Para mejorar este aspecto, hemos decidido modificar nuestra estrategia de entrenamiento. En lugar de enseñar al modelo una única canción de Luis Miguel, le proporcionaremos un remix que contenga una selección de sus mejores canciones. De esta manera, el modelo contará con más elementos y características para aprender, lo que esperamos mejore su capacidad de identificación. Esta misma estrategia se aplicará a los otros tópicos musicales que estamos utilizando, es decir, las canciones de Miku Hatsune y los gustos musicales de Leandro.
 
+tuvimos problemas para enseñarle lo demas topicos, posiblemente por el navegador, al cambiarlo teachable machine funciono nuevamente
+queriamos ver si el proyecto funciona en p5 antes de hacer el proyecto oficial pero al momento de subir el modelo hubo un problema con un archivo  
 
 
 
+![Captura de pantalla 2024-10-02 223627](https://github.com/user-attachments/assets/1a0a5b1d-9ab7-4fba-8632-5aaf6df9caae)
 
 
+
+![Captura de pantalla 2024-10-02 223627](https://github.com/user-attachments/assets/1a150efb-8b95-4119-bba7-1c158cf10faf)
+
+pesaba mas de lo normal por lo cual lo subimos el modelo atras ve un link que genera teachable machine
+![image](https://github.com/user-attachments/assets/9759d5c1-39ce-4a42-b508-595fee4a8256)
 
 
