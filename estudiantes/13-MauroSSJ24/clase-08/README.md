@@ -20,8 +20,10 @@ Lograr entrenar un modelo de programacion mediante muestras hechas a travéz de 
 MATERIALES:
 
 Camara USB.
+Botellas y latas de Bebidas.
 Teacheable Machine. 
 p5.js. 
+
 
 https://teachablemachine.withgoogle.com/train
 https://p5js.org/
