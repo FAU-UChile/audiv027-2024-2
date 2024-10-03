@@ -33,11 +33,16 @@ PROCESO PASO A PASO:
 
 1.- Planteamiento del experimento e idea base para el posterior plan de accion para lograr el objetivo que nos propusimos.
 
+
+
 2.- 
+![PROCESO 1_entrenamiento modelo](https://github.com/user-attachments/assets/5c812b5b-ad52-4da4-a5d8-87a887b514ed)
+
 
 3.-
 
 4.-
+
 
 5.-
 
