@@ -65,4 +65,12 @@ queriamos ver si el proyecto funciona en p5 antes de hacer el proyecto oficial p
 pesaba mas de lo normal por lo cual lo subimos el modelo atras ve un link que genera teachable machine
 ![image](https://github.com/user-attachments/assets/9759d5c1-39ce-4a42-b508-595fee4a8256)
 
+al cambiar la version de ml5 a la antiagua y al colocar el url corespondiente nos lanzo un error  TypeError: Failed to fetch
+ocurre cuando el navegador que hace solicitud para pedir una informacion pero no ocurre esto puede pasar por problemas de conectebilidad con internet problemas de la url o algun problema con la pagina o por El sitio web no deja que lo veas (cors).
+
+apuntamos que es por un tema mas de cors, no sabemos el porque pero hay internet pusimos correctamente la url y no hay problema al parece con teacheble machine o drive (donde se subio el modelo) lo cual no quisimos meternos mas en el problema perosi hacer un nuevo proyecto.
+
+### Lector de labios 
+queremos realizar un lector de labios sera un modelo basico pero queremos sentar bases y ver las capacidades que tiene teachable machine para detectar en este caso vocales solo con el movimiento de los labios .
+
 
