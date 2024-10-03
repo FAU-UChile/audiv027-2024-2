@@ -34,24 +34,43 @@ PROCESO PASO A PASO:
 x.- Planteamiento del experimento e idea base para el posterior plan de accion para lograr el objetivo que nos propusimos.
 
 
+x.- Preparacion de los materiales para las muestras del modelo
+![2](https://github.com/user-attachments/assets/ed61b34f-a7cb-4bf1-a453-ee7cf52ac140)
 
+
+x.-
+
+
+
+x.- Creacion de las muestras 
+![1](https://github.com/user-attachments/assets/797423cd-10b9-4da7-a2c9-d23016fca893)
+
+x.-
 
 
 
 x.- Entrenamiento de Teacheable Machine, una vez ya tomadas las muestras.
-![PROCESO 1_entrenamiento modelo](https://github.com/user-attachments/assets/5c812b5b-ad52-4da4-a5d8-87a887b514ed)
+![PROCESO 1_entrenamiento modelo (2)](https://github.com/user-attachments/assets/98417ffd-9eba-4d09-833b-0e6d9544a8fa)
 
+
+
+x.-
+![Modelo entrenado_](https://github.com/user-attachments/assets/903e3054-a7af-42af-bbe9-40c842cdf688)
 
 x.-
 
 x.-
 
 
-x.-
+x.- Descarga y exportacion del Modelo Entrenado para su posterior Programacion en p5.js
+![pasopara descargar modelo](https://github.com/user-attachments/assets/93cd38dd-52e2-445b-aef2-91b2c13fac61)
 
 x.-
 
 x.-
+
+
+
 
 
 
