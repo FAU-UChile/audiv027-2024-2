@@ -90,6 +90,7 @@ La lectura de labios, o más recientemente conocida como lectura labiofacial, es
 
 A pesar de su utilidad, la lectura labiofacial presenta algunas limitaciones. No todos los sonidos se visualizan claramente, como es el caso de ciertas letras como la "j", "g" y "c", ya que no hay una gesticulación labial clara asociada a ellas. Además, algunos sonidos se ven muy similares entre sí, lo que dificulta su diferenciación. Factores externos como la iluminación también pueden afectar la eficacia de la lectura de labios. Teniendo en cuenta estas dificultades, nuestro objetivo es explorar cómo Teachable Machine puede manejar estos retos mediante un enfoque básico, comenzando con el reconocimiento de las vocales.
 
+Referente https://www.mihijosordo.org/lectura-labial.php
 
 ### Preparación del modelo 
 
