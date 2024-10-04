@@ -13,7 +13,7 @@ mi equipo de trabajo es <https://github.com/BatmanTheDay27> y <https://github.co
 Idea base
 
 La problemática: Personas que no son capaces de reconocer géneros musicales. <https://www.reddit.com/r/LetsTalkMusic/comments/mem3pd/i_feel_like_i_cant_identifyunderstand_music_genres/>
-![image](https://github.com/user-attachments/assets/bea5a365-6055-45ec-b416-97ad5ba0f14f)
+![image](./pantallazo-01.png)
 
 Oportunidad: Generar un proyecto que pueda detectar los principales géneros y variantes, que estén presentes en el audio musical que desee clasificar.
 
