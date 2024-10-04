@@ -1,4 +1,4 @@
-# clase
+# clase 7: Entre Proyecto (04/10/2024)
 
 Integrantes:
 
