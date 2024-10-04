@@ -51,8 +51,8 @@ Sin embargo, descubrimos que cualquier sonido, ya sea una voz, aplausos o inclus
  
 Para mejorar este aspecto, hemos decidido modificar nuestra estrategia de entrenamiento. En lugar de enseñar al modelo una única canción de Luis Miguel, le proporcionaremos un remix que contenga una selección de sus mejores canciones. De esta manera, el modelo contará con más elementos y características para aprender, lo que esperamos mejore su capacidad de identificación. Esta misma estrategia se aplicará a los otros tópicos musicales que estamos utilizando, es decir, las canciones de Miku Hatsune y los gustos musicales de Leandro.
 
-tuvimos problemas para enseñarle lo demas topicos, posiblemente por el navegador, al cambiarlo teachable machine funciono nuevamente
-queriamos ver si el proyecto funciona en p5 antes de hacer el proyecto oficial pero al momento de subir el modelo hubo un problema con un archivo  
+Durante el entrenamiento del modelo, nos enfrentamos a algunos problemas al intentar enseñarle los demás tópicos musicales. Es probable que la causa haya sido un inconveniente con el navegador. Tras cambiar a un navegador diferente, Teachable Machine volvió a funcionar correctamente.
+Antes de avanzar con el desarrollo oficial del proyecto, queríamos comprobar su funcionalidad en p5.js, pero al intentar subir el modelo para esta prueba, surgió un problema con uno de los archivos. Esta dificultad técnica nos impidió realizar la validación preliminar, lo que retrasa temporalmente nuestro plan de ejecución.
 
 
 
@@ -62,15 +62,18 @@ queriamos ver si el proyecto funciona en p5 antes de hacer el proyecto oficial p
 
 ![Captura de pantalla 2024-10-02 223627](https://github.com/user-attachments/assets/1a150efb-8b95-4119-bba7-1c158cf10faf)
 
-pesaba mas de lo normal por lo cual lo subimos el modelo atras ve un link que genera teachable machine
+Pesaba más de lo normal por lo cual lo subimos el modelo a trasvés de un link que genera teachable machine
 ![image](https://github.com/user-attachments/assets/9759d5c1-39ce-4a42-b508-595fee4a8256)
 
-al cambiar la version de ml5 a la antiagua y al colocar el url corespondiente nos lanzo un error  TypeError: Failed to fetch
-ocurre cuando el navegador que hace solicitud para pedir una informacion pero no ocurre esto puede pasar por problemas de conectebilidad con internet problemas de la url o algun problema con la pagina o por El sitio web no deja que lo veas (cors).
+Al realizar la integración del modelo, decidimos cambiar a una versión anterior de ml5.js e introducir la URL correspondiente para la carga del modelo. Sin embargo, al ejecutar el proyecto, recibimos el siguiente error: "TypeError: Failed to fetch". Este tipo de error suele ocurrir cuando el navegador intenta realizar una solicitud para obtener información, pero no logra completarla.
+Las posibles causas de este problema incluyen problemas de conectividad a Internet, errores en la URL proporcionada, o alguna dificultad con el servidor o la página web que está siendo consultada. También es posible que el sitio web desde el que intentamos obtener la información no permita el acceso, lo que genera la falla en la solicitud. (*cors*).
 
-apuntamos que es por un tema mas de cors, no sabemos el porque pero hay internet pusimos correctamente la url y no hay problema al parece con teacheble machine o drive (donde se subio el modelo) lo cual no quisimos meternos mas en el problema perosi hacer un nuevo proyecto.
+Identificamos que el problema parece estar relacionado con una cuestión de *cors*. Aunque la URL fue ingresada correctamente y no parecía haber problemas visibles al consultarla en Internet, la falla parece originarse en una interacción entre Teachable Machine y Google Drive, donde se subió el modelo.
+Dado que esta problemática podría estar vinculada a la configuración de permisos o restricciones de acceso entre diferentes servidores, optamos por no profundizar más en este problema técnico. En su lugar, hemos decidido continuar con la creación de un nuevo proyecto, evitando el obstáculo y buscando una solución más eficiente.
 
 ### Lector de labios 
-queremos realizar un lector de labios sera un modelo basico pero queremos sentar bases y ver las capacidades que tiene teachable machine para detectar en este caso vocales solo con el movimiento de los labios .
+
+Nuestro próximo objetivo es desarrollar un lector de labios, un proyecto inicial y básico que nos permitirá explorar las capacidades de Teachable Machine en el ámbito del reconocimiento facial, específicamente enfocado en la detección de vocales mediante el análisis de los movimientos de los labios. Aunque este modelo será una primera aproximación, buscamos sentar las bases para futuras mejoras. Nuestro enfoque será probar cómo Teachable Machine puede identificar vocales basándose únicamente en los gestos labiales.
+
 
 
