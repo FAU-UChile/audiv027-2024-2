@@ -212,7 +212,11 @@ En cuanto a la vocal "O", su detección resulta especialmente complicada, lo que
 
 ### Conclusiones
 
-para darle un cierra nuestra travisia bastante frustada y entorpecida queremos recalcar la importancia de tener al alcance acceso estas herramientas es mi portante ya que podemos darle rienda suelta a nuestra imaginacion y conbinar mundo que hasta no poco pensabamos que eran muy diferente, la programcion y el diseño al tomar esta clase se no han ido muchos estimas de progromar no es tan complicado y siempre hay una comunidad que esta procuoado por dar soluciones y ayudarse y correjirse mutuamente lo cual el iniciarse en la programcaion no es tan hostil como parece, tambien agregar que el uso de esta tecnologias no sayuda darle otra turca y otras soluciones proximos proyectos.  
+Para cerrar esta travesía, que en ocasiones resultó frustrante y obstaculizada, queremos resaltar la importancia del acceso a herramientas como las que hemos utilizado a lo largo de este proceso. Contar con estas herramientas es fundamental, ya que nos permite liberar nuestra creatividad y combinar mundos que hasta hace poco considerábamos muy diferentes, como la programación y el diseño.
+
+A través de esta experiencia, hemos dejado de lado muchos de los prejuicios que teníamos sobre la programación. Hemos descubierto que no es tan complicada como pensábamos, y que siempre existe una comunidad dispuesta a brindar soluciones, ayudarse y corregirse mutuamente. Esto nos ha demostrado que, al iniciarse en la programación, el entorno no es tan hostil como parece al principio.
+
+Además, el uso de esta tecnología nos ha abierto nuevas perspectivas, brindándonos herramientas adicionales para encontrar nuevas soluciones y enfoques en futuros proyectos.
 
 
 
