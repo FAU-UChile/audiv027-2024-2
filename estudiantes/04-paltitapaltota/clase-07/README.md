@@ -1,10 +1,12 @@
 # clase
-##clasificador de generos de música 
+### Clasificador de géneros de música 
+
+
 integrantes:
 
-leandro méndez
+Leandro Méndez.
 
-Paula faray 
+Paula Faray. 
 
 mi equipo de trabajo está conformado por <https://github.com/BatmanTheDay27> y <<https://github.com/paltitapaltota>>, lo entregaremos en el repositorio en este enlace <https://github.com/disenoUChile/audiv027-2024-1/estudiantes/paltitapaltota/clase-07>.
 
@@ -189,11 +191,14 @@ Por otro lado, el modelo B presenta dificultades generalizadas en la identificac
 Lo que detecta el modelo en p5 como la vocal 
 Modelo A
 
-![image](https://github.com/user-attachments/assets/1a879244-74ae-41ad-a49c-05f9d9d20668)
+![image](https://github.com/user-attachments/assets/afdd2e76-4556-42df-8f68-b4d752c67dc0)
+
 
 Modelo B
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/cb952060-622b-4fad-8610-0fd0826a71ae)
+
+
 
 En el modelo B, se observó que la vocal "E" tiende a ser confundida con la vocal "I", debido a que ambas presentan gesticulaciones muy similares. Esta confusión provoca que el modelo clasifique erróneamente la "E" como "I" en varios casos. Además, la detección de la vocal "E" muestra una precisión limitada, similar a lo que ocurre con la vocal "U", la cual también presenta dificultades de identificación.
 
@@ -201,7 +206,8 @@ En cuanto a la vocal "O", su detección resulta especialmente complicada, lo que
 
 
 
-### Conclusiones 
+### Conclusiones
+
 
 
 
