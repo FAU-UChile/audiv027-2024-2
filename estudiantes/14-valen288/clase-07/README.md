@@ -55,11 +55,14 @@ Equipo:
 
 ## INTRODUCCIÓN
 
-El proyecto consiste en el entrenamiento de una máquina capaz de detectar diferentes colores rojo, amarillo y azul utilizando una cámara. Para ello, se utilizó un código DE P5.js existente. (Agregar codigo) que controla una figura en movimiento (ver imagen adjunta). A este código se le incorporó un entrenamiento en Teachable Machine, donde se configuraron los colores mencionados. Una vez que la máquina detecta estos colores, la imagen de fondo se sincroniza y los puntos cambian de color en consecuencia.
+El proyecto se centra en la programación de un código que utiliza inteligencia artificial para detectar diferentes colores—rojo, amarillo y azul—mediante una cámara. Para ello, se partió de un código existente en P5.js que controla una figura en movimiento (consultar imagen adjunta). A este código se le integró un modelo de entrenamiento en Teachable Machine, donde se configuraron los colores mencionados. Una vez que la máquina detecta estos colores, la imagen de fondo se sincroniza y los puntos cambian de color de manera acorde.
 
-El proyecto consiste en la programación de un código, que usando entrenamiento de inteligencia artificial detecta diferentes colores (rojo, amarillo y azul), utilizando una cámara. Para ello, se utilizó un código DE P5.js existente. (Agregar codigo) que controla una figura en movimiento (ver imagen adjunta). A este código se le incorporó un entrenamiento en Teachable Machine, donde se configuraron los colores mencionados. Una vez que la máquina detecta estos colores, la imagen de fondo se sincroniza y los puntos cambian de color en consecuencia.
+## PROCESO
 
-
+1. Código
+2. Entrenamiento con teachable machine
+3. Programación
+4. Funcionamiento
 
 
 ## CONCLUSIÓN 
