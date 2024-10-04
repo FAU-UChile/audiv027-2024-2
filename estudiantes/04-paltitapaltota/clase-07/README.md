@@ -62,7 +62,7 @@ Antes de avanzar con el desarrollo oficial del proyecto, queríamos comprobar su
 
 ![Captura de pantalla 2024-10-02 223627](https://github.com/user-attachments/assets/1a150efb-8b95-4119-bba7-1c158cf10faf)
 
-Pesaba más de lo normal por lo cual lo subimos el modelo a trasvés de un link que genera teachable machine
+pesaba más de lo normal por lo cual lo subimos el modelo a través de un link que genera teachable machine.
 ![image](https://github.com/user-attachments/assets/9759d5c1-39ce-4a42-b508-595fee4a8256)
 
 Al realizar la integración del modelo, decidimos cambiar a una versión anterior de ml5.js e introducir la URL correspondiente para la carga del modelo. Sin embargo, al ejecutar el proyecto, recibimos el siguiente error: "TypeError: Failed to fetch". Este tipo de error suele ocurrir cuando el navegador intenta realizar una solicitud para obtener información, pero no logra completarla.
