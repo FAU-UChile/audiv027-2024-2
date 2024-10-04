@@ -1,6 +1,4 @@
 # clase
-### Clasificador de géneros de música 
-
 
 integrantes:
 
@@ -10,7 +8,7 @@ Paula Faray.
 
 mi equipo de trabajo está conformado por <https://github.com/BatmanTheDay27> y <<https://github.com/paltitapaltota>>, lo entregaremos en el repositorio en este enlace <https://github.com/disenoUChile/audiv027-2024-1/estudiantes/paltitapaltota/clase-07>.
 
-
+### Clasificador de géneros de música 
 Idea base
 
 La problemática: Personas que no son capaces de reconocer géneros musicales https://www.reddit.com/r/LetsTalkMusic/comments/mem3pd/i_feel_like_i_cant_identifyunderstand_music_genres/
