@@ -30,7 +30,7 @@
 
 
 
-![Logo de la u](https://github.com/user-attachments/assets/a6148866-6647-4794-b8ee-f6b614b54d55)
+![Logo de la u](https://github.com/user-attachments/assets/a6148866-6647-4794-b8ee-f6b614b54d55)(100x100)
 
 
 
