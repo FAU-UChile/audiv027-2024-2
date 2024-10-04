@@ -72,6 +72,8 @@ La función Connection fue descartada al no ser necesaria para el funcionamiento
 Se incorporó la posibilidad de arrastrar imágenes directamente al lienzo usando una funcionalidad de drop area.
 
 ![drop_area](https://github.com/user-attachments/assets/f88eec59-f6ef-4e85-8424-fe0a88e185ca)
+![draw_canvas](https://github.com/user-attachments/assets/b14f8e59-b5c3-42d5-9dda-5631ac79bb3e)
+
 
 ### 5. Se añadió la funcionalidad CANVASTEXT para mostrar instrucciones específicas a los usuarios durante la experiencia.
 Los mensajes incluyen instrucciones como “ARRASTRA TU IMAGEN (PNG) O PEGA UNA URL (JPG)” y mensajes de error como “ERROR: URL NO VÁLIDA O NO ES UNA IMAGEN”. Estos textos fueron redondeados y se les añadió un contorno para mayor visibilidad.
@@ -85,14 +87,24 @@ Los mensajes incluyen instrucciones como “ARRASTRA TU IMAGEN (PNG) O PEGA UNA 
 Se añadió una opción que permite a los usuarios cargar imágenes mediante una URL, ofreciendo más flexibilidad. El usuario puede pegar la dirección de una imagen y cargarla directamente en el lienzo. Además, se implementó un botón de carga y una barra de progreso que se resetea automáticamente tras su carga.
 
 
+![url_cuadro_texto](https://github.com/user-attachments/assets/a41556da-fbba-4107-8808-0563de4baaec)
+
+![url_imagen](https://github.com/user-attachments/assets/b1150ef4-d6ac-4529-b275-2f28ce807146)
+
 
 ### 7. Control del tamaño de la imagen con slider
 Se añadió un slider que permite ajustar manualmente el tamaño de la imagen para mayor control en la visualización.
+
+![sliders](https://github.com/user-attachments/assets/9d23db3f-48b8-4d67-b561-f3287d0a9020)
+
 
 ![SLIDER](https://github.com/user-attachments/assets/3cc19c59-295f-48ff-8034-f99102e4d61e)
 
 ### 8. Opción de corregir manualmente los ejes de la imagen 
 En caso de que el reconocimiento falle, se proporcionó la opción de corregir manualmente las coordenadas de los ejes de la imagen.
+
+![cara_en_coordenadas](https://github.com/user-attachments/assets/a805da39-505c-4689-9338-c210673448cf)
+
 
 ### 9. Opción botón para reiniciar los valores de los Slider
 Se incorporó un botón que permite reiniciar los valores de los sliders a su estado original.
