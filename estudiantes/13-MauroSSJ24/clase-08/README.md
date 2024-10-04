@@ -1,6 +1,6 @@
 # clase entrega
 
-# *CLASIFICADOR DE BEBIDAS DEFINITIVO 1.0.0-beta*
+# *CLASIFICADOR DE BEBIDAS DEFINITIVO 1.0.0-Alpha*
 
 
 -----
