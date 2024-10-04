@@ -12,7 +12,7 @@
 -----
 **MOTIVACION:**
 
-  Como buenos expertos en bebidas, queremos enseñarle a la maquina y al mundo los gustos refinados de este grupo en lo que a gaseosas corresponde, por lo que hemos decidido entrenar a la maquina para que logre reconocer o identificar entre lo mejor de lo mejor: Coca-Cola y Pepsi. Eligiendo estas bebidas por su notoria rivalidad y popularidad. ¿y que pasa si identifica otra forma o marcas? !pues lo marcará como wakala¡ así es, ya que nada se le acerca a su impresionante sabor y porque obviamente, no cualquiera está a la altura de nuestros altos estandares. !Vamos a enseñarle a la maquina a ser tan exigente y selectiva como nosotros¡
+  Como buenos expertos en bebidas, queremos enseñarle a la máquina y al mundo los gustos refinados de este grupo en lo que a gaseosas corresponde, por lo que hemos decidido entrenar a la máquina para que logre reconocer o identificar entre lo mejor de lo mejor: Coca-Cola y Pepsi. Eligiendo estas bebidas por su notoria rivalidad y popularidad. ¿y que pasa si identifica otra forma o marcas? !pues lo marcará como wakala¡ así es, ya que nada se le acerca a su impresionante sabor y porque obviamente, no cualquiera está a la altura de nuestros altos estandares. !Vamos a enseñarle a la maquina a ser tan exigente y selectiva como nosotros¡
 
 
 -----
