@@ -1,6 +1,6 @@
 # clase
-nombre del proyecto clasificador de generos de musica 
-integrantes
+##clasificador de generos de música 
+integrantes:
 
 leandro méndez
 
@@ -9,14 +9,14 @@ mi equipo de trabajo está conformado por <https://github.com/BatmanTheDay27> y 
 
 
 Idea base
-la problemática: Personas que no son capaces de reconocer géneros musicales https://www.reddit.com/r/LetsTalkMusic/comments/mem3pd/i_feel_like_i_cant_identifyunderstand_music_genres/
+La problemática: Personas que no son capaces de reconocer géneros musicales https://www.reddit.com/r/LetsTalkMusic/comments/mem3pd/i_feel_like_i_cant_identifyunderstand_music_genres/
 ![image](https://github.com/user-attachments/assets/bea5a365-6055-45ec-b416-97ad5ba0f14f)
 
 
-oportunidad: generar un proyecto que pueda detectar los principales géneros y variantes, que estén presentes en el audio musical que desee clasificar.
+Oportunidad: generar un proyecto que pueda detectar los principales géneros y variantes, que estén presentes en el audio musical que desee clasificar.
 
 
-sacaremos la información de canciones que pertenece a ese género musical con un mapa virtual llamado musicmap, el cual contiene referentes de distintos géneros y variantes, también emplearemos el uso de nuestros propios conocimientos musicales ya que sabemos bastante de algunos géneros puntuales para así poder entrenar teachable machine    
+Recolectaremos información de canciones que pertenece a ese género musical con un mapa virtual llamado musicmap, el cual contiene referentes de distintos géneros y variantes, también emplearemos el uso de nuestros propios conocimientos musicales ya que sabemos bastante de algunos géneros puntuales para así poder entrenar teachable machine.    
 ![image](https://github.com/user-attachments/assets/53197534-666b-4211-a488-7abd1b7ec0ff)
 
 
@@ -24,24 +24,24 @@ sacaremos la información de canciones que pertenece a ese género musical con u
 
 Géneros que usaremos para entrenar en teachable machine : Jpop, Pop, Rock, Hip-Hop, Metal 
 
-referentes musicales en : https://musicmap.info/
+Referentes musicales en : https://musicmap.info/
 ------------------------------------------------------------
 # Reformulación de proyecto
-Durante una conversación con el profesor, surgió una idea que decidimos llevar más allá, la hipotesis planteada fue:
-¿Qué pasaría si entrenaramos la máquina solo con 3 conceptos/artistas en específico? en este caso, elegimos a Luis Miguel, Miku Hatsune y gustos del Leandro como categorías representativas.
+Durante una conversación con el profesor, surgió una nueva idea la cual llevaremos un poco más allá, la hipótesis planteada fue:
+¿Qué pasaría si entrenamos la máquina solo con 3 conceptos/artistas? en este caso, elegimos a Luis Miguel, Miku Hatsune y gustos del Leandro como categorías representativas.
 
-Nuestro objetivo es observar y analizar los datos que nos proporciona la máquina al lanzarle canciones tanto referentes a estos géneros como de estilos diferentes. Queremos comprender cómo responde el modelo ante estímulos que están dentro o fuera de estas tres clasificaciones.
+Nuestro objetivo es observar y analizar los datos que nos proporciona la máquina al que le daremos acceso a canciones de estos 3 conceptos/artistas. Queremos comprender cómo responde el modelo ante estímulos que están dentro o fuera de estas tres clasificaciones.
 
 Fase 1 Probando teacheable machine
 Iniciamos la primera fase entrenando la máquina con música de Luis Miguel 
 
 Comenzamos con un modelo de präctica para observar su comportamiento. 
 Le introdujimos ruido de fondo a través del micrófono, y luego le enseñamos lo que debía identificar como Luis Miguel utilizando la canción "Cuestión de Piel".
-lo preparamos  y nos
+lo preparamos  y nos dio el modelo
 
 https://github.com/user-attachments/assets/1c0a5a87-fb2c-41f2-a5ea-78164430aed1
 
- da el modelo 
+
 
 
 
@@ -71,6 +71,8 @@ pesaba más de lo normal por lo cual lo subimos el modelo a través de un link q
 
 Al realizar la integración del modelo, decidimos cambiar a una versión anterior de ml5.js e introducir la URL correspondiente para la carga del modelo. Sin embargo, al ejecutar el proyecto, recibimos el siguiente error: "TypeError: Failed to fetch". Este tipo de error suele ocurrir cuando el navegador intenta realizar una solicitud para obtener información, pero no logra completarla.
 Las posibles causas de este problema incluyen problemas de conectividad a Internet, errores en la URL proporcionada, o alguna dificultad con el servidor o la página web que está siendo consultada. También es posible que el sitio web desde el que intentamos obtener la información no permita el acceso, lo que genera la falla en la solicitud. (*cors*).
+![image](https://github.com/user-attachments/assets/4654d7d2-f58e-43e5-8643-ad729c67b2a7)
+
 
 Identificamos que el problema parece estar relacionado con una cuestión de *cors*. Aunque la URL fue ingresada correctamente y no parecía haber problemas visibles al consultarla en Internet, la falla parece no tener relación ni con  Teachable Machine y Google Drive.
 Dado que esta problemática podría estar vinculada a la configuración de permisos o restricciones de acceso entre diferentes servidores, optamos por no profundizar más en este problema técnico. En su lugar, hemos decidido continuar con la creación de un nuevo proyecto, evitando el obstáculo y buscando una solución más eficiente.
