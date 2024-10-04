@@ -159,7 +159,7 @@ Subimos el modelo a drive, lo descargamos y nos dio el siguiente link
 
 https://teachablemachine.withgoogle.com/models/9N9mYIHSB/
 
-Con ello abrimos abrimos p5.js utilizando Teachable Machine como base para la implementación. Accedimos a nuestra cuenta y comenzamos a configurar el modelo previamente entrenado, quitamos la línea de código número 8 que se encontraba desactualizada y la reemplazamos por la que nos dio ml5.js.
+Con ello abrimos p5.js utilizando Teachable Machine como base para la implementación. Accedimos a nuestra cuenta y comenzamos a configurar el modelo previamente entrenado, quitamos la línea de código número 8 que se encontraba desactualizada y la reemplazamos por la que nos dio ml5.js.
 
 ![image](https://github.com/user-attachments/assets/dc58f1a4-7a5d-43ba-9263-04b5d7a371f9)
 
