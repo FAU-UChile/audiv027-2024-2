@@ -76,32 +76,35 @@ Dado que esta problemática podría estar vinculada a la configuración de permi
 
 Nuestro próximo objetivo es desarrollar un lector de labios, un proyecto inicial y básico que nos permitirá explorar las capacidades de Teachable Machine en el ámbito del reconocimiento facial, específicamente enfocado en la detección de vocales mediante el análisis de los movimientos de los labios. Aunque este modelo será una primera aproximación, buscamos sentar las bases para futuras mejoras. Nuestro enfoque será probar cómo Teachable Machine puede identificar vocales basándose únicamente en los gestos labiales.
 
-antecedentes de la lectura de labios 
-la lectura de labios o ahora mejor conocida como lectura labiofacial es usada normalmente por las personas que tienen algun tipo de perdida auditiva les sirve para comunicarse cuando no tienen audiocion suficiente consta de observar los gestos tanto faciales como los labios para poder interpretar lo que la otra persona esta expresando  
+### Antecedentes de la lectura de labios 
 
-los contras de la lectura labiofacial es que no se visualizan algunos sonidos con las letras   "j" "g" y "c" ya que no hay una gesticulacion para en los labios como tal tambien Algunos sonidos son muy similares al tratar de leerlos, la luz tambien afecta a la lectura. considerando todas estas difultades esperamos que teachlbe machine le cuente al manejar esto por lo cual lo haremos con algo muy basico las vocales.
+La lectura de labios, o más recientemente conocida como lectura labiofacial, es una técnica utilizada principalmente por personas con algún tipo de pérdida auditiva para mejorar su capacidad de comunicación cuando la audición no es suficiente. Este método consiste en observar los movimientos de los labios y los gestos faciales para interpretar lo que la otra persona está diciendo.
 
-Preparacion del modelo 
+A pesar de su utilidad, la lectura labiofacial presenta algunas limitaciones. No todos los sonidos se visualizan claramente, como es el caso de ciertas letras como la "j", "g" y "c", ya que no hay una gesticulación labial clara asociada a ellas. Además, algunos sonidos se ven muy similares entre sí, lo que dificulta su diferenciación. Factores externos como la iluminación también pueden afectar la eficacia de la lectura de labios. Teniendo en cuenta estas dificultades, nuestro objetivo es explorar cómo Teachable Machine puede manejar estos retos mediante un enfoque básico, comenzando con el reconocimiento de las vocales.
 
-empezamos entrenando "nada" despues a, e i, o u, y luego preparamos y sale nuestro modelo estos son nuestros pasos a seguir 
-de aqui cada integrantes hizo su proyeecto con variaciones, leandro (A) gesticulo mucho y acerco mucho la cara, pero paula (B )no gesticulo tanto trato de ahcer un version mas cercana a la realidad 
+
+### Preparación del modelo 
+
+El proceso de entrenamiento de nuestro modelo comenzó con la identificación de "nada" (sin movimiento), seguido por las vocales a, e, i, o, u. Este modelo inicial nos permitirá analizar cómo la herramienta de Teachable Machine puede identificar vocales a partir de los movimientos labiales.
+
+Cada integrante del equipo entrenó el modelo con ligeras variaciones. Por ejemplo, Leandro (A) gesticuló mucho y acercó su rostro a la cámara durante el entrenamiento, mientras que Paula (B) adoptó un enfoque más moderado, tratando de crear una versión más cercana a la realidad, con movimientos labiales más sutiles. Estas diferencias nos permitirán comparar resultados y ajustar el modelo para mejorar su precisión.
 
 Modelo A
-preparacion 
+preparación 
 
 
 ![image](https://github.com/user-attachments/assets/24a87836-d4b5-4834-b295-785642b09ee3)
 
 
-esportacion del modelo 
+exportación del modelo 
 ![image](https://github.com/user-attachments/assets/d7c1e685-36fc-41e9-8fa4-98c55fd04df4)
 
 ![image](https://github.com/user-attachments/assets/b9b413e3-dd93-401d-acb0-ed5dce98864a)
  
-subimos el modelo a drive y lo descargamos y nos da un link 
+Subimos el modelo a drive, lo descargamos y nos dio el siguiente link 
 https://teachablemachine.withgoogle.com/models/aZKcmkb93/
 
-con ello abrimos p5 atravez de table machine abrimos nuestra cuenta y empezamos a configurar el modelo le quitamos la linea de codigo numero 8ya que estaba desaactualizada y la remplazamos por la que nos dios ml5
+Para continuar con el desarrollo del proyecto, abrimos p5.js utilizando Teachable Machine como base para la implementación. Accedimos a nuestra cuenta y comenzamos a configurar el modelo previamente entrenado. Durante este proceso, identificamos que la línea de código número 8 se encontraba desactualizada. Para resolver este inconveniente, reemplazamos esa línea por el código actualizado proporcionado por ml5.js.
 
 ![image](https://github.com/user-attachments/assets/dc58f1a4-7a5d-43ba-9263-04b5d7a371f9)
 
@@ -111,7 +114,7 @@ con ello abrimos p5 atravez de table machine abrimos nuestra cuenta y empezamos 
 
 ![image](https://github.com/user-attachments/assets/ddb4cca8-e1f7-4939-870b-a11c6e547e62)
 
-luego insertamos nuetro url  aqui 
+luego insertamos nuestro url aquí 
 
 ![image](https://github.com/user-attachments/assets/d9e56527-71fd-4100-bc39-92af9f127b41)
 
@@ -122,33 +125,30 @@ y lo hacemos funcionar
 https://github.com/user-attachments/assets/9d67830e-cdad-4e73-b3a6-a6dccb2d1765
 
 
-analisis 
-
-
 
 
 
 Modelo B
-hicimos los mismos pasos que eel anterior 
+Hicimos los mismos pasos que en el anterior 
 
 
-preparacion 
+preparación 
 
 
 ![image](https://github.com/user-attachments/assets/69f36218-8766-4875-b863-091a98142b92)
 
 
-exportacion del modelo 
+exportación del modelo 
 
 ![image](https://github.com/user-attachments/assets/b66974bc-90f3-40ec-b321-f3d2de405dbc)
 
 
 
-subimos el modelo a drive y lo descargamos y nos da un link
+Subimos el modelo a drive, lo descargamos y nos dio el siguiente link
 
 https://teachablemachine.withgoogle.com/models/9N9mYIHSB/
 
-con ello abrimos p5 atravez de table machine abrimos nuestra cuenta y empezamos a configurar el modelo le quitamos la linea de codigo numero 8ya que estaba desaactualizada y la remplazamos por la que nos dios ml5
+con ello abrimos abrimos p5.js utilizando Teachable Machine como base para la implementación. Accedimos a nuestra cuenta y comenzamos a configurar el modelo previamente entrenado, quitamos la línea de código número 8 que se encontraba desactualizada y la reemplazamos por la que nos dio ml5.js.
 
 ![image](https://github.com/user-attachments/assets/dc58f1a4-7a5d-43ba-9263-04b5d7a371f9)
 
@@ -159,18 +159,18 @@ con ello abrimos p5 atravez de table machine abrimos nuestra cuenta y empezamos 
 ![image](https://github.com/user-attachments/assets/ddb4cca8-e1f7-4939-870b-a11c6e547e62)
 
 
-luego insertamos nuetro url  aqui 
+luego insertamos nuestro url aquí 
 
 ![Uploading image.png…]()
 
-y lo hacemos cuncionar 
+y lo hacemos funcionar
 
 
 
 https://github.com/user-attachments/assets/4270b80f-adbf-4bbb-acfc-aca403d6b7ac
 
 
-analisis
+### Análisis 
 
 
 conlusiones 
