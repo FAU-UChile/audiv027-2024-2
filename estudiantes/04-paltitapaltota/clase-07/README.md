@@ -96,8 +96,9 @@ preparacion
 esportacion del modelo 
 ![image](https://github.com/user-attachments/assets/d7c1e685-36fc-41e9-8fa4-98c55fd04df4)
 
-descargo el modelo y se subio tambien a drive teable machine nos dio un link 
-
+![image](https://github.com/user-attachments/assets/b9b413e3-dd93-401d-acb0-ed5dce98864a)
+ 
+subimos el modelo a drive y lo descargamos y nos da un link 
 https://teachablemachine.withgoogle.com/models/aZKcmkb93/
 
 con ello abrimos p5 atravez de table machine abrimos nuestra cuenta y empezamos a configurar el modelo le quitamos la linea de codigo numero 8ya que estaba desaactualizada y la remplazamos por la que nos dios ml5
@@ -121,7 +122,58 @@ y lo hacemos funcionar
 https://github.com/user-attachments/assets/9d67830e-cdad-4e73-b3a6-a6dccb2d1765
 
 
+analisis 
 
+
+
+
+
+Modelo B
+hicimos los mismos pasos que eel anterior 
+
+
+preparacion 
+
+
+![image](https://github.com/user-attachments/assets/69f36218-8766-4875-b863-091a98142b92)
+
+
+exportacion del modelo 
+
+![image](https://github.com/user-attachments/assets/b66974bc-90f3-40ec-b321-f3d2de405dbc)
+
+
+
+subimos el modelo a drive y lo descargamos y nos da un link
+
+https://teachablemachine.withgoogle.com/models/9N9mYIHSB/
+
+con ello abrimos p5 atravez de table machine abrimos nuestra cuenta y empezamos a configurar el modelo le quitamos la linea de codigo numero 8ya que estaba desaactualizada y la remplazamos por la que nos dios ml5
+
+![image](https://github.com/user-attachments/assets/dc58f1a4-7a5d-43ba-9263-04b5d7a371f9)
+
+
+![image](https://github.com/user-attachments/assets/7ba5d2d8-b279-40fc-8579-8bcd5a0554ce)
+
+
+![image](https://github.com/user-attachments/assets/ddb4cca8-e1f7-4939-870b-a11c6e547e62)
+
+
+luego insertamos nuetro url  aqui 
+
+![Uploading image.png…]()
+
+y lo hacemos cuncionar 
+
+
+
+https://github.com/user-attachments/assets/4270b80f-adbf-4bbb-acfc-aca403d6b7ac
+
+
+analisis
+
+
+conlusiones 
 
 
 
