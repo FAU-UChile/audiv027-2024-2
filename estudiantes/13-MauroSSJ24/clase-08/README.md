@@ -67,7 +67,7 @@ x.- Descarga y exportacion del Modelo Entrenado para su posterior Programacion e
 
 x.-
 
-x.-
+x.- Verificacion de la programacion para su funconamiento. 
 
 
 
@@ -77,7 +77,8 @@ x.-
 
 CONCLUSIONES:
 
-Nos basamos en el ejemplo de Vixo46 para arreglar los errores de p5 del codigo entrenado. Copiamos y destruimos su codigo para adaptarlo al nuestro, para poder correr nuestro codigo, logrando que funcione. Luego al seguir revisando y corroborando paso a paso los dos codigos, nos dimos cuenta que NO GUARDAMOS EL COGIDO DENTRO DE P5, lo que nos generaba el error y no funcionaba el codigo. (la mala costumbre de no guardar) Recordatorio: SIEMPRE APRETAR CTRL + S EN P5 DESDE UN PRINCIPIO.
+
+
 
 
 
