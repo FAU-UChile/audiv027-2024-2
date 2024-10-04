@@ -5,10 +5,12 @@ integrantes:
 leandro méndez
 
 Paula faray 
+
 mi equipo de trabajo está conformado por <https://github.com/BatmanTheDay27> y <<https://github.com/paltitapaltota>>, lo entregaremos en el repositorio en este enlace <https://github.com/disenoUChile/audiv027-2024-1/estudiantes/paltitapaltota/clase-07>.
 
 
 Idea base
+
 La problemática: Personas que no son capaces de reconocer géneros musicales https://www.reddit.com/r/LetsTalkMusic/comments/mem3pd/i_feel_like_i_cant_identifyunderstand_music_genres/
 ![image](https://github.com/user-attachments/assets/bea5a365-6055-45ec-b416-97ad5ba0f14f)
 
@@ -102,7 +104,7 @@ Preparación
 ![image](https://github.com/user-attachments/assets/24a87836-d4b5-4834-b295-785642b09ee3)
 
 
-exportación del modelo 
+Exportación del modelo 
 ![image](https://github.com/user-attachments/assets/d7c1e685-36fc-41e9-8fa4-98c55fd04df4)
 
 ![image](https://github.com/user-attachments/assets/b9b413e3-dd93-401d-acb0-ed5dce98864a)
@@ -136,7 +138,7 @@ https://github.com/user-attachments/assets/9d67830e-cdad-4e73-b3a6-a6dccb2d1765
 
 Modelo B
 
-Hicimos los mismos pasos que en el anterior 
+Hicimos los mismos pasos que en el modelo anterior 
 
 
 Preparación 
@@ -155,7 +157,7 @@ Subimos el modelo a drive, lo descargamos y nos dio el siguiente link
 
 https://teachablemachine.withgoogle.com/models/9N9mYIHSB/
 
-con ello abrimos abrimos p5.js utilizando Teachable Machine como base para la implementación. Accedimos a nuestra cuenta y comenzamos a configurar el modelo previamente entrenado, quitamos la línea de código número 8 que se encontraba desactualizada y la reemplazamos por la que nos dio ml5.js.
+Con ello abrimos abrimos p5.js utilizando Teachable Machine como base para la implementación. Accedimos a nuestra cuenta y comenzamos a configurar el modelo previamente entrenado, quitamos la línea de código número 8 que se encontraba desactualizada y la reemplazamos por la que nos dio ml5.js.
 
 ![image](https://github.com/user-attachments/assets/dc58f1a4-7a5d-43ba-9263-04b5d7a371f9)
 
@@ -168,7 +170,7 @@ con ello abrimos abrimos p5.js utilizando Teachable Machine como base para la im
 
 Luego insertamos nuestro url aquí 
 
-![Uploading image.png…]()![Captura de pantalla 2024-10-04 003954](https://github.com/user-attachments/assets/299f3e44-a8f4-4863-8c92-7d173a1930de)
+![image](https://github.com/user-attachments/assets/c9db5fd0-f200-4eac-8c6b-4deeefbbc9f1)![Captura de pantalla 2024-10-04 003954](https://github.com/user-attachments/assets/299f3e44-a8f4-4863-8c92-7d173a1930de)
 
 
 Y lo hacemos funcionar
@@ -182,8 +184,18 @@ https://github.com/user-attachments/assets/4270b80f-adbf-4bbb-acfc-aca403d6b7ac
 
 A partir de los videos generados durante el proceso de entrenamiento, se identificaron diferencias significativas en el desempeño de los modelos A y B. En el caso del modelo A, se observó un problema con la vocal "O", que es frecuentemente confundida con las vocales "A" y, sobre todo, la "U". Esta confusión se debe, en gran medida, a que es una vocal abierta y el programa no logra clasificarla de manera adecuada. A pesar de los esfuerzos de Leandro, quien gesticula de forma exagerada para diferenciar las vocales, el sistema no consigue distinguirlas con precisión.
 
-Por otro lado, el modelo B presenta dificultades generalizadas en la identificación de las vocales. El programa no es capaz de detectar diferencias significativas entre ellas, debido a la falta de gesticulación en comparación con el modelo A. Aunque parece reconocer con mayor precisión las vocales "I" y "U", las restantes vocales se clasifican de manera aleatoria. En particular, la vocal "O" prácticamente no es reconocida por el modelo, lo cual parece estar directamente relacionado con la insuficiente gesticulación durante el entrenamiento, como se refleja en el video asociado a este modelo.
+Por otro lado, el modelo B presenta dificultades generalizadas en la identificación de las vocales. El programa no es capaz de detectar diferencias significativas entre ellas, debido a la falta de gesticulación en comparación con el modelo A. Aunque parece reconocer con mayor precisión las vocales "I" y "U", las restantes vocales se clasifican de manera aleatoria. En particular, la vocal "O" que prácticamente no es reconocida por el modelo, lo cual parece estar directamente relacionado con la insuficiente gesticulación durante el entrenamiento, como se refleja en el video asociado a este modelo.
 
+Lo que detecta el modelo en p5 como la vocal 
+Modelo A
+
+![image](https://github.com/user-attachments/assets/1a879244-74ae-41ad-a49c-05f9d9d20668)
+
+Modelo B
+
+![Uploading image.png…]()
+
+La "E" al ser gesticulada muy similarmente a la "I" es confundido por el modelo B lo cual la E también la detecta  como la "I", pero claramente la "E" presenta poca presicion al igual que la u, la "O" es muy difícil hacer que se detecte por lo cual no aparece en las imagenes ya que no logramos sacarle screenshot.
 
 
 ### Conclusiones 
