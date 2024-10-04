@@ -73,7 +73,13 @@ Dado que esta problemática podría estar vinculada a la configuración de permi
 
 ### Lector de labios 
 
+
 Nuestro próximo objetivo es desarrollar un lector de labios, un proyecto inicial y básico que nos permitirá explorar las capacidades de Teachable Machine en el ámbito del reconocimiento facial, específicamente enfocado en la detección de vocales mediante el análisis de los movimientos de los labios. Aunque este modelo será una primera aproximación, buscamos sentar las bases para futuras mejoras. Nuestro enfoque será probar cómo Teachable Machine puede identificar vocales basándose únicamente en los gestos labiales.
+
+antecedentes de la lectura de labios 
+la lectura de labios o ahora mejor conocida como lectura labiofacial es usada normalmente por las personas que tienen algun tipo de perdida auditiva les sirve para comunicarse cuando no tienen audiocion suficiente consta de observar los gestos tanto faciales como los labios para poder interpretar lo que la otra persona esta expresando  
+
+los contras de la lectura labiofacial es que no ta
 
 
 
