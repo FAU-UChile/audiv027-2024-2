@@ -51,7 +51,7 @@ Durante el proceso de desarrollo, realizamos varias modificaciones y ajustes man
 ### 8. Optimización del código: Doble personaje
 Como parte de la optimización del código establecido, se añadió una nueva funcionalidad que permite proyectar dos imágenes de manera simultánea en el canvas. Para lograr esto, se implementó una división visual en la mitad de la pantalla, dividiendo el área de trabajo en dos secciones claramente diferenciadas. Esta hendidura actúa como una línea divisoria que facilita la proyección de una imagen en cada lado del lienzo, manteniendo un balance visual y estructural dentro de la experiencia. Esta división ayuda a experimentar con comparaciones en tiempo real, lo que resulta útil para probar diferentes parámetros de reconocimiento facial y ajustes gráficos sin la necesidad de recargar el entorno.
 
-### Uso del comando tint para ajustar la transparencia en la división de pantalla
+### 9. Uso del comando tint para ajustar la transparencia en la división de pantalla
 Para mejorar la visualización de las dos imágenes proyectadas en la pantalla dividida, se implementó el uso del comando tint, que permite ajustar la transparencia de las imágenes de manera dinámica. Este ajuste de opacidad resulta esencial para ofrecer una experiencia visual más clara y evitar que las imágenes superpuestas se confundan o se mezclen en exceso. Al reducir la opacidad de una o ambas imágenes mediante el uso de tint, logramos una distinción más nítida entre las dos secciones del lienzo, lo que refuerza la función de la hendidura visual central y mejora la percepción de cada imagen de manera individual.
 
 
