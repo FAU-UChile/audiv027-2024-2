@@ -179,6 +179,7 @@ Herramientas
 
 Link del Proyecto Lector de labios <https://editor.p5js.org/paltitapaltota/sketches/lSUxew1bh> (solo se intercambian los url que aparecen en los modelos generados de Teachable machine para hacer uso de este proyecto)
 Links de los modelos.
+
 A
 
 <https://teachablemachine.withgoogle.com/models/aZKcmkb93/>
