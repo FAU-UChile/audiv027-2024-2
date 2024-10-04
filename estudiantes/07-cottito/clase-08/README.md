@@ -3,7 +3,7 @@
 * * *
 ## Introducción
 ### 1. Intento de integrar FaceMesh con modelos .obj
-Como primer enfoque para el desarrollo del proyecto, intentamos vincular la tecnología de FaceMesh de ML5 con modelos 3D en formato .obj, buscando una solución que permitiera superponer esa estructura tridimensional sobre los rostros detectados. El objetivo era crear una representación visual más compleja y dinámica que respondiera en tiempo real a los movimientos faciales capturados por la cámara. Sin embargo, encontramos dificultades técnicas significativas: los archivos .obj/.stl que probamos eran demasiado pesados, lo que impactaba negativamente en el rendimiento, y en muchos casos el sistema no era capaz de reconocerlos correctamente como rostros.
+Como primer enfoque para el desarrollo del proyecto, intentamos vincular la tecnología de FaceMesh de ML5 con modelos 3D en formato .obj, buscando una solución que permitiera superponer esa estructura tridimensional sobre los rostros detectados. Significó una serie de dificultades debido a que los archivos .obj/.stl que probamos eran demasiado pesados, lo que impactaba negativamente en el rendimiento, y en muchos casos el sistema no era capaz de reconocerlos correctamente como rostros.
 
 
 
@@ -24,7 +24,7 @@ Al no obtener los resultados deseados con FaceMesh, exploramos otras ideas, enco
 
 * https://editor.p5js.org/cottito/sketches/F9u6YjDgK
 
-### 4. Problemas con la estabilidade de imagen sobre el rostro
+### 4. Problemas con la estabilidad de imagen sobre el rostro
 En la fase de prueba, la imagen superpuesta sobre el rostro seguía las coordenadas de los puntos faciales, pero no de manera completamente estable. En ciertos momentos, la imagen se movía excesivamente o incluso desaparecía cuando el reconocimiento de los puntos esenciales del rostro fallaba.
 
 ### 5. Implementación de CANVASTEXT para indicaciones
@@ -60,7 +60,7 @@ Como parte de la optimización del código establecido, se añadió una nueva fu
 ### 3. Eliminación de la función 'Connection'
 La función Connection fue descartada al no ser necesaria para el funcionamiento del sistema.
 
-### 4. Implementación de 'Drag & Drop' de imágenes
+### 4. Implementación de Drop de imágenes
 Se incorporó la posibilidad de arrastrar imágenes directamente al lienzo usando una funcionalidad de drop area.
 
 ![drop_area](https://github.com/user-attachments/assets/f88eec59-f6ef-4e85-8424-fe0a88e185ca)
@@ -73,7 +73,10 @@ Los mensajes incluyen instrucciones como “ARRASTRA TU IMAGEN (PNG) O PEGA UNA 
 ![arrastra](https://github.com/user-attachments/assets/83a5cf8b-53e0-4fb2-bf93-dac46b8ecac5)
 
 
-### 6. Opción de añadir imagen por Url + Botón de carga + reseteo de la barra
+### 6. Opción de añadir imagen por URL + Botón de carga + Reseteo de la barra
+Se añadió una opción que permite a los usuarios cargar imágenes mediante una URL, ofreciendo más flexibilidad. El usuario puede pegar la dirección de una imagen y cargarla directamente en el lienzo. Además, se implementó un botón de carga y una barra de progreso que se resetea automáticamente tras su carga.
+
+
 
 ### 7. Control del tamaño de la imagen con slider
 Se añadió un slider que permite ajustar manualmente el tamaño de la imagen para mayor control en la visualización.
