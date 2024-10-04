@@ -1,4 +1,4 @@
-# clase 7: Entre Proyecto (04/10/2024)
+# clase 7: Entrega Proyecto (04/10/2024)
 
 Integrantes:
 
@@ -208,7 +208,7 @@ En el modelo B, se observó que la vocal "E" tiende a ser confundida con la voca
 
 En cuanto a la vocal "O", su detección resulta especialmente complicada, lo que ha impedido que el modelo la reconozca adecuadamente. Como resultado, la vocal "O" no aparece en las imágenes generadas durante las pruebas, ya que no se logró capturar ningún momento en el que fuera correctamente identificada, impidiendo incluso obtener capturas de pantalla.
 
-En conclusión a nuestros modelos les cuesta clasificar las vocales porque los humanos, además de no hacer los mismo movimientos siempre, la forma de gesticular es muy similar entre vocales por lo cual se debe hacer un acompañamiento auditivo para que sea más preciso el modelo.
+En conclusión, nuestros modelos enfrentan dificultades al clasificar las vocales debido a la variabilidad en los movimientos humanos. Los gestos labiales no son uniformes, y la forma en que se gesticulan las vocales es muy similar entre sí, lo que genera confusión en el proceso de clasificación. Para mejorar la precisión del modelo, sería necesario complementar el análisis visual con un acompañamiento auditivo, lo cual permitiría una identificación más precisa de las vocales al integrar tanto el aspecto visual como el auditivo en el proceso de reconocimiento.
 
 Herramientas 
 
