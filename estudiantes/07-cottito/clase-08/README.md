@@ -106,7 +106,6 @@ Se añadió un conjunto de imágenes PNG que se pueden usar para probar el funci
 
 
 ## Documentación a utilizar:
-
 * https://docs.ml5js.org/#/reference/facemesh
 * https://www.youtube.com/watch?v=ZXK8eFi0yK
 * https://github.com/Dielox-X9/Pruebas/blob/main/Walter-White.p
@@ -114,9 +113,11 @@ Se añadió un conjunto de imágenes PNG que se pueden usar para probar el funci
 * PosesNET EMOJI https://editor.p5js.org/cottito/sketches/F9u6YjDgK
 * BodyPoses Original ML5 https://editor.p5js.org/ml5/sketches/hMN9GdrO3
 
+
 ## Códigos investigados:
 * https://docs.ml5js.org/#/reference/bodypose
 * https://p5js.org/reference/
+* https://p5js.org/examples/imported-media-image-transparency/
 
 ## Links varios no usados:
 * https://docs.ml5js.org/#/reference/facemesh
