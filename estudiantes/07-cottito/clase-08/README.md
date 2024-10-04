@@ -18,7 +18,7 @@ Se implementó una funcionalidad que permitió hacer un seguimiento de las coord
 
 
 ### 3. Búsqueda de alternativas: modelo Sticker (Let Emoji)
-Al no obtener los resultados deseados con FaceMesh, exploramos otras ideas, encontrando el modelo de "sticker" que Daniel Shiffman presentó en su proyecto Let Emoji - Let PoseNet. Esta alternativa permitió la implementación de un objeto gráfico (sticker) sobre el rostro, logrando cierta interacción con las poses faciales.
+Al no obtener los resultados deseados con faceMesh, exploramos otras ideas, encontrando el modelo de "sticker" (Daniel Shiffman). Esta alternativa permitió la implementación de un objeto gráfico (sticker) sobre el rostro, logrando cierta interacción con las poses faciales. Aparte del primer acercamiento a los comandos LET EMOJI y POSENET.
 
 ![sticker_truco](https://github.com/user-attachments/assets/697beea0-67de-4ded-b7bc-7d7c89e5bfcb)
 
@@ -27,13 +27,17 @@ Al no obtener los resultados deseados con FaceMesh, exploramos otras ideas, enco
 ### 4. Problemas con la estabilidad de imagen sobre el rostro
 En la fase de prueba, la imagen superpuesta sobre el rostro seguía las coordenadas de los puntos faciales, pero no de manera completamente estable. En ciertos momentos, la imagen se movía excesivamente o incluso desaparecía cuando el reconocimiento de los puntos esenciales del rostro fallaba.
 
+
+https://github.com/user-attachments/assets/7a3a4ba6-8155-4c69-b124-cc9c22427367
+
+
 ### 5. Implementación de CANVASTEXT para indicaciones
 Se añadió la funcionalidad CANVASTEXT para proporcionar al usuario instrucciones claras durante la experiencia. Estas incluían mensajes como “Colocar una imagen o URL” para guiar en la interacción con la aplicación.
 
 ![url texto](https://github.com/user-attachments/assets/0425bd99-33f9-469f-9d68-1fd05290b24a)
 
 ### 6. Cambio a BodyPose de ML5: Mejora en resultados
-Debido a los problemas de estabilidad con FaceMesh, optamos por cambiar a la herramienta BodyPose de ML5, lo que permitió obtener mejores resultados en el reconocimiento facial y una mayor estabilidad en la superposición de imágenes. 
+Debido a los problemas de estabilidad con PoseNet, optamos por cambiar a BodyPose de ML5, lo que permitió obtener mejores resultados en el reconocimiento facial y una mayor estabilidad en la superposición de imágenes. 
 * El sistema fue capaz de reconocer zonas esenciales del rostro con mayor precisión, incluso en casos donde no estaban presentes todos los puntos faciales.
 
 https://github.com/user-attachments/assets/82e7cc87-72d7-479a-8cf9-25e28ae94150
