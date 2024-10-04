@@ -114,7 +114,7 @@ Subimos el modelo a drive, lo descargamos y nos dio el siguiente link
 
 https://teachablemachine.withgoogle.com/models/aZKcmkb93/
 
-Para continuar con el desarrollo del proyecto, abrimos p5.js utilizando Teachable Machine como base para la implementación. Accedimos a nuestra cuenta y comenzamos a configurar el modelo previamente entrenado. Durante este proceso, identificamos que la línea de código número 8 se encontraba desactualizada. Para resolver este inconveniente, reemplazamos esa línea por el código actualizado proporcionado por ml5.js.
+Para continuar con el desarrollo del proyecto, abrimos p5.js utilizando Teachable Machine como base para la implementación. Accedimos a nuestra cuenta y comenzamos a configurar el modelo previamente entrenado. Durante este proceso, identificamos que la línea de código número 8 se encontraba desactualizada. Para resolver este inconveniente, reemplazamos esa línea por el código que nos proporciona ml5.js.
 
 ![image](https://github.com/user-attachments/assets/dc58f1a4-7a5d-43ba-9263-04b5d7a371f9)
 
