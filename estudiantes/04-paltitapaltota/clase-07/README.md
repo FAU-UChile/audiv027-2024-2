@@ -90,6 +90,7 @@ La lectura de labios, o más recientemente conocida como lectura labiofacial, es
 
 A pesar de su utilidad, la lectura labiofacial presenta algunas limitaciones. No todos los sonidos se visualizan claramente, como es el caso de ciertas letras como la "j", "g" y "c", ya que no hay una gesticulación labial clara asociada a ellas. Además, algunos sonidos se ven muy similares entre sí, lo que dificulta su diferenciación. Factores externos como la iluminación también pueden afectar la eficacia de la lectura de labios. Teniendo en cuenta estas dificultades, nuestro objetivo es explorar cómo Teachable Machine puede manejar estos retos mediante un enfoque básico, comenzando con el reconocimiento de las vocales.
 
+Referente https://www.mihijosordo.org/lectura-labial.php
 
 ### Preparación del modelo 
 
@@ -113,7 +114,7 @@ Subimos el modelo a drive, lo descargamos y nos dio el siguiente link
 
 https://teachablemachine.withgoogle.com/models/aZKcmkb93/
 
-Para continuar con el desarrollo del proyecto, abrimos p5.js utilizando Teachable Machine como base para la implementación. Accedimos a nuestra cuenta y comenzamos a configurar el modelo previamente entrenado. Durante este proceso, identificamos que la línea de código número 8 se encontraba desactualizada. Para resolver este inconveniente, reemplazamos esa línea por el código actualizado proporcionado por ml5.js.
+Para continuar con el desarrollo del proyecto, abrimos p5.js utilizando Teachable Machine como base para la implementación. Accedimos a nuestra cuenta y comenzamos a configurar el modelo previamente entrenado. Durante este proceso, identificamos que la línea de código número 8 se encontraba desactualizada. Para resolver este inconveniente, reemplazamos esa línea por el código que nos proporciona ml5.js.
 
 ![image](https://github.com/user-attachments/assets/dc58f1a4-7a5d-43ba-9263-04b5d7a371f9)
 
@@ -158,7 +159,7 @@ Subimos el modelo a drive, lo descargamos y nos dio el siguiente link
 
 https://teachablemachine.withgoogle.com/models/9N9mYIHSB/
 
-Con ello abrimos abrimos p5.js utilizando Teachable Machine como base para la implementación. Accedimos a nuestra cuenta y comenzamos a configurar el modelo previamente entrenado, quitamos la línea de código número 8 que se encontraba desactualizada y la reemplazamos por la que nos dio ml5.js.
+Con ello abrimos p5.js utilizando Teachable Machine como base para la implementación. Accedimos a nuestra cuenta y comenzamos a configurar el modelo previamente entrenado, quitamos la línea de código número 8 que se encontraba desactualizada y la reemplazamos por la que nos dio ml5.js.
 
 ![image](https://github.com/user-attachments/assets/dc58f1a4-7a5d-43ba-9263-04b5d7a371f9)
 
@@ -218,7 +219,15 @@ https://editor.p5js.org/ versión 1.10.0
 
 https://docs.ml5js.org/#/ versión 0.12.2
 
+Link del Proyecto Lector de labios https://editor.p5js.org/paltitapaltota/sketches/lSUxew1bh (solo se intercambian los url que aparecen en los modelos generados de Teachable machine para hacer uso de este proyecto)
+Links de los modelos. 
+A
 
+https://teachablemachine.withgoogle.com/models/aZKcmkb93/
+
+B
+
+https://teachablemachine.withgoogle.com/models/9N9mYIHSB/
 
 ### Conclusiones
 
