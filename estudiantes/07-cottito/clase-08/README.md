@@ -5,14 +5,14 @@
 ### 1. Intento de integrar FaceMesh con modelos .obj
 Como primer enfoque para el desarrollo del proyecto, intentamos vincular la tecnología de FaceMesh de ML5 con modelos 3D en formato .obj, buscando una solución que permitiera superponer esa estructura tridimensional sobre los rostros detectados. Significó una serie de dificultades debido a que los archivos .obj/.stl que probamos eran demasiado pesados, lo que impactaba negativamente en el rendimiento, y en muchos casos el sistema no era capaz de reconocerlos correctamente como rostros.
 
-
+![pruebas_caras01@2x-100](https://github.com/user-attachments/assets/2a96196c-9e05-494a-80d6-af1862d70665)
 
 ### 2. Reconocimiento facial y seguimiento de coordenadas
 Se implementó una funcionalidad que permitió hacer un seguimiento de las coordenadas de la nariz y los ojos en tiempo real, usando el reconocimiento facial. Este seguimiento permitió que una imagen siga dichos puntos clave, aunque el rendimiento no fue del todo preciso y aún necesita ajustes. En este enfoque, sigue la fase de desarrollo y prueba.
 
 * https://editor.p5js.org/cottito/sketches/rOvRVM_xn
 ![000](https://github.com/user-attachments/assets/857d1aed-b957-4a43-a3bc-e7b2b671ea33)
-![pruebas_caras01@2x-100](https://github.com/user-attachments/assets/2a96196c-9e05-494a-80d6-af1862d70665)
+
 
 ![deteccion_rostro](https://github.com/user-attachments/assets/57f10138-1cf2-40c0-9c57-31cdc6700474)
 
