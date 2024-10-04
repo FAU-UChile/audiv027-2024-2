@@ -79,7 +79,19 @@ Nuestro próximo objetivo es desarrollar un lector de labios, un proyecto inicia
 antecedentes de la lectura de labios 
 la lectura de labios o ahora mejor conocida como lectura labiofacial es usada normalmente por las personas que tienen algun tipo de perdida auditiva les sirve para comunicarse cuando no tienen audiocion suficiente consta de observar los gestos tanto faciales como los labios para poder interpretar lo que la otra persona esta expresando  
 
-los contras de la lectura labiofacial es que no ta
+los contras de la lectura labiofacial es que no se visualizan algunos sonidos con las letras   "j" "g" y "c" ya que no hay una gesticulacion para en los labios como tal tambien Algunos sonidos son muy similares al tratar de leerlos, la luz tambien afecta a la lectura. considerando todas estas difultades esperamos que teachlbe machine le cuente al manejar esto por lo cual lo haremos con algo muy basico las vocales.
+
+Preparacion del modelo 
+
+empezamos entrenando "nada" despues a, e i, o u, y luego preparamos y sale nuestro modelo estos son nuestros pasos a seguir 
+de aqui cada integrantes hizo su proyeecto con variaciones, leandro (A) gesticulo mucho y acerco mucho la cara, pero paula (B )no gesticulo tanto trato de ahcer un version mas cercana a la realidad 
+
+Modelo A
+preparacion 
+![image](https://github.com/user-attachments/assets/24a87836-d4b5-4834-b295-785642b09ee3)
+esportacion del modelo 
+
+
 
 
 
