@@ -59,10 +59,182 @@ El proyecto se centra en la programación de un código que utiliza inteligencia
 
 ## PROCESO
 
-1. Código
-2. Entrenamiento con teachable machine
-3. Programación
-4. Funcionamiento
+1. Código: Proceso de unir diferentes códigos
+
+https://editor.p5js.org/p5/sketches/Interaction:_Wavemaker
+![image](https://github.com/user-attachments/assets/b0231cda-63b4-4d42-9e1b-690508b31ed8)
+
+REFERENCIAS:
+https://p5js.org/reference/#Color - https://p5js.org/reference/p5/fill/
+
+https://editor.p5js.org/ml5/sketches/HUm7NYMW3
+
+https://editor.p5js.org/ach549@nyu.edu/sketches/S1u1JKeT7 - WORKING
+
+https://editor.p5js.org/kylemcdonald/sketches/Sy2LCUqnX - NOT WORKING
+
+https://editor.p5js.org/jeffThompson/sketches/30YhUmgVU
+
+https://editor.p5js.org/jibbx/sketches/6i3HbDy2a
+
+2. Entrenamiento:  teachable machine
+
+   
+PASO 1: Se seleccionan papeles con los colores primarios como muestra de color.
+![IMG_8903 (1)](https://github.com/user-attachments/assets/396b370f-1626-4777-99eb-76396a0520a6)
+
+PASO 2: Luego se realizan paletas de colores digitales en ilustrator para subirlo a la plataforma teachable machine y tener una mayor gama de tonos. 
+
+![IMG_8906](https://github.com/user-attachments/assets/9a916dfa-3603-4100-b9eb-3103ca88d8c0)
+
+PASO 3: Se suben los archivos recopilados y parte el entrenamiento. 
+
+![IMG_8904](https://github.com/user-attachments/assets/d0ecc220-bf7f-436a-9805-e84e7349f0fb)
+
+  
+
+
+4. Programación:
+
+// Variable (Iniciamos con ese valor: Screen1)
+var mode = 1;
+
+// Classifier Variable
+let classifier;
+
+// Model URL
+let imageModelURL = "./my_model/";
+
+// Variable de tiempo
+let t = 0;
+
+// Asignamos colores para cada etiqueta (label)
+let colors = {
+  ROJO: "red",
+  AMARILLO: "yellow",
+  AZUL: "blue",
+};
+
+// Declaramos variable label
+let label = "";
+
+// let space = {
+//  'ROJO': 15,
+//  'AMARILLO': 20,
+//  'AZUL': 25,
+//};
+
+// Agregar Video
+let video;
+let flippedVideo;
+
+// Cargamos el modelo entrenado en Teachable Machine
+function preload() {
+  classifier = ml5.imageClassifier(imageModelURL + "model.json");
+}
+
+function setup() {
+  createCanvas(windowWidth, windowHeight);
+  // Create the video
+  video = createCapture(VIDEO);
+  video.size(windowWidth / 2, windowHeight / 2);
+  video.hide();
+  noStroke();
+
+  // Comienza classifying
+  classifyVideo();
+}
+
+function draw() {
+  // Codigo que permite intercambiar entre dos modos (dos pantallas)
+  if (mode == 0) {
+    screen1();
+  } else if (mode == 1) {
+    screen2();
+  }
+
+  // Codigo de lo que se muestra en screen1
+  function screen1() {
+    background(0);
+    // Draw the video
+    imageMode(CENTER);
+    image(video, windowWidth / 2, windowHeight / 2);
+
+    // Escribir label en pantalla (Nombre del color)
+    fill(0);
+    textSize(32);
+    textAlign(CENTER);
+    text(label, windowWidth / 2, windowHeight / 3);
+  }
+
+  // Codigo de lo que se muestra en screen2
+  function screen2() {
+    background(0, 10); // translucent background (creates trails)
+
+    // Determinar el color según la etiqueta
+    let currentColor = colors[label] || "white"; // Color predeterminado a blanco si no hay etiqueta válida
+
+    //   let currentCurve = space[label] || 15;
+
+    // crear una grilla de círculos de x & y
+    for (let x = 0; x <= width; x += 30) {
+      for (let y = 0; y <= height; y += 30) {
+        const xAngle = map(45, 0, width, -4 * PI, 4 * PI, true);
+        const yAngle = map(90, height, -4 * PI, 4 * PI, true);
+        const angle = xAngle * (x / width) + yAngle * (y / height);
+
+        const myX = x + 20 * cos(2 * PI * t + angle);
+        const myY = y + 20 * sin(2 * PI * t + angle);
+
+        // Cambiar el color de relleno
+        fill(currentColor);
+
+        // Dibujar círculo
+        ellipse(myX, myY, 10);
+      }
+    }
+
+    // Actualizar tiempo
+    t += 0.01;
+  }
+}
+
+// Recibir predicción para imagen de video
+function classifyVideo() {
+  flippedVideo = ml5.flipImage(video);
+  classifier.classify(flippedVideo, gotResult);
+  flippedVideo.remove();
+}
+
+// Cuando recibimos resultado
+function gotResult(error, results) {
+  // Si hay un error
+  if (error) {
+    console.error(error);
+    return;
+  }
+  // Resultados son ordenados por orden de confianza
+  label = results[0].label;
+
+  classifyVideo();
+}
+
+// Función para cambiar de pantallas al apretar el teclado
+function keyPressed() {
+  mode = mode + 1;
+  if (mode == 2) {
+    mode = 0;
+
+5. Funcionamiento:
+
+![a5194b40-22e7-42db-90fd-fa0069ec3534](https://github.com/user-attachments/assets/741534ed-cade-410e-a2d4-46a3629f58e8)
+
+![8be80f3e-4b32-4ca5-aa2a-311370622bc0](https://github.com/user-attachments/assets/91c5b3d8-ee52-4edf-bba8-f8c1b340100a)
+
+![9017f1c4-3036-44a7-a77b-b6e2f2c4183a](https://github.com/user-attachments/assets/6f719192-259f-4cac-a36e-09b2f8ab1a84)
+
+
+   
 
 
 ## CONCLUSIÓN 
