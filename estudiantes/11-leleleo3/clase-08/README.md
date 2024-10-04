@@ -37,7 +37,7 @@ Este trabajo lo hicimos con los siguientes materiales:
 
 ![Captura de Pantalla 2024-10-04 a la(s) 12 56 38](https://github.com/user-attachments/assets/00487f6e-0b62-49f7-b453-9624153c6b73)
 
-#### p5.RoverCam.js (https://github.com/user-attachments/assets/ce6c3a54-25e3-4a39-ba7b-51c568f112ea)
+#### p5.RoverCam.js (https://github.com/freshfork/p5.RoverCam)
 
 ![Captura de Pantalla 2024-10-04 a la(s) 12 57 53](https://github.com/user-attachments/assets/abe1d4c6-e3b7-47de-8b17-ef0963512e79)
 
