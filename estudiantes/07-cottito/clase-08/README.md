@@ -20,6 +20,8 @@ Se implementó una funcionalidad que permitió hacer un seguimiento de las coord
 ### 3. Búsqueda de alternativas: modelo Sticker (Let Emoji)
 Al no obtener los resultados deseados con FaceMesh, exploramos otras ideas, encontrando el modelo de "sticker" que Daniel Shiffman presentó en su proyecto Let Emoji - Let PoseNet. Esta alternativa permitió la implementación de un objeto gráfico (sticker) sobre el rostro, logrando cierta interacción con las poses faciales.
 
+![sticker_truco](https://github.com/user-attachments/assets/697beea0-67de-4ded-b7bc-7d7c89e5bfcb)
+
 * https://editor.p5js.org/cottito/sketches/F9u6YjDgK
 
 ### 4. Problemas con la estabilidade de imagen sobre el rostro
