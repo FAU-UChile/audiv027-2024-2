@@ -190,7 +190,8 @@ A partir de los videos generados durante el proceso de entrenamiento, se identif
 
 Por otro lado, el modelo B presenta dificultades generalizadas en la identificación de las vocales. El programa no es capaz de detectar diferencias significativas entre ellas, debido a la falta de gesticulación en comparación con el modelo A. Aunque parece reconocer con mayor precisión las vocales "I" y "U", las restantes vocales se clasifican de manera aleatoria. En particular, la vocal "O" que prácticamente no es reconocida por el modelo, lo cual parece estar directamente relacionado con la insuficiente gesticulación durante el entrenamiento, como se refleja en el video asociado a este modelo.
 
-Lo que detecta el modelo en p5 como la vocal 
+Lo que detecta el modelo en p5 como la vocal. 
+
 Modelo A
 
 ![image](https://github.com/user-attachments/assets/afdd2e76-4556-42df-8f68-b4d752c67dc0)
