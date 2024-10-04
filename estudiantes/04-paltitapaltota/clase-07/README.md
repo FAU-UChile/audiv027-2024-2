@@ -172,7 +172,8 @@ Con ello abrimos abrimos p5.js utilizando Teachable Machine como base para la im
 
 Luego insertamos nuestro url aquí 
 
-![Captura de pantalla 2024-10-04 022015](https://github.com/user-attachments/assets/504cb1b1-dd3b-4c06-8400-66cd55c67e1e)
+![Captura de pantalla 2024-10-04 011139](https://github.com/user-attachments/assets/03647567-c21c-4e6a-8c62-001071d20902)
+
 
 
 
@@ -211,6 +212,7 @@ En cuanto a la vocal "O", su detección resulta especialmente complicada, lo que
 
 ### Conclusiones
 
+para darle un cierra nuestra travisia bastante frustada y entorpecida queremos recalcar la importancia de tener al alcance acceso estas herramientas es mi portante ya que podemos darle rienda suelta a nuestra imaginacion y conbinar mundo que hasta no poco pensabamos que eran muy diferente, la programcion y el diseño al tomar esta clase se no han ido muchos estimas de progromar no es tan complicado y siempre hay una comunidad que esta procuoado por dar soluciones y ayudarse y correjirse mutuamente lo cual el iniciarse en la programcaion no es tan hostil como parece, tambien agregar que el uso de esta tecnologias no sayuda darle otra turca y otras soluciones proximos proyectos.  
 
 
 
