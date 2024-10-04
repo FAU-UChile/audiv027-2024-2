@@ -55,14 +55,22 @@
 + Creacion de las muestras 
 ![1](https://github.com/user-attachments/assets/797423cd-10b9-4da7-a2c9-d23016fca893)
 
-+ En Teachable machine creamos las muestras necesarias para poder programar lo que queríamos teniendo 3 elementos,2 de ellos son los principales (Coca Cola y Pepsi) y el 3 elemento eraa cualquier objeto diferente a estos.
++ En Teachable machine creamos las muestras necesarias para poder programar lo que queríamos teniendo 3 elementos,2 de ellos son los principales (Coca Cola y Pepsi) y el 3 elemento era cualquier objeto diferente a estos.
 
-+ AGREGAR PATALLAZOS DE COMO LLEGAR A
+  ![WhatsApp Image 2024-10-04 at 15 40 43](https://github.com/user-attachments/assets/2e038be0-1510-4af7-9351-687ae393657e)
+
+
+![WhatsApp Image 2024-10-04 at 15 40 43 (1)](https://github.com/user-attachments/assets/5f208baf-6d9c-4afe-9252-91090e235eb6)
+
+
+![WhatsApp Image 2024-10-04 at 15 40 44](https://github.com/user-attachments/assets/e55814ef-e038-445e-ae56-1abdf3ec410f)
 
 
 
 + Entrenamiento de Teacheable Machine, una vez ya tomadas las muestras.
 ![PROCESO 1_entrenamiento modelo (2)](https://github.com/user-attachments/assets/98417ffd-9eba-4d09-833b-0e6d9544a8fa)
+
+
 
 
 
@@ -78,24 +86,38 @@
 + Descarga y exportacion del Modelo Entrenado para su posterior Programacion en p5.js
 ![pasopara descargar modelo](https://github.com/user-attachments/assets/93cd38dd-52e2-445b-aef2-91b2c13fac61)
 
+
+
 + Una vez que obtuvimos el resultado que se necesitaba, continuamos a descargar y exportar el Modelo Entrenado para su Programacion en p5.js
-
-+ CODIGO EN TEXTO
-
-+ Una vez descargado el código pasamos a editarlo para que funcionara, basaandonos en los apuntes de la clase 6.
-
-+ PANTALLAZOS DE P5 DE:
-+ COMO ABRIRLO
-+ COMO EXPORTARLO
-+ QUE AGREGAR/CAMBIAR/BORRAR EN EL CODIGO (version del TM)
-+ OJALA COMO UN ANTES Y UN DESPUES
+![WhatsApp Image 2024-10-04 at 15 42 15](https://github.com/user-attachments/assets/592193ed-d102-4204-b598-45b0bda51d61)
 
 
-Link del proyecto
-https://editor.p5js.org/MauroSSJ24/sketches/RAdOvOTE5
+
++ Para lograr que el código funcionara cambiamos la versión de ml5 agregando el siguiente línea de código
+![Cambio de version necesario para que corra la programacion](https://github.com/user-attachments/assets/1378f553-e470-4b65-a5f9-a42d47a62895)
+![Cambio en el index para la nueva version ](https://github.com/user-attachments/assets/42431f15-d07f-4160-9063-57e022927536)
+
+
++ Creamos la carpeta my_model en la que ser encuentra el código de teachable machine el cual contiene el entrenamiento de las muestras
+
+
+![Captura de pantalla 2024-10-04 155308](https://github.com/user-attachments/assets/a12f785f-8cb4-47f4-93bd-0d3a495a570c)
+
+![Captura de pantalla 2024-10-04 155646](https://github.com/user-attachments/assets/ed5a37d0-f18c-4f9f-8880-4a0773e39a6e)
+
+
+
++ Una vez descargado el código pasamos a editarlo para que funcionara, basandonos en los apuntes de la clase 6.
 
 
 + Nos basamos en el ejemplo de Vixo46 para arreglar los errores de p5 del codigo entrenado. Copiamos y destruimos su codigo para adaptarlo al nuestro, para poder correr nuestro codigo, logrando que funcione. Luego al seguir revisando y corroborando paso a paso los dos codigos, nos dimos cuenta que NO GUARDAMOS EL COGIDO DENTRO DE P5, lo que nos generaba el error y no funcionaba el codigo.
+
+
+Link del proyecto
+
+
+https://editor.p5js.org/MauroSSJ24/sketches/RAdOvOTE5
+
 
 
 
