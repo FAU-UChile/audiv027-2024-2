@@ -65,7 +65,9 @@ https://editor.p5js.org/p5/sketches/Interaction:_Wavemaker
 ![image](https://github.com/user-attachments/assets/b0231cda-63b4-4d42-9e1b-690508b31ed8)
 
 REFERENCIAS:
-https://p5js.org/reference/#Color - https://p5js.org/reference/p5/fill/
+https://p5js.org/reference/#Color 
+
+https://p5js.org/reference/p5/fill/
 
 https://editor.p5js.org/ml5/sketches/HUm7NYMW3
 
@@ -240,5 +242,3 @@ function keyPressed() {
 ## CONCLUSIÓN 
 
 Durante el desarrollo del proyecto, identificamos una posible aplicación profesional muy interesante. Este sistema podría utilizarse de manera interactiva en eventos de moda, especialmente en pasarelas. La idea es que la máquina detecte los colores de las prendas que llevan los modelos y, en tiempo real, estos colores se proyecten en las visuales del evento. 
-
-Por otro lado se podría experimentar con el sonido haciendo que por ejemplo una canción se represente como imagen stereo para acompañar este tipo de eventos.
