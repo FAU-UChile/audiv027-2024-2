@@ -26,6 +26,7 @@
 * https://editor.p5js.org/Dielox-X9/sketches/E5jqxzdb8
 * https://editor.p5js.org/cottito/sketches/2psk2RI5L
 
+![Logo de la u](https://github.com/user-attachments/assets/0dd59948-2df4-46a9-ab32-ea2e163012c0)
 
 ## instrucciones de trabajo de mitad de semestre
 
