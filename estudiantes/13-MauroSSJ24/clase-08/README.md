@@ -36,6 +36,7 @@ x.- Planteamiento del experimento e idea base para el posterior plan de accion p
 
 x.- Preparacion de los materiales para las muestras del modelo
 ![2](https://github.com/user-attachments/assets/ed61b34f-a7cb-4bf1-a453-ee7cf52ac140)
+![5](https://github.com/user-attachments/assets/d8a910f4-e63e-436f-8699-75be0450bf66)
 
 
 x.-
@@ -44,6 +45,11 @@ x.-
 
 x.- Creacion de las muestras 
 ![1](https://github.com/user-attachments/assets/797423cd-10b9-4da7-a2c9-d23016fca893)
+
+![3](https://github.com/user-attachments/assets/2c793441-5985-49f0-9919-f1ff03057a3b)
+
+![4](https://github.com/user-attachments/assets/c32e9ee7-c9ad-4de8-b49d-4f77a41a5ebf)
+
 
 x.-
 
@@ -58,6 +64,7 @@ x.-
 ![Modelo entrenado_](https://github.com/user-attachments/assets/903e3054-a7af-42af-bbe9-40c842cdf688)
 
 x.-
+
 
 x.-
 
