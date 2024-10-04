@@ -12,7 +12,7 @@
 -----
 **MOTIVACION:**
 
-  Como buenos expertos en bebidas, queremos enseñarle a la maquina y al mundo los gustos refinados de este grupo en lo que a gaseosas corresponde, por lo que hemos decidido entrenar a la maquina para que logre reconocer o identificar entre lo mejor de lo mejor: Coca-Cola y Pepsi. Eligiendo estas bebidas por su notoria rivalidad y poularidad. ¿y que pasa si identifica otra forma o marcas? !pues lo marcará como wakala¡ así es, ya que nada se le acerca a su impresionante sabor y porque obviamente, no cualquiera está a la altura de nuestros altos estandares. !Vamos a enseñarle a la maquina a ser tan exigente y selectiva como nosotros¡
+  Como buenos expertos en bebidas, queremos enseñarle a la maquina y al mundo los gustos refinados de este grupo en lo que a gaseosas corresponde, por lo que hemos decidido entrenar a la maquina para que logre reconocer o identificar entre lo mejor de lo mejor: Coca-Cola y Pepsi. Eligiendo estas bebidas por su notoria rivalidad y popularidad. ¿y que pasa si identifica otra forma o marcas? !pues lo marcará como wakala¡ así es, ya que nada se le acerca a su impresionante sabor y porque obviamente, no cualquiera está a la altura de nuestros altos estandares. !Vamos a enseñarle a la maquina a ser tan exigente y selectiva como nosotros¡
 
 
 -----
@@ -32,7 +32,7 @@
 
 
 -----
-PROCESO PASO A PASO:
+**PROCESO PASO A PASO:**
 
 + Planteamiento del experimento e idea base para el posterior plan de accion para lograr el objetivo que nos propusimos.
 
@@ -89,6 +89,11 @@ PROCESO PASO A PASO:
 + COMO EXPORTARLO
 + QUE AGREGAR/CAMBIAR/BORRAR EN EL CODIGO (version del TM)
 + OJALA COMO UN ANTES Y UN DESPUES
+
+
+Link del proyecto
+https://editor.p5js.org/MauroSSJ24/sketches/RAdOvOTE5
+
 
 + Nos basamos en el ejemplo de Vixo46 para arreglar los errores de p5 del codigo entrenado. Copiamos y destruimos su codigo para adaptarlo al nuestro, para poder correr nuestro codigo, logrando que funcione. Luego al seguir revisando y corroborando paso a paso los dos codigos, nos dimos cuenta que NO GUARDAMOS EL COGIDO DENTRO DE P5, lo que nos generaba el error y no funcionaba el codigo.
 
