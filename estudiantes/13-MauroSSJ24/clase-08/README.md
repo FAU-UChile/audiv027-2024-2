@@ -112,7 +112,7 @@
 
 
 Link del proyecto
-
+(Archivos subidos en la carpeta "Clase 08")
 
 https://editor.p5js.org/MauroSSJ24/sketches/RAdOvOTE5
 
@@ -122,7 +122,15 @@ https://editor.p5js.org/MauroSSJ24/sketches/RAdOvOTE5
 -----
 CONCLUSIONES:
 
- (la mala costumbre de no guardar) Recordatorio: SIEMPRE APRETAR CTRL + S EN P5 DESDE UN PRINCIPIO.
+Al finalizar el trabajo logramos que funcionara el codigo del entrenamiento en p5, tuvimos un inconveniente al ejecutar el codigo en p5, no funcionaba, corrigiendo la mayor parte de ellos con la referencia del trabajo del compañero @Vixo46, dandonos cuenta del error nuestro al no guardar, (la mala costumbre de no guardar) Recordatorio: SIEMPRE APRETAR CTRL + S EN P5 DESDE UN PRINCIPIO o GUARDAR!!!
+
+
+![funciona](https://github.com/user-attachments/assets/1304964c-1c9d-4787-84d4-30ea973f1f21)
+
+
+A futuro lo que queriamos con el experimento era que la respuesta al mostrar las bebidas designadas fuera con una imagen de referencia por cada opcion, no solo los nombres sino que mostrara una respuesta visual de las preferencias hechas por nosotros. Un modo de aplicar esta idea podría haber sido como una broma o juego en alguna junta o fiesta entre amigos, donde el grupo puede juzgar o criticar de forma "sana" los gustos de los demas. 
+
+ 
 
 
 
@@ -130,11 +138,22 @@ CONCLUSIONES:
 -----
 CITAS O REFERENTES:
 
-+ "Vixo46" 
++ "Vixo46" @Vixo46
+
+  https://editor.p5js.org/Vixo46/sketches/48-lltxcU
 
 + "Clase 06"
-  https://github.com/MauroSSJ24/audiv027-2024-2/tree/main/estudiantes/13-MauroSSJ24/clase-06
-  https://github.com/sebasebamv/audiv027-2024-2/tree/main/estudiantes/08-sebasebamv/clase-06
-  https://github.com/Paola-Garcia24/audiv027-2024-2/tree/main/estudiantes/05-PaolaGarcia24/clase-06
 
-+ "Markdown Cheatsheet https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+  
+  https://github.com/MauroSSJ24/audiv027-2024-2/tree/main/estudiantes/13-MauroSSJ24/clase-06
+
+  
+  https://github.com/sebasebamv/audiv027-2024-2/tree/main/estudiantes/08-sebasebamv/clase-06
+
+  
+  https://github.com/Paola-Garcia24/audiv027-2024-2/tree/main/estudiantes/05-PaolaGarcia24/clase-06
+  
+
++ "Markdown Cheatsheet"
+
+   https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
