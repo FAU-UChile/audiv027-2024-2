@@ -37,7 +37,7 @@ Nuestro objetivo es observar y analizar los datos que nos proporciona la máquin
 Fase 1 Probando teacheable machine
 Iniciamos la primera fase entrenando la máquina con música de Luis Miguel. 
 
-Comenzamos con un modelo de präctica para observar su comportamiento. 
+Comenzamos con un modelo de práctica para observar su comportamiento. 
 Le introdujimos ruido de fondo a través del micrófono, y luego le enseñamos lo que debía identificar como Luis Miguel utilizando la canción "Cuestión de Piel".
 lo preparamos  y nos dio el modelo.
 
@@ -212,11 +212,11 @@ En conclusión, nuestros modelos enfrentan dificultades al clasificar las vocale
 
 Herramientas 
 
-https://teachablemachine.withgoogle.com/train
+https://teachablemachine.withgoogle.com/train que funciona con Tensorflow en esta versión 2.0.0
 
-https://editor.p5js.org/
+https://editor.p5js.org/ versión 1.10.0
 
-https://docs.ml5js.org/#/
+https://docs.ml5js.org/#/ versión 0.12.2
 
 
 
