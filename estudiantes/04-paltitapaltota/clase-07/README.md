@@ -172,7 +172,9 @@ Con ello abrimos abrimos p5.js utilizando Teachable Machine como base para la im
 
 Luego insertamos nuestro url aquí 
 
-![image](https://github.com/user-attachments/assets/c9db5fd0-f200-4eac-8c6b-4deeefbbc9f1)![Captura de pantalla 2024-10-04 003954](https://github.com/user-attachments/assets/299f3e44-a8f4-4863-8c92-7d173a1930de)
+![Captura de pantalla 2024-10-04 022015](https://github.com/user-attachments/assets/504cb1b1-dd3b-4c06-8400-66cd55c67e1e)
+
+
 
 
 Y lo hacemos funcionar
@@ -196,7 +198,8 @@ Modelo A
 
 Modelo B
 
-![image](https://github.com/user-attachments/assets/cb952060-622b-4fad-8610-0fd0826a71ae)
+![image](https://github.com/user-attachments/assets/1d76f6f0-b8c6-491b-af15-c2f65af623a1)
+
 
 
 
