@@ -35,9 +35,14 @@ Nuestro objetivo es observar y analizar los datos que nos proporciona la máquin
 Fase 1 Probando teacheable machine
 Iniciamos la primera fase entrenando la máquina con música de Luis Miguel 
 
-Comenzamos con un modelo práctico para observar su comportamiento. 
+Comenzamos con un modelo de präctica para observar su comportamiento. 
 Le introdujimos ruido de fondo a través del micrófono, y luego le enseñamos lo que debía identificar como Luis Miguel utilizando la canción "Cuestión de Piel".
-lo preparamos con 50 epocas ( aldkald) y nos da el modelo  (insertar video)
+lo preparamos  y nos
+
+https://github.com/user-attachments/assets/1c0a5a87-fb2c-41f2-a5ea-78164430aed1
+
+ da el modelo 
+
 
 
 # Resultados del primer modelo
@@ -128,16 +133,17 @@ https://github.com/user-attachments/assets/9d67830e-cdad-4e73-b3a6-a6dccb2d1765
 
 
 Modelo B
+
 Hicimos los mismos pasos que en el anterior 
 
 
-preparación 
+Preparación 
 
 
 ![image](https://github.com/user-attachments/assets/69f36218-8766-4875-b863-091a98142b92)
 
 
-exportación del modelo 
+Exportación del modelo 
 
 ![image](https://github.com/user-attachments/assets/b66974bc-90f3-40ec-b321-f3d2de405dbc)
 
@@ -158,11 +164,12 @@ con ello abrimos abrimos p5.js utilizando Teachable Machine como base para la im
 ![image](https://github.com/user-attachments/assets/ddb4cca8-e1f7-4939-870b-a11c6e547e62)
 
 
-luego insertamos nuestro url aquí 
+Luego insertamos nuestro url aquí 
 
-![Uploading image.png…]()
+![Uploading image.png…]()![Captura de pantalla 2024-10-04 003954](https://github.com/user-attachments/assets/299f3e44-a8f4-4863-8c92-7d173a1930de)
 
-y lo hacemos funcionar
+
+Y lo hacemos funcionar
 
 
 
