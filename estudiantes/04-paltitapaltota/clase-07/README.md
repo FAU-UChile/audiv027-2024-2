@@ -88,8 +88,35 @@ de aqui cada integrantes hizo su proyeecto con variaciones, leandro (A) gesticul
 
 Modelo A
 preparacion 
+
+
 ![image](https://github.com/user-attachments/assets/24a87836-d4b5-4834-b295-785642b09ee3)
+
+
 esportacion del modelo 
+![image](https://github.com/user-attachments/assets/d7c1e685-36fc-41e9-8fa4-98c55fd04df4)
+
+descargo el modelo y se subio tambien a drive teable machine nos dio un link 
+
+https://teachablemachine.withgoogle.com/models/aZKcmkb93/
+
+con ello abrimos p5 atravez de table machine abrimos nuestra cuenta y empezamos a configurar el modelo le quitamos la linea de codigo numero 8ya que estaba desaactualizada y la remplazamos por la que nos dios ml5
+
+![image](https://github.com/user-attachments/assets/dc58f1a4-7a5d-43ba-9263-04b5d7a371f9)
+
+
+![image](https://github.com/user-attachments/assets/7ba5d2d8-b279-40fc-8579-8bcd5a0554ce)
+
+
+![image](https://github.com/user-attachments/assets/ddb4cca8-e1f7-4939-870b-a11c6e547e62)
+
+
+
+
+
+
+
+
 
 
 
