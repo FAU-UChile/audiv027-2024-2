@@ -78,9 +78,6 @@
   
 ![Modelo entrenado_](https://github.com/user-attachments/assets/903e3054-a7af-42af-bbe9-40c842cdf688)
 
-+ x 
-
-+ x
 
 
 + Descarga y exportacion del Modelo Entrenado para su posterior Programacion en p5.js
@@ -111,6 +108,7 @@
 
 
 + Nos basamos en el ejemplo de Vixo46 para arreglar los errores de p5 del codigo entrenado. Copiamos y destruimos su codigo para adaptarlo al nuestro, para poder correr nuestro codigo, logrando que funcione. Luego al seguir revisando y corroborando paso a paso los dos codigos, nos dimos cuenta que NO GUARDAMOS EL COGIDO DENTRO DE P5, lo que nos generaba el error y no funcionaba el codigo.
+
 
 
 Link del proyecto
