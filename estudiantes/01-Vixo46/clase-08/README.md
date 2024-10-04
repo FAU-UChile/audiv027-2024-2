@@ -158,7 +158,13 @@ El codigo que pegamos tanto aqui y para nuestro proyecto, no es el mismo que nos
 
 ### errores que surguieron
 
-Tuvimos muchos errores, pero por lo general, muchos de estos fueron por error de tipeo u orden de los codigos. una letra en mayuscula nos mandaba todo el trabajo a negro, o poner una linea donde debia, hacia que el p5 colapsara. tambien el uso de un  navegador compatible con p5, por ejemplo, mucho del trabajo previo fue realizado con el navegador Brave, pero al momento de probarlo, tiraba error de compatibilidad con elementos especificos o etc. asi que finalmente todo lo que era probar y cambiar, fue hecho con Google Chrome (navegador mas compatible con todo)
+Tuvimos muchos errores, pero por lo general, muchos de estos fueron por error de tipeo u orden de los codigos. una letra en mayuscula nos mandaba todo el trabajo a negro, o poner una linea donde debia, hacia que el p5 colapsara. tambien el uso de un  navegador compatible con p5, por ejemplo, mucho del trabajo previo fue realizado con el navegador Brave, pero al momento de probarlo, tiraba error de compatibilidad con elementos especificos o etc. asi que finalmente todo lo que era probar y cambiar, fue hecho con Google Chrome (navegador mas compatible con todo).
+
+![error_1](https://github.com/user-attachments/assets/da363133-fb50-46e2-ae56-76a7752be6ce)
+![error_2](https://github.com/user-attachments/assets/9b976221-b4ef-4042-9ff8-f9f68c138f6a)
+![error_3](https://github.com/user-attachments/assets/bb27590f-18d5-4943-a666-2d56046612ef)
+![error_4](https://github.com/user-attachments/assets/dab7348a-4726-423c-8adc-afe759d717bd)
+
 
 ### Conclusiones
 
