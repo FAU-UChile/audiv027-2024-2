@@ -195,7 +195,10 @@ Modelo B
 
 ![Uploading image.png…]()
 
-La "E" al ser gesticulada muy similarmente a la "I" es confundido por el modelo B lo cual la E también la detecta  como la "I", pero claramente la "E" presenta poca presicion al igual que la u, la "O" es muy difícil hacer que se detecte por lo cual no aparece en las imagenes ya que no logramos sacarle screenshot.
+En el modelo B, se observó que la vocal "E" tiende a ser confundida con la vocal "I", debido a que ambas presentan gesticulaciones muy similares. Esta confusión provoca que el modelo clasifique erróneamente la "E" como "I" en varios casos. Además, la detección de la vocal "E" muestra una precisión limitada, similar a lo que ocurre con la vocal "U", la cual también presenta dificultades de identificación.
+
+En cuanto a la vocal "O", su detección resulta especialmente complicada, lo que ha impedido que el modelo la reconozca adecuadamente. Como resultado, la vocal "O" no aparece en las imágenes generadas durante las pruebas, ya que no se logró capturar ningún momento en el que fuera correctamente identificada, impidiendo incluso obtener capturas de pantalla.
+
 
 
 ### Conclusiones 
