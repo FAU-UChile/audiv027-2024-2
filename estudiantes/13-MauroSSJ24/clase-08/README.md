@@ -4,7 +4,7 @@ INTEGRANTES:
 
 @PaolaGarcia24 : Paola Garcia 
 @MauroSSJ24 : Mauricio Catalan 
-@sebasebamv : Sebastian "Apellido" 
+@sebasebamv : Sebastian Mella
 
 
 MOTIVACION:
