@@ -6,7 +6,7 @@ Leandro Méndez.
 
 Paula Faray. 
 
-mi equipo de trabajo es <https://github.com/BatmanTheDay27> y <<https://github.com/paltitapaltota>>, entregamos en el repositorio en este enlace <https://github.com/disenoUChile/audiv027-2024-2/estudiantes/paltitapaltota/clase-07>.
+mi equipo de trabajo es <https://github.com/BatmanTheDay27> y <https://github.com/paltitapaltota>, entregamos en el repositorio en este enlace <https://github.com/FAU-UChile/audiv027-2024-2/blob/main/estudiantes/04-paltitapaltota/clase-07/README.md>.
 
 ### Clasificador de géneros de música 
 Idea base
