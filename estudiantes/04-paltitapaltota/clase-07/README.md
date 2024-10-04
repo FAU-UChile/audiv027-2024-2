@@ -11,11 +11,11 @@ Mi equipo de trabajo está conformado por <https://github.com/BatmanTheDay27> y 
 ### Clasificador de géneros de música 
 Idea base
 
-La problemática: Personas que no son capaces de reconocer géneros musicales https://www.reddit.com/r/LetsTalkMusic/comments/mem3pd/i_feel_like_i_cant_identifyunderstand_music_genres/
+La problemática: Personas que no son capaces de reconocer géneros musicales. https://www.reddit.com/r/LetsTalkMusic/comments/mem3pd/i_feel_like_i_cant_identifyunderstand_music_genres/
 ![image](https://github.com/user-attachments/assets/bea5a365-6055-45ec-b416-97ad5ba0f14f)
 
 
-Oportunidad: generar un proyecto que pueda detectar los principales géneros y variantes, que estén presentes en el audio musical que desee clasificar.
+Oportunidad: Generar un proyecto que pueda detectar los principales géneros y variantes, que estén presentes en el audio musical que desee clasificar.
 
 
 Recolectaremos información de canciones que pertenece a ese género musical con un mapa virtual llamado musicmap, el cual contiene referentes de distintos géneros y variantes, también emplearemos el uso de nuestros propios conocimientos musicales ya que sabemos bastante de algunos géneros puntuales para así poder entrenar teachable machine.    
@@ -24,7 +24,7 @@ Recolectaremos información de canciones que pertenece a ese género musical con
 
 
 
-Géneros que usaremos para entrenar en teachable machine : Jpop, Pop, Rock, Hip-Hop, Metal 
+Géneros que usaremos para entrenar en teachable machine : Jpop, Pop, Rock, Hip-Hop y Metal. 
 
 Referentes musicales en : https://musicmap.info/
 ------------------------------------------------------------
@@ -35,11 +35,11 @@ Durante una conversación con el profesor, surgió una nueva idea la cual llevar
 Nuestro objetivo es observar y analizar los datos que nos proporciona la máquina al que le daremos acceso a canciones de estos 3 conceptos/artistas. Queremos comprender cómo responde el modelo ante estímulos que están dentro o fuera de estas tres clasificaciones.
 
 Fase 1 Probando teacheable machine
-Iniciamos la primera fase entrenando la máquina con música de Luis Miguel 
+Iniciamos la primera fase entrenando la máquina con música de Luis Miguel. 
 
 Comenzamos con un modelo de präctica para observar su comportamiento. 
 Le introdujimos ruido de fondo a través del micrófono, y luego le enseñamos lo que debía identificar como Luis Miguel utilizando la canción "Cuestión de Piel".
-lo preparamos  y nos dio el modelo
+lo preparamos  y nos dio el modelo.
 
 https://github.com/user-attachments/assets/1c0a5a87-fb2c-41f2-a5ea-78164430aed1
 
