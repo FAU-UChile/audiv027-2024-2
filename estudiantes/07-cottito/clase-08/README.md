@@ -136,8 +136,8 @@ Se añadió un conjunto de imágenes PNG que se pueden usar para probar el funci
 
 
 ## Edición final
-https://editor.p5js.org/cottito/sketches/wx6DdNEEf
-https://editor.p5js.org/Dielox-X9/sketches/2MBaw99f1
+* https://editor.p5js.org/cottito/sketches/wx6DdNEEf
+* https://editor.p5js.org/Dielox-X9/sketches/2MBaw99f1
 
 
 
