@@ -11,6 +11,10 @@ No pudimos desmenuzar el código y hacer que tanto el facemesh de video como el 
 
 * https://editor.p5js.org/cottito/sketches/rOvRVM_xn
 ![000](https://github.com/user-attachments/assets/857d1aed-b957-4a43-a3bc-e7b2b671ea33)
+![pruebas_caras01@2x-100](https://github.com/user-attachments/assets/2a96196c-9e05-494a-80d6-af1862d70665)
+
+![deteccion_rostro](https://github.com/user-attachments/assets/57f10138-1cf2-40c0-9c57-31cdc6700474)
+
 
 ### 3. Al no obtener los resultados que queríamos, optamos por otras ideas, encontrando el modelo de sticker (LET EMOJI - LET POSESNET de Daniel Shiffman)
 
@@ -19,6 +23,7 @@ No pudimos desmenuzar el código y hacer que tanto el facemesh de video como el 
 ### 4. Se logra implementar una imagen encima del rostro, pero es muy movida y a veces desaparecía cuando dejaba de reconocer los puntos esenciales.
 
 ### 5. Se implementa el comando CANVASTEXT para dar instrucciones puntuales del desarrollo de la experiencia (“colocar una imagen o url”)
+![url texto](https://github.com/user-attachments/assets/0425bd99-33f9-469f-9d68-1fd05290b24a)
 
 ### 6. Cambio a BodyPoses de ML5, se encontraron mejores resultados en el reconocimiento y la imagen superpuesta era más estatica pudiendo reconocer zonas esenciales incluso si no estaban presentes.
 https://github.com/user-attachments/assets/82e7cc87-72d7-479a-8cf9-25e28ae94150
@@ -33,15 +38,19 @@ https://github.com/user-attachments/assets/82e7cc87-72d7-479a-8cf9-25e28ae94150
 
 * https://docs.ml5js.org/#/reference/bodypose
 
-### 2. Se implementó el reconocimiento facial, junto a una imagen que sigue las coordenadas de la nariz, y ojos
-
+### 2. Se implementó el reconocimiento facial, junto a una imagen que sigue las coordenadas de la nariz, y ojos (aún no perfectamente)
+![dos_imgs@2x-100](https://github.com/user-attachments/assets/6f935238-bc04-49ca-870a-44f8d87f6029)
 
 ### 3. Función Connection eliminada porque no hacia falta
 
 ### 4. Se implementó el Dropeo de imágenes directamente al lienzo
+![drop_area](https://github.com/user-attachments/assets/f88eec59-f6ef-4e85-8424-fe0a88e185ca)
 
 ### 5. Se implementa el comando CANVASTEXT para dar instrucciones puntuales del desarrollo de la experiencia (“ARRASTRA TU IMAGEN (PNG) O PEGA UNA URL (JPG),”) o reconocimiento de error (“ERROR: URL NO VÁLIDA O NO ES UNA IMAGEN”) también se redondeo y se añadio un contorno
+![error_imagen](https://github.com/user-attachments/assets/fc36776b-4821-47f5-8a56-aca0a16e45cd)
+
 ![arrastra](https://github.com/user-attachments/assets/83a5cf8b-53e0-4fb2-bf93-dac46b8ecac5)
+
 
 ### 6. Opción de añadir imagen por Url + Botón de carga + reseteo de la barra
 
@@ -54,6 +63,7 @@ https://github.com/user-attachments/assets/82e7cc87-72d7-479a-8cf9-25e28ae94150
 
 ### 10. Repertorio de imágenes PNG para probar el código
 
+![Recurso 10](https://github.com/user-attachments/assets/d048197e-cd6b-4d38-8e3d-719741b15520)
 
 
 
@@ -91,3 +101,8 @@ https://github.com/user-attachments/assets/82e7cc87-72d7-479a-8cf9-25e28ae94150
 https://editor.p5js.org/cottito/sketches/wx6DdNEEf
 https://editor.p5js.org/Dielox-X9/sketches/2MBaw99f1
 
+
+
+```md
+mi equipo de trabajo es <https://github.com/cottito> y <<https://github.com/Dielox-X9>>, entregamos en el repositorio en este enlace <https://github.com/disenoUChile/audiv027-2024-1/estudiantes/NOMBRE/clase-06>.
+```
