@@ -110,6 +110,17 @@ con ello abrimos p5 atravez de table machine abrimos nuestra cuenta y empezamos 
 
 ![image](https://github.com/user-attachments/assets/ddb4cca8-e1f7-4939-870b-a11c6e547e62)
 
+luego insertamos nuetro url  aqui 
+
+![image](https://github.com/user-attachments/assets/d9e56527-71fd-4100-bc39-92af9f127b41)
+
+y lo hacemos funcionar 
+
+
+
+https://github.com/user-attachments/assets/9d67830e-cdad-4e73-b3a6-a6dccb2d1765
+
+
 
 
 
