@@ -172,6 +172,11 @@ https://github.com/user-attachments/assets/4270b80f-adbf-4bbb-acfc-aca403d6b7ac
 
 ### Análisis 
 
+A partir de los videos generados durante el proceso de entrenamiento, se identificaron diferencias significativas en el desempeño de los modelos A y B. En el caso del modelo A, se observó un problema con la vocal "O", que es frecuentemente confundida con las vocales "A" y, sobre todo, la "U". Esta confusión se debe, en gran medida, a que es una vocal abierta y el programa no logra clasificarla de manera adecuada. A pesar de los esfuerzos de Leandro, quien gesticula de forma exagerada para diferenciar las vocales, el sistema no consigue distinguirlas con precisión.
+
+Por otro lado, el modelo B presenta dificultades generalizadas en la identificación de las vocales. El programa no es capaz de detectar diferencias significativas entre ellas, debido a la falta de gesticulación en comparación con el modelo A. Aunque parece reconocer con mayor precisión las vocales "I" y "U", las restantes vocales se clasifican de manera aleatoria. En particular, la vocal "O" prácticamente no es reconocida por el modelo, lo cual parece estar directamente relacionado con la insuficiente gesticulación durante el entrenamiento, como se refleja en el video asociado a este modelo.
+
+
 
 conlusiones 
 
