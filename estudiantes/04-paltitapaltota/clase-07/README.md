@@ -60,7 +60,6 @@ Antes de avanzar con el desarrollo oficial del proyecto, queríamos comprobar su
 
 
 
-![Captura de pantalla 2024-10-02 223627](https://github.com/user-attachments/assets/1a150efb-8b95-4119-bba7-1c158cf10faf)
 
 pesaba más de lo normal por lo cual lo subimos el modelo a través de un link que genera teachable machine.
 ![image](https://github.com/user-attachments/assets/9759d5c1-39ce-4a42-b508-595fee4a8256)
@@ -90,7 +89,7 @@ El proceso de entrenamiento de nuestro modelo comenzó con la identificación de
 Cada integrante del equipo entrenó el modelo con ligeras variaciones. Por ejemplo, Leandro (A) gesticuló mucho y acercó su rostro a la cámara durante el entrenamiento, mientras que Paula (B) adoptó un enfoque más moderado, tratando de crear una versión más cercana a la realidad, con movimientos labiales más sutiles. Estas diferencias nos permitirán comparar resultados y ajustar el modelo para mejorar su precisión.
 
 Modelo A
-preparación 
+Preparación 
 
 
 ![image](https://github.com/user-attachments/assets/24a87836-d4b5-4834-b295-785642b09ee3)
