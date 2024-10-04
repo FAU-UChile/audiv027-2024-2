@@ -1,14 +1,16 @@
 # clase
 ## Proceso de Trabajo
-* Se decidió trabajar con el modelo de FaceMesh, con la intención de usar esa malla para reemplazar el rostro con otra imagen
-* Como idea, los rostros que se mostrarían encima de la grilla serían personajes de Breaking Bad
+* Idea incial: se decidió trabajar con el modelo de FaceMesh, con la intención de usar esa malla para reemplazar el rostro con otra imagen
+* Como idea, los rostros que se mostrarían encima de la grilla serían personajes de Breaking Bad 
 * Con ayuda de tutoriales, pudimos colocar una base en el rostro, por ahora podemos trazar puntos en sectores del rostro de color negro (PUNTOS)
+* Modelo WEBGL
+![000](https://github.com/user-attachments/assets/1fec0acd-ffed-4970-9f9e-fa1c2ef9d9e4)
 
+![002](https://github.com/user-attachments/assets/55dfa53a-dcb7-4d0b-be5e-a01b4b27c2d7)
 
+* Buscar alguna forma de utilizar esa malla y colocar los rostros encima
 
-
-
-## Links y Referentes
+## Links y Referentes encontrados 
 * https://docs.ml5js.org/#/reference/facemesh
 * https://github.com/tensorflow/tfjs-models/tree/master/face-landmarks-detection
 * https://github.com/tensorflow/tfjs-models/tree/master/face-landmarks-detection/demos
@@ -18,18 +20,25 @@
 * https://mediapipe-studio.webapps.google.com/demo/face_landmarker?hl=es-419
 * https://www.youtube.com/watch?v=ZXK8eFi0yKs
 * https://editor.p5js.org/p5/sketches
+* https://p5js.org/reference/p5/createModel/
 
 
 ## Progreso de Trabajo
 * https://editor.p5js.org/cottito/sketches/rOvRVM_xn
+* https://editor.p5js.org/Dielox-X9/sketches/E5jqxzdb8
+* https://editor.p5js.org/cottito/sketches/2psk2RI5L
+
+
 
 
 ## instrucciones de trabajo de mitad de semestre
 
-- se empieza hoy
+- se empieza hoy!
+
 - se entrega el próximo viernes hasta las 2:00pm, vía GitHub, en tu fork.
 - si hay un commit posterior, no se tomará en cuenta
-- el proyecto es en grupos de 2 o 3 personas
+- el proyecto es en grupos de 2 o 3 personas![pruebas_caras01@2x-100](https://github.com/user-attachments/assets/83dbade8-f514-4dbd-b730-45c03bf7ced4)
+
 - el proyecto se hace con la tecnología que ustedes quieran
 - el proyecto se presenta en clases, mostrando los contenidos de la entrega en GitHub
 - el proyecto es sobre lo que hemos visto en clases, posibles formatos:
