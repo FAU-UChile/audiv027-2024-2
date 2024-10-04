@@ -208,6 +208,14 @@ En cuanto a la vocal "O", su detección resulta especialmente complicada, lo que
 
 En conclusión a nuestros modelos les cuesta clasificar las vocales porque los humanos, además de no hacer lo mismo movimientos siempre, la forma de gesticular es muy similar entre vocales por lo cual se debe hacer un acompañamiento auditivo para que sea más preciso el modelo
 
+Herramientas 
+
+https://teachablemachine.withgoogle.com/train
+
+https://editor.p5js.org/
+
+https://docs.ml5js.org/#/
+
 
 
 ### Conclusiones
@@ -217,6 +225,7 @@ Para cerrar esta travesía, que en ocasiones resultó frustrante y obstaculizada
 A través de esta experiencia, hemos dejado de lado muchos de los prejuicios que teníamos sobre la programación. Hemos descubierto que no es tan complicada como pensábamos, y que siempre existe una comunidad dispuesta a brindar soluciones, ayudarse y corregirse mutuamente. Esto nos ha demostrado que, al iniciarse en la programación, el entorno no es tan hostil como parece al principio.
 
 Además, el uso de esta tecnología nos ha abierto nuevas perspectivas, brindándonos herramientas adicionales para encontrar nuevas soluciones y enfoques en futuros proyectos.
+
 
 
 
