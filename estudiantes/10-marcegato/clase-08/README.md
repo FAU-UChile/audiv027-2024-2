@@ -2,6 +2,8 @@
 
 La entrega y proceso de este trabajo está en la clase 08 en el perfil de mi compañero <https://github.com/Vixo46>
 
+https://github.com/Vixo46/audiv027-2024-2/tree/main/estudiantes/01-Vixo46/clase-08
+
 ## Malgenio Hater v.1
 
 *Trabajo realizado por Vicente Barros <https://github.com/Vixo46> y Marcela Osorio <https://github.com/marcegato>*
