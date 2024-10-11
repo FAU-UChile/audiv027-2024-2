@@ -13,3 +13,9 @@ Casey Reas es una figura clave en el arte generativo y la codificación creativa
 Su práctica artística combina el código con la estética modernista (No estoy muy seguro, pero eso es lo que entendí), dando como resultado obras tanto digitales como físicas que exploran la intersección del arte, la tecnología y el software. 
 
 El trabajo de Reas se ha exhibido en instituciones prestigiosas como el Museo de Arte Moderno (MoMA) de Nueva York y el Centro Pompidou de París. Entre sus proyectos más destacados se incluyen sus obras de arte generativas de formato largo en plataformas como Art Blocks y fxhash.
+
+## Rebecca Fiebrink
+
+Rebecca Fiebrink es una figura destacada y conocida por su trabajo sobre la interacción entre humanos y computadoras y el aprendizaje automático en contextos creativos. Una de sus contribuciones más notables es el desarrollo de Wekinator.
+
+Ha colaborado con artistas, músicos e instituciones, contribuyendo a campos como la interpretación musical interactiva y la creatividad computacional. Su trabajo ha sido influyente tanto en espacios académicos como artísticos, fomentando la colaboración interdisciplinaria.
