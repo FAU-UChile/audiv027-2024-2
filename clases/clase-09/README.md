@@ -22,3 +22,5 @@ tareas para hoy:
 - sam lavigne
 - hypereikon
 - yotam mann
+
+si suben sus apuntes entre hoy viernes 11 de octubre y el domingo 13 de octubre, tendrán su asistencia del día de hoy. disfruten su investigación :)
