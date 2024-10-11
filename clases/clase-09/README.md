@@ -2,7 +2,7 @@
 
 viernes 11 de octubre 2024
 
-clase híbrida, profesor en temuca
+clase híbrida, profesor en temuco dictando un curso intensivo de inteligencia artificial en <https://www.faadworkshop.com/>
 
 tareas para hoy:
 
