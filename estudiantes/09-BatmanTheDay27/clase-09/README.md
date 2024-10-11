@@ -10,4 +10,6 @@ Kogan es una figura destacada y ha contribuido a muchos proyectos de software de
 
 Casey Reas es una figura clave en el arte generativo y la codificación creativa, mejor conocido como uno de los creadores de Processing.
 
-Su práctica artística combina el código con la estética modernista (No estoy muy seguro, pero eso es lo que entendí), dando como resultado obras tanto digitales como físicas que exploran la intersección del arte, la tecnología y el software. El trabajo de Reas se ha exhibido en instituciones prestigiosas como el Museo de Arte Moderno (MoMA) de Nueva York y el Centro Pompidou de París. Entre sus proyectos más destacados se incluyen sus obras de arte generativas de formato largo en plataformas como Art Blocks y fxhash.
+Su práctica artística combina el código con la estética modernista (No estoy muy seguro, pero eso es lo que entendí), dando como resultado obras tanto digitales como físicas que exploran la intersección del arte, la tecnología y el software. 
+
+El trabajo de Reas se ha exhibido en instituciones prestigiosas como el Museo de Arte Moderno (MoMA) de Nueva York y el Centro Pompidou de París. Entre sus proyectos más destacados se incluyen sus obras de arte generativas de formato largo en plataformas como Art Blocks y fxhash.
