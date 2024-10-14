@@ -208,66 +208,40 @@ Janelle Shane es una científica investigadora y escritora conocida por su traba
 La IA ha sido un elemento central en su trabajo desde el inicio de su blog a mediados de la década de 2010. Al aprovechar modelos simples de aprendizaje automático y redes neuronales, la práctica artística de Shane se convirtió en un método para involucrar tanto a expertos técnicos como al público con IA. Su enfoque contrasta con muchos otros investigadores de IA, ya que usa el humor para criticar la sobreexpectativa de las tecnologías de IA. Este cambio hacia el uso de la IA para la narración creativa ha dado forma a gran parte de su trabajo reciente, incluidos sus compromisos de hablar y la charla TED, _"The danger of AI is weirder than you think."_
 
 
-(10) SAM LEVIGNE:
+(10) SAM LEVIGNE: 
+https://lav.io/
+https://proyectoidis.org/sam-lavigne/
 
 Sam Lavigne es un artista y educador cuyo trabajo explora principalmente las intersecciones de datos, vigilancia, aplicación de la ley y automatización. A lo largo de los años, su práctica ha integrado la inteligencia artificial (IA), particularmente en el ámbito del procesamiento del lenguaje natural (PNL) y las intervenciones en línea. Su trabajo a menudo destaca los sistemas políticos y económicos integrados en las tecnologías computacionales.
 
-Lavigne es bien conocido por crear proyectos que utilizan IA para exponer o manipular estos sistemas de manera estimulante. Por ejemplo, su proyecto "Synthetic Messenger", desarrollado con Tega Brain, genera un consumo de noticias falsas para resaltar cómo los modelos algorítmicos interactúan y se benefician de la desinformación. El uso de la IA por parte de Lavigne con frecuencia implica sátira y crítica, llamando la atención sobre cómo estas tecnologías dan forma a los comportamientos y estructuras sociales
-CAPITAL CREATIVO
-​
-MUSEO WHITNEY DE ARTE AMERICANO
-.
+Lavigne es bien conocido por crear proyectos que utilizan IA para exponer o manipular estos sistemas de manera estimulante. Por ejemplo, su proyecto _"Synthetic Messenger"_, desarrollado con Tega Brain, genera un consumo de noticias falsas para resaltar cómo los modelos algorítmicos interactúan y se benefician de la desinformación. El uso de la IA por parte de Lavigne con frecuencia implica sátira y crítica, llamando la atención sobre cómo estas tecnologías dan forma a los comportamientos y estructuras sociales. Como educador, Lavigne también desempeña un papel en la configuración del discurso en torno a la IA y la tecnología dentro de las comunidades académicas, particularmente en instituciones como la Universidad de Texas en Austin y anteriormente en la Escuela de Artes Tisch de la Universidad de Nueva York. 
 
-Como educador, Lavigne también desempeña un papel en la configuración del discurso en torno a la IA y la tecnología dentro de las comunidades académicas, particularmente en instituciones como la Universidad de Texas en Austin y anteriormente en la Escuela de Artes Tisch de la Universidad de Nueva York
-NYU TISCH ESCUELA DE LAS ARTES
-. Su integración de la IA en su trabajo refleja un cambio creciente en las prácticas de arte contemporáneo hacia el uso del aprendizaje automático y la automatización como herramientas para la crítica social. A través de su uso de la automatización y la IA, Lavigne continúa cuestionando la opacidad de la tecnología moderna, con el objetivo de desmitificarla y fomentar el compromiso crítico con su impacto social.
+Su integración de la IA en su trabajo refleja un cambio creciente en las prácticas de arte contemporáneo hacia el uso del aprendizaje automático y la automatización como herramientas para la crítica social. A través de su uso de la automatización y la IA, Lavigne continúa cuestionando la opacidad de la tecnología moderna, con el objetivo de desmitificarla y fomentar el compromiso crítico con su impacto social.
 
 
+(11) HYPEREIKON: Artistas (María Constanza Lobos y Sebastián Rojas)
+https://fundacionmaradentro.cl/articulo/hypereikon-la-creacion-digital-es-una-extension-de-naturaleza/
+https://artlabpro.net/hypereikon-explorando-la-ia-impulsada-por-un-imaginario-latinoamericano/
+https://comunidadcreativalosrios.cultura.gob.cl/catalogo/maria-constanza-lobos-catalan/
 
+Hypereikon es un dúo artístico formado por María Constanza Lobos y Sebastián Rojas, que se centran en las intersecciones del arte digital, la tecnología y la naturaleza. Su trabajo incorpora arte generativo e inteligencia artificial (IA) para crear experiencias inmersivas y oníricas que combinan elementos orgánicos con entornos surrealistas y diseñados digitalmente. Exploran temas de "naturaleza especulativa", imaginando cómo nuestra comprensión de los ecosistemas podría evolucionar dentro de un paisaje dominado digitalmente. 
 
-(11) HYPEREIKON
-
-Hypereikon es un dúo artístico formado por María Constanza Lobos y Sebastián Rojas, que se centran en las intersecciones del arte digital, la tecnología y la naturaleza. Su trabajo incorpora arte generativo e inteligencia artificial (IA) para crear experiencias inmersivas y oníricas que combinan elementos orgánicos con entornos surrealistas y diseñados digitalmente. Exploran temas de "naturaleza especulativa", imaginando cómo nuestra comprensión de los ecosistemas podría evolucionar dentro de un paisaje dominado digitalmente
-BADGER ROCK
-​
-HERALDO BUENOS AIRES
-.
-
-Aspectos Clave del Trabajo de Hypereikon
-Visión Artística e Integración de IA:
-
-Hypereikon describe su relación con la IA como una forma de "prótesis imaginativa", que mejora su proceso creativo al permitir que formas y conexiones inesperadas emerjan del espacio latente de la IA. Equilibran sus intenciones artísticas con los sorprendentes resultados generados por la IA, lo que sugiere un enfoque colaborativo y exploratorio de la creatividad
-BADGER ROCK
-​
-HERALDO BUENOS AIRES
-.
-Temas y Prácticas:
-
-Su trabajo enfatiza las líneas borrosas entre los reinos naturales y digitales, invitando a los espectadores a reconsiderar las nociones de lo que es "natural" versus "artificial." A menudo se involucran con el patrimonio cultural, reinventándolo a través de la lente de la tecnología contemporánea
-BADGER ROCK
-.
-Exposiciones y Participación Comunitaria:
-
-Hypereikon participa en varias exposiciones y eventos que muestran su trabajo y abordan preguntas más amplias sobre el papel de la IA en el arte. Por ejemplo, recientemente participaron en el evento "Intersecciones del futuro", que incluyó discusiones y talleres centrados en el impacto de la IA en la práctica artística
-HERALDO BUENOS AIRES
-.
-Evolución Con el Tiempo:
+Hypereikon describe su relación con la IA como una forma de "prótesis imaginativa", que mejora su proceso creativo al permitir que formas y conexiones inesperadas emerjan del espacio latente de la IA. Equilibran sus intenciones artísticas con los sorprendentes resultados generados por la IA, lo que sugiere un enfoque colaborativo y exploratorio de la creatividad. 
+Su trabajo enfatiza las líneas borrosas entre los reinos naturales y digitales, invitando a los espectadores a reconsiderar las nociones de lo que es "natural" versus "artificial." A menudo se involucran con el patrimonio cultural, reinventándolo a través de la lente de la tecnología contemporánea. Hypereikon participa en varias exposiciones y eventos que muestran su trabajo y abordan preguntas más amplias sobre el papel de la IA en el arte. Por ejemplo, recientemente participaron en el evento "Intersecciones del futuro", que incluyó discusiones y talleres centrados en el impacto de la IA en la práctica artística.
 
 La integración de la IA en su trabajo marca una evolución significativa en su práctica artística. Si bien sus trabajos anteriores podrían haberse centrado más en los métodos digitales tradicionales, el advenimiento de las tecnologías avanzadas de IA les ha permitido explorar nuevas dimensiones de creatividad e interacción, particularmente en entornos generativos en tiempo real
-BADGER ROCK
-​
-HERALDO BUENOS AIRES
-.
-Direcciones Futuras
-Mirando hacia el futuro, Hypereikon anticipa una integración más profunda de la IA en su arte, particularmente en la exploración de sistemas complejos relacionados con la ecología, la sociedad y la economía. Su objetivo es ampliar los límites de la imaginación y la creatividad humanas, al tiempo que se involucran críticamente con las implicaciones éticas del uso de la IA en las artes
-BADGER ROCK
-.
-
-Para obtener información más detallada sobre su trabajo y filosofía, puede consultar su sitio web y entrevistas recientes.
 
 
+(12) YOTAM MANN: Músico y fabricante de instrumentos.
+https://yotammann.info/
+https://yotammann.info/about
+https://tisch.nyu.edu/itp/itp-people/faculty/fellowship-alumni/yotam-mann
 
-(12) YOTAM MANN
+Yotam Mann es un tecnólogo creativo y músico cuyo trabajo se cruza significativamente con la inteligencia artificial, particularmente en el ámbito de la música y el sonido. Su carrera se puede dividir en varias épocas, cada una marcada por diferentes enfoques y tecnologías, especialmente la integración de la IA. Los primeros proyectos de Mann se centraron en mejorar la interacción musical a través de la tecnología. Una de sus notables contribuciones es A.I. Duet, un proyecto desarrollado con el equipo de Magenta de Google, que permite a los usuarios entablar una conversación musical con una red neuronal a través de una interfaz de piano. Esta interactividad proporcionó una forma tangible de comprender cómo la IA responde a los insumos humanos, fomentando una exploración más profunda de la creatividad musical.
+
+A medida que Mann avanzaba en su carrera, se involucró cada vez más en proyectos basados en IA. Cofundó Never Before Heard Sounds, una startup que construye instrumentos de aprendizaje automático para músicos. Uno de sus proyectos destacados, Gan.Style redes adversas generativas (GAN) para resintetizar el audio, ofreciendo a los músicos una forma novedosa de manipular el sonido. Este proyecto ejemplifica cómo la IA puede transformar el audio tradicional combinando grabaciones originales con interpretaciones neuronales. 
+
+Mann participa activamente en la comunidad más amplia de músicos y tecnólogos, a menudo colaborando en iniciativas que empujan los límites de lo que la IA puede hacer en la música. Su trabajo con el AI Song Contest, donde los equipos crean música utilizando tecnologías de IA, muestra su compromiso con la experimentación colaborativa. Este evento destaca la dinámica en evolución entre la creatividad humana y la IA, enfatizando un enfoque de "llamada y respuesta" a la creación musical. A lo largo de su carrera, Mann ha enfatizado la idea de que la IA puede actuar como un colaborador en lugar de un reemplazo de la creatividad humana. Sus proyectos a menudo exploran cómo las herramientas de IA pueden proporcionar nuevas ideas y dimensiones a las prácticas artísticas. Por ejemplo, durante las actuaciones, ha utilizado la IA para generar música en tiempo real, creando experiencias auditivas únicas que reflejan tanto su aporte como la interpretación de la IA.
 
 
 
