@@ -86,6 +86,7 @@ Lo que me gusta es la aleatoriedad, el hecho de que funciona mas o menos parecid
 
 (1) LAUREN LEE MCCARTHY: Artista y Programadora.
 https://lauren-mccarthy.com/Info
+
 *Obras que me llamaron la atencion:
 https://lauren-mccarthy.com/SOMEONE
 https://lauren-mccarthy.com/Saliva-Bar
@@ -117,25 +118,19 @@ Libros:
 La práctica de Reas involucró el entrenamiento de GAN en marcos de video para generar imágenes completamente nuevas que se inspiraron en formas naturales pero que tenían una estética única de otro mundo. Este cambio marcó un compromiso más profundo con la IA, pasando del código como una herramienta para comportamientos emergentes al uso de modelos de IA para ampliar los límites de la creación de imágenes. Reas enfatizó que los GAN, a diferencia de la IA tradicional, no se tratan de cognición, sino de creación de patrones, lo que permite a los artistas descubrir salidas visuales inesperadas a través de simulaciones generadas por máquinas. Los trabajos recientes de Reasses, como los presentados en su exposición "Proceso Húmedo y Saturado" [https://unitlondon.com/exhibitions/casey-reas-wet-and-saturated-process/], exploran la tactilidad de las imágenes representadas digitalmente a través de software generativo y métodos tradicionales, como los cianotipos. Esta combinación de técnicas digitales y analógicas demuestra su interés continuo en cómo la tecnología impacta nuestra percepción de la naturaleza y el arte. A lo largo de su carrera, Reas ha estado profundamente involucrado en comunidades artísticas, incluyendo su papel académico en UCLA y su participación continua en plataformas como Processing. Su trabajo continúa empujando los límites de cómo los artistas pueden interactuar con la IA.
 
 
-(3) REBECCA FIEBRINK:
+(3) REBECCA FIEBRINK: 
 https://researchers.arts.ac.uk/1594-rebecca-fiebrink
 
 Rebecca Fiebrink es una investigadora que fue pionera en la intersección de la inteligencia artificial (IA) y la práctica creativa, con un fuerte énfasis en la interacción humano y computadora, particularmente en el ámbito de la música y el arte. Su trabajo ha evolucionado a través de varias fases, especialmente marcadas por la creación de Wekinator, una herramienta de aprendizaje automático que diseñó para democratizar el uso de la IA en el proceso creativo.
 https://github.com/fiebrink1
 https://github.com/fiebrink1/wekinator
 
-En las primeras etapas de su carrera, Fiebrink se centró en la construcción de herramientas que permitan a los artistas y músicos utilizar el aprendizaje automático sin necesidad de una profunda experiencia técnica. Wekinator permite a los usuarios crear nuevos instrumentos musicales digitales o sistemas interactivos demostrando comportamientos deseados, como gestos o sonidos específicos. Este método cambió el paradigma de la creación de instrumentos, haciéndolo más accesible e interactivo, fomentando la experimentación en tiempo real en lugar de la codificación manual.
+En las primeras etapas de su carrera, Fiebrink se centró en la construcción de herramientas que permitan a los artistas y músicos utilizar el aprendizaje automático sin necesidad de una profunda experiencia técnica. Wekinator permite a los usuarios crear nuevos instrumentos musicales digitales o sistemas interactivos, como gestos o sonidos específicos. Este método cambió el paradigma de la creación de instrumentos, haciéndolo más accesible e interactivo, fomentando la experimentación en tiempo real en lugar de la codificación manual.
 
-La IA comenzó a dar forma significativamente al trabajo de Fiebrinkinks cuando se integró aprendizaje automático en herramientas creativas, comenzando por 2012. Esto fue evidente en colaboraciones, como con Laetitia Sonami, donde las herramientas de IA de Fiebrink se utilizaron para refinar instrumentos musicales complejos como el Espía de Primavera. Con el tiempo, el enfoque de Fiebrinkinks se amplió más allá de la música para abarcar interacciones en áreas como animación en vivo, sistemas domésticos inteligentes e incluso videojuegos
-NIME
-​
+La IA comenzó a dar forma al trabajo de Fiebrinkinks cuando se integró aprendizaje automático en herramientas creativas, comenzando en 2012. Se pudo ver en colaboraciones, con Laetitia Sonami, donde las herramientas de IA de Fiebrink se utilizaron para refinar instrumentos musicales complejos como el "Spring Spyre". Con el tiempo, el enfoque de Fiebrinkinks se amplió más allá de la música para abarcar interacciones en áreas como animación en vivo, sistemas domésticos inteligentes e incluso videojuegos. Fiebrink defiende a la IA como una herramienta para descubrir nuevas posibilidades artísticas, lo que permite a los novatos y expertos explorar nuevas direcciones creativas aprovechando los modelos de aprendizaje automático que generan resultados inesperados pero significativos. Sin embargo, también reconoce los sesgos en los sistemas de IA y trabaja para abordarlos, particularmente en el contexto de los modelos de ritmo musical, donde muchos marcos de aprendizaje automático no tienen en cuenta la diversidad de las tradiciones musicales globales.
+https://www.nime.org/proc/nime20_45/index.html
 
-Su enfoque en la computación creativa enfatiza tanto las oportunidades como los desafíos del uso de la IA. Fiebrink aboga por la IA como una herramienta para descubrir nuevas posibilidades artísticas, lo que permite a los novatos y expertos explorar nuevas direcciones creativas aprovechando los modelos de aprendizaje automático que generan resultados inesperados pero significativos. Sin embargo, también reconoce los sesgos en los sistemas de IA y trabaja para abordarlos, particularmente en el contexto de los modelos de ritmo musical, donde muchos marcos de aprendizaje automático no tienen en cuenta la diversidad de las tradiciones musicales globales
-
-En la fase actual de su trabajo, Fiebrink continúa explorando cómo la IA no solo puede automatizar tareas creativas, sino también mejorar la creatividad humana al ofrecer nuevas formas de interactuar con la tecnología en el arte y la música. También está profundamente involucrada en la enseñanza y ejecución de talleres que ayudan a los artistas a interactuar con la IA de una manera más informada y práctica
-TALLER CREATEAI
-.
-
+En la fase actual de su trabajo, Fiebrink continúa explorando cómo la IA no solo puede automatizar tareas creativas, sino también mejorar la creatividad humana al ofrecer nuevas formas de interactuar con la tecnología en el arte y la música. También está profundamente involucrada en la enseñanza y ejecución de talleres que ayudan a los artistas a interactuar con la IA de una manera más informada y práctica. https://www.createai-workshop.com/people
 
 
 (4) DANIEL SHIFFMAN:
