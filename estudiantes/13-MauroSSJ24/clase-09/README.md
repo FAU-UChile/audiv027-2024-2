@@ -118,7 +118,7 @@ Libros:
 La práctica de Reas involucró el entrenamiento de GAN en marcos de video para generar imágenes completamente nuevas que se inspiraron en formas naturales pero que tenían una estética única de otro mundo. Este cambio marcó un compromiso más profundo con la IA, pasando del código como una herramienta para comportamientos emergentes al uso de modelos de IA para ampliar los límites de la creación de imágenes. Reas enfatizó que los GAN, a diferencia de la IA tradicional, no se tratan de cognición, sino de creación de patrones, lo que permite a los artistas descubrir salidas visuales inesperadas a través de simulaciones generadas por máquinas. Los trabajos recientes de Reasses, como los presentados en su exposición "Proceso Húmedo y Saturado" [https://unitlondon.com/exhibitions/casey-reas-wet-and-saturated-process/], exploran la tactilidad de las imágenes representadas digitalmente a través de software generativo y métodos tradicionales, como los cianotipos. Esta combinación de técnicas digitales y analógicas demuestra su interés continuo en cómo la tecnología impacta nuestra percepción de la naturaleza y el arte. A lo largo de su carrera, Reas ha estado profundamente involucrado en comunidades artísticas, incluyendo su papel académico en UCLA y su participación continua en plataformas como Processing. Su trabajo continúa empujando los límites de cómo los artistas pueden interactuar con la IA.
 
 
-(3) REBECCA FIEBRINK: 
+(3) REBECCA FIEBRINK: Investigadora y Programadora.
 https://researchers.arts.ac.uk/1594-rebecca-fiebrink
 
 Rebecca Fiebrink es una investigadora que fue pionera en la intersección de la inteligencia artificial (IA) y la práctica creativa, con un fuerte énfasis en la interacción humano y computadora, particularmente en el ámbito de la música y el arte. Su trabajo ha evolucionado a través de varias fases, especialmente marcadas por la creación de Wekinator, una herramienta de aprendizaje automático que diseñó para democratizar el uso de la IA en el proceso creativo.
@@ -133,38 +133,142 @@ https://www.nime.org/proc/nime20_45/index.html
 En la fase actual de su trabajo, Fiebrink continúa explorando cómo la IA no solo puede automatizar tareas creativas, sino también mejorar la creatividad humana al ofrecer nuevas formas de interactuar con la tecnología en el arte y la música. También está profundamente involucrada en la enseñanza y ejecución de talleres que ayudan a los artistas a interactuar con la IA de una manera más informada y práctica. https://www.createai-workshop.com/people
 
 
-(4) DANIEL SHIFFMAN:
+(4) DANIEL SHIFFMAN: Programador.
+https://github.com/shiffman
+https://thecodingtrain.com/
+https://tisch.nyu.edu/about/directory/itp/1984778605
 
-Daniel Shiffman es una figura clave en la comunidad de codificación creativa, conocida principalmente por su trabajo con Processing y p5.js, que ha exhibido ampliamente a través de su plataforma educativa, "The Coding Train." Sus prácticas han evolucionado con el tiempo, integrando la inteligencia artificial (IA) en su trabajo, particularmente en los últimos años.
+Daniel Shiffman es una figura clave de codificación creativa, conocido principalmente por su trabajo con Processing y p5.js, que ha exhibido ampliamente a través de su plataforma educativa, "The Coding Train." Sus prácticas han evolucionado con el tiempo, integrando la inteligencia artificial (IA) en su trabajo, particularmente en los últimos años. En las primeras etapas de su carrera, Shiffman se centró en la enseñanza de conceptos fundamentales de programación y codificación creativa, ayudando a los usuarios a explorar la intersección del código y el arte. Su trabajo siempre ha enfatizado en la accesibilidad, con un fuerte enfoque en hacer que los temas complejos sean accesibles para principiantes. A través de "The Nature of Code", un libro ampliamente influyente, introdujo conceptos como simulaciones de física y arte algorítmico en Processing.
+https://natureofcode.com/
+http://learningprocessing.com/
 
-En las primeras etapas de su carrera, Shiffman se centró en la enseñanza de conceptos fundamentales de programación y codificación creativa, ayudando a los usuarios a explorar la intersección del código y el arte. Su trabajo siempre ha enfatizado la accesibilidad, con un fuerte enfoque en hacer que los temas complejos sean accesibles para principiantes. A través de "The Nature of Code", un libro ampliamente influyente, introdujo conceptos como simulaciones de física y arte algorítmico en Processing.
+Más recientemente, Shiffman ha ampliado su trabajo para incluir herramientas de IA. Lanzó ShiffBot, [https://shiffbot.withgoogle.com/] un experimento de IA basado en la API Gemini, que integra el aprendizaje automático en el editor p5.js. Esta herramienta de IA ayuda a los usuarios respondiendo dinámicamente a sus consultas de codificación y ofreciendo asistencia en tiempo real basada en el extenso contenido educativo de Shiffman. El modelo utilizado en ShiffBot puede acceder al código actual del usuario y al contexto de aprendizaje para proporcionar orientación personalizada. Esta integración de la IA representa una nueva fase en la carrera de Shiffman, pasando de los métodos de enseñanza tradicionales a las experiencias de aprendizaje asistido por IA, lo que mejora la interactividad y la escalabilidad de sus plataformas educativas. Su trabajo continúa ampliando los límites de cómo la tecnología, el arte y la IA se cruzan, centrándose en hacer que el aprendizaje sea más intuitivo y accesible.
 
-Más recientemente, Shiffman ha ampliado su trabajo para incluir herramientas de IA. Lanzó ShiffBot, un experimento de IA basado en la API Gemini, que integra el aprendizaje automático en el editor p5.js. Esta herramienta de IA ayuda a los usuarios respondiendo dinámicamente a sus consultas de codificación y ofreciendo asistencia en tiempo real basada en el extenso contenido educativo de Shiffman. El modelo utilizado en ShiffBot puede acceder al código actual del usuario y al contexto de aprendizaje para proporcionar orientación personalizada. Esta integración de la IA representa una nueva fase en la carrera de Shiffman, pasando de los métodos de enseñanza tradicionales a las experiencias de aprendizaje asistido por IA, lo que mejora la interactividad y la escalabilidad de sus plataformas educativas
-EL TREN DE CODIFICACIÓN
+
+(5) ANDREAS REFSGAARD: Artista y Programdor Creativo.
+https://www.andreasrefsgaard.dk/
+https://www.ciid.dk/community/andreas-refsgaard
+
+Andreas Refsgaard es un artista y codificador creativo que explora la intersección entre el arte y la tecnología, particularmente a través de algoritmos y aprendizaje automático. Su trabajo se centra en el uso lúdico y poco convencional de herramientas digitales, lo que permite experiencias interactivas donde los participantes pueden, por ejemplo, crear música utilizando movimientos oculares o juegos de control con sonidos vocales.
+(visto anteriormente en clases)
+https://www.andreasrefsgaard.dk/projects/an-algorithm-watching/
+https://www.andreasrefsgaard.dk/projects/teachable-machine/
+https://www.andreasrefsgaard.dk/projects/doodle-tunes/
+
+A lo largo de su carrera, Refsgaard ha integrado la IA y el aprendizaje automático en su práctica artística, desarrollando piezas que juegan con los límites entre la creatividad humana y los sistemas computacionales. Sus proyectos notables incluyen _“Eye Conductor”_ [https://www.andreasrefsgaard.dk/projects/eye-conductor/] que permite a los usuarios componer música a través de gestos faciales, y _"Booksby.ai"_, [https://booksby.ai/] un sitio web que vende libros generados completamente por AI. Su uso de la IA refleja una curiosidad lúdica, donde el potencial del aprendizaje automático se celebra y se cuestiona por sus impactos sociales. Su trabajo a menudo se caracteriza por un enfoque humorístico y de mente abierta. Refsgaard también está muy involucrado en la educación y el alcance comunitario. Imparte talleres sobre codificación creativa e IA, contribuyendo a plataformas como ml4a (Machine Learning for Artists) y colaborando con Google Creative Lab. Sus esfuerzos para hacer que la IA sea accesible han llevado a un reconocimiento generalizado, incluidas exposiciones en importantes festivales e instituciones internacionales como el MIT. Su trabajo refleja una exploración continua de cómo la IA puede aumentar los procesos creativos y la colaboración hombre-máquina, empujando continuamente los límites de lo que es posible con la tecnología digital.
+
+
+(6) GENE KOGAN: Se identifica como "_un ingeniero de aprendizaje automático caducado convertido en artista_"
+https://genekogan.com/
+https://sites.hslu.ch/werkstatt/gene-kogan/
+https://tisch.nyu.edu/about/directory/itp/98362938
+https://www.lerandom.art/artists/gene-kogan
+
+Gene Kogan es una figura prominente en la intersección del arte, la tecnología y el aprendizaje automático. Su trabajo ha evolucionado significativamente con el tiempo, particularmente a medida que la inteligencia artificial (IA) se integró más en su práctica artística. Pero los primeros intereses de Kogan se encuentran en campos como la simulación, la aparición y los algoritmos genéticos. Comenzó a programar durante la escuela secundaria y más tarde estudió matemáticas aplicadas, lo que finalmente lo llevó al aprendizaje automático durante su tiempo en la NYU. Sus primeros trabajos giraron en torno a la recuperación de información musical, colaborando con investigadores como Juan Pablo Bello. Este período sentó las bases técnicas para sus exploraciones posteriores en IA y arte generativo.
+
+El trabajo de Kogan con AI comenzó a tomar forma en 2015, un año crucial cuando combinó su conocimiento del aprendizaje automático con el arte generativo. Proyectos como _Deepdream_ y _neural style transfer_ se convirtieron en elementos importantes de su práctica artística, mientras exploraba las capacidades de las redes neuronales para crear imágenes y videos. Una de sus primeras obras notables fue _"Why is a Raven Like a Writing Desk?" (2015)_, donde aplicó la transferencia de estilo neuronal para reimaginar escenas de Alicia en el País de las Maravillas.
+
+Sus prácticas de arte generativo florecieron con el uso de herramientas como _Processing, openFrameworks, and machine learning frameworks_. Desarrolló trabajos que usaban IA para crear piezas visualmente convincentes, como _Deepdream Infinite Loops (2017)_, donde aplicó técnicas para generar bucles de video hipnóticos, y _WikiArt GAN (2018)_, que exploró caminatas latentes a través de una red neuronal entrenada en miles de pinturas. A medida que avanzaban las tecnologías de IA, Kogan amplió su repertorio artístico. Creó instalaciones como _Invisible Cities (2016)_, que utilizó redes de traducción de imágenes para generar imágenes satelitales al estilo de varias ciudades. Sus proyectos a menudo combinaban IA generativa con instalaciones físicas, como _Cubist Mirror (2016)_, lo que permitió a los participantes verse reflejados en un espejo de transferencia de estilo inspirado en el cubismo en tiempo real.
+
+La IA ha cambiado profundamente el enfoque de Kogan hacia el arte, permitiéndole empujar los límites de la expresión creativa. Su trabajo a menudo explora la intersección entre la creatividad humana y los procesos algorítmicos, planteando preguntas sobre la autoría, la originalidad y el papel de las máquinas en el proceso creativo. Al experimentar con redes neuronales y modelos de aprendizaje automático, Kogan ha creado obras de arte que no solo muestran el potencial técnico de AI, sino que también exploran sus implicaciones conceptuales y filosóficas. Hoy en día, Kogan continúa exhibiendo su trabajo a nivel mundial y sigue siendo una figura influyente en el arte impulsado por la IA, a menudo presentando en festivales como Ars Electronica y Sonar, y enseñando talleres sobre codificación creativa e IA.
+
+
+(7) ALLISON PARRISH: Poetisa, Programadora y Diseñadora.
+https://www.decontextualize.com/
+https://tisch.nyu.edu/about/directory/itp/853082171
+https://portfolio.decontextualize.com/
+
+Allison Parrish es una figura clave en la intersección de la poesía, la programación y la inteligencia artificial. Su trabajo explora el potencial creativo de los métodos computacionales en la generación de texto, con un enfoque particular en cómo el lenguaje y las máquinas pueden colaborar para producir nuevas formas de expresión poética. Parrish ha sido pionera en el uso del aprendizaje automático para la creación poética. Uno de sus proyectos clave impulsados por la IA es _Compasses_, una colección de poemas minimalistas y neológicos producidos utilizando un modelo de aprendizaje automático de ortografía y fonética. Este proyecto, así como su práctica más amplia, se centra en explorar la estructura fonética y ortográfica del lenguaje. Ella creó el marco de código abierto _Pincelate_, lo que facilita la generación de estas nuevas palabras imaginarias, difuminando la línea entre el sonido y el significado.
+https://github.com/aparrish/pincelate
+https://bombmagazine.org/articles/2020/12/16/compass-poems/
+
+Sus proyectos anteriores, como @everyword, que tuiteó cada palabra en el idioma inglés en el lapso de siete años, refleja su interés en los procesos lingüísticos automatizados. A medida que su trabajo evolucionó, integró cada vez más la IA y el aprendizaje automático, lo que la llevó a trabajos generativos más complejos. Por ejemplo, _The Nonsense Laboratory project_ utiliza el aprendizaje automático para crear nuevas formas de palabras y pronunciaciones, continuando su exploración de las complejidades de la estructura del lenguaje.
+https://experiments.withgoogle.com/nonsense-laboratory
+
+A lo largo de su carrera, Parrish ha trabajado en comunidades como el Programa de Telecomunicaciones Interactivas de la NYU, donde también enseña, contribuyendo al creciente campo de la creatividad computacional. Las herramientas que utiliza van desde sus propios marcos personalizados como Pincelado a modelos de IA más amplios que analizan la fonética y la estructura del lenguaje, remodelando las formas tradicionales de poesía en nuevas dimensiones digitales.
+
+
+(8) MAYA MAN: Artista
+https://mayaontheinter.net/
+https://videos.theconference.se/maya-man-how-to-use-a-computer
+https://networkcultures.org/blog/2021/04/15/please-move-through-this-site-with-care-on-maya-mans-compassionate-digital-experiments/
+https://www.documentjournal.com/2024/09/maya-x-sotce-internet-art-screenshots-performance-girlhood/
+
+Maya Man es una artista cuyo trabajo integra tecnología digital, IA e Internet para explorar temas de identidad, autorrepresentación e interacción en línea. Su práctica artística está profundamente influenciada por sus experiencias al crecer en la era digital, y a menudo utiliza herramientas como el aprendizaje automático y el código para crear piezas interactivas que involucran a los usuarios de manera personal e íntima. En sus primeros trabajos, como el _Cuaderno de bocetos PoseNet_ en la serie, Maya utilizó el aprendizaje automático para rastrear y modificar los movimientos humanos, permitiendo a los usuarios interactuar con la tecnología de una manera fluida e íntima. Sus proyectos reflejan un interés en cómo las personas se involucran con la tecnología a diario, haciendo visibles las formas a menudo invisibles en que las máquinas dan forma a nuestras vidas. Un ejemplo notable es su extensión de Chrome _Glance Back_, que invita a los usuarios a reflexionar sobre sus pensamientos y acciones diarias, reflejando las prácticas de vigilancia de las empresas tecnológicas pero con un enfoque más personal y consensuado.
+
+A medida que las tecnologías de IA evolucionaron, el trabajo de Maya comenzó a comprometerse críticamente con el papel de los algoritmos generativos en el arte. Proyectos como _FAKE IT TILL YOU MAKE IT_ genera algorítmicamente afirmaciones al estilo de Instagram, cuestionando los límites entre la creatividad humana y el contenido generado por la máquina. Aunque algunos críticos expresan su preocupación por el arte de la IA, Maya lo ve como una herramienta auxiliar, centrándose en la intención del artista y el proceso en lugar de quién o qué hizo el arte.
+
+
+(9) JANELLE SHANE: Cientifica.
+https://www.janelleshane.com/
+https://www.aiweirdness.com/
+
+Janelle Shane es una científica investigadora y escritora conocida por su trabajo en la intersección de la inteligencia artificial (IA) y el humor. Ella ganó una atención significativa a través de su blog _AI Weirdness_, donde muestra resultados divertidos y a veces extraños de los modelos de aprendizaje automático. La carrera de Shanean integra elementos técnicos y creativos. Inicialmente, su experiencia fue en óptica y ha trabajado en tecnologías avanzadas como sistemas de captura óptica holográfica y sensores de viento 3D. Sin embargo, su trabajo público con IA, especialmente a través de su blog y libro _You Look Like a Thing and I Love You_.
+
+La IA ha sido un elemento central en su trabajo desde el inicio de su blog a mediados de la década de 2010. Al aprovechar modelos simples de aprendizaje automático y redes neuronales, la práctica artística de Shane se convirtió en un método para involucrar tanto a expertos técnicos como al público con IA. Su enfoque contrasta con muchos otros investigadores de IA, ya que usa el humor para criticar la sobreexpectativa de las tecnologías de IA. Este cambio hacia el uso de la IA para la narración creativa ha dado forma a gran parte de su trabajo reciente, incluidos sus compromisos de hablar y la charla TED, _"The danger of AI is weirder than you think."_
+
+
+(10) SAM LEVIGNE:
+
+Sam Lavigne es un artista y educador cuyo trabajo explora principalmente las intersecciones de datos, vigilancia, aplicación de la ley y automatización. A lo largo de los años, su práctica ha integrado la inteligencia artificial (IA), particularmente en el ámbito del procesamiento del lenguaje natural (PNL) y las intervenciones en línea. Su trabajo a menudo destaca los sistemas políticos y económicos integrados en las tecnologías computacionales.
+
+Lavigne es bien conocido por crear proyectos que utilizan IA para exponer o manipular estos sistemas de manera estimulante. Por ejemplo, su proyecto "Synthetic Messenger", desarrollado con Tega Brain, genera un consumo de noticias falsas para resaltar cómo los modelos algorítmicos interactúan y se benefician de la desinformación. El uso de la IA por parte de Lavigne con frecuencia implica sátira y crítica, llamando la atención sobre cómo estas tecnologías dan forma a los comportamientos y estructuras sociales
+CAPITAL CREATIVO
 ​
-INICIO-GOOGLE DEVELOPERS BLOG
+MUSEO WHITNEY DE ARTE AMERICANO
 .
 
-Shiffman también es miembro de la facultad del Programa de Telecomunicaciones Interactivas (ITP) de la NYU, donde explora el futuro del aprendizaje, a menudo utilizando la IA para mejorar la educación creativa de codificación. Su trabajo continúa ampliando los límites de cómo la tecnología, el arte y la IA se cruzan, centrándose en hacer que el aprendizaje sea más intuitivo y accesible
+Como educador, Lavigne también desempeña un papel en la configuración del discurso en torno a la IA y la tecnología dentro de las comunidades académicas, particularmente en instituciones como la Universidad de Texas en Austin y anteriormente en la Escuela de Artes Tisch de la Universidad de Nueva York
 NYU TISCH ESCUELA DE LAS ARTES
-.
+. Su integración de la IA en su trabajo refleja un cambio creciente en las prácticas de arte contemporáneo hacia el uso del aprendizaje automático y la automatización como herramientas para la crítica social. A través de su uso de la automatización y la IA, Lavigne continúa cuestionando la opacidad de la tecnología moderna, con el objetivo de desmitificarla y fomentar el compromiso crítico con su impacto social.
 
 
-(5) ANDREAS REFSGAARD
 
-(6) GENE KOGAN
-
-(7) ALLISON PARRISH
-
-(8) MAYA MAN
-
-(9) JANELLE SHANE
-
-(10) SAM LEVIGNE
 
 (11) HYPEREIKON
 
+Hypereikon es un dúo artístico formado por María Constanza Lobos y Sebastián Rojas, que se centran en las intersecciones del arte digital, la tecnología y la naturaleza. Su trabajo incorpora arte generativo e inteligencia artificial (IA) para crear experiencias inmersivas y oníricas que combinan elementos orgánicos con entornos surrealistas y diseñados digitalmente. Exploran temas de "naturaleza especulativa", imaginando cómo nuestra comprensión de los ecosistemas podría evolucionar dentro de un paisaje dominado digitalmente
+BADGER ROCK
+​
+HERALDO BUENOS AIRES
+.
+
+Aspectos Clave del Trabajo de Hypereikon
+Visión Artística e Integración de IA:
+
+Hypereikon describe su relación con la IA como una forma de "prótesis imaginativa", que mejora su proceso creativo al permitir que formas y conexiones inesperadas emerjan del espacio latente de la IA. Equilibran sus intenciones artísticas con los sorprendentes resultados generados por la IA, lo que sugiere un enfoque colaborativo y exploratorio de la creatividad
+BADGER ROCK
+​
+HERALDO BUENOS AIRES
+.
+Temas y Prácticas:
+
+Su trabajo enfatiza las líneas borrosas entre los reinos naturales y digitales, invitando a los espectadores a reconsiderar las nociones de lo que es "natural" versus "artificial." A menudo se involucran con el patrimonio cultural, reinventándolo a través de la lente de la tecnología contemporánea
+BADGER ROCK
+.
+Exposiciones y Participación Comunitaria:
+
+Hypereikon participa en varias exposiciones y eventos que muestran su trabajo y abordan preguntas más amplias sobre el papel de la IA en el arte. Por ejemplo, recientemente participaron en el evento "Intersecciones del futuro", que incluyó discusiones y talleres centrados en el impacto de la IA en la práctica artística
+HERALDO BUENOS AIRES
+.
+Evolución Con el Tiempo:
+
+La integración de la IA en su trabajo marca una evolución significativa en su práctica artística. Si bien sus trabajos anteriores podrían haberse centrado más en los métodos digitales tradicionales, el advenimiento de las tecnologías avanzadas de IA les ha permitido explorar nuevas dimensiones de creatividad e interacción, particularmente en entornos generativos en tiempo real
+BADGER ROCK
+​
+HERALDO BUENOS AIRES
+.
+Direcciones Futuras
+Mirando hacia el futuro, Hypereikon anticipa una integración más profunda de la IA en su arte, particularmente en la exploración de sistemas complejos relacionados con la ecología, la sociedad y la economía. Su objetivo es ampliar los límites de la imaginación y la creatividad humanas, al tiempo que se involucran críticamente con las implicaciones éticas del uso de la IA en las artes
+BADGER ROCK
+.
+
+Para obtener información más detallada sobre su trabajo y filosofía, puede consultar su sitio web y entrevistas recientes.
+
+
+
 (12) YOTAM MANN
+
 
 
 
