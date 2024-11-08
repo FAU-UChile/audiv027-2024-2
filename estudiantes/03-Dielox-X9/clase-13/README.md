@@ -21,7 +21,7 @@
 
 ## Segunda Parte:
 
-- Componemos los grupos con Constantine Lobos, Leandro Méndez y Diego Castillo. Este grupo trabajará modificando el código exportado de Teachable Machine, para adapatarlo a una versión compatible para 2024 teniendo un tutorial en español, ya que el código actual está desactualizado y no deja exportar los archivos de manera sencilla a p5, esta moificación agilizará el proceso y simplificará los pasos a seguir de los usuarios.
+- Componemos los grupos con Constantine Lobos <https://github.com/cottito>, Leandro Méndez <https://github.com/BatmanTheDay27> y Diego Castillo <https://github.com/Dielox-X9>. Este grupo trabajará modificando el código exportado de Teachable Machine, para adapatarlo a una versión compatible para 2024 teniendo un tutorial en español, ya que el código actual está desactualizado y no deja exportar los archivos de manera sencilla a p5, esta moificación agilizará el proceso y simplificará los pasos a seguir de los usuarios.
 
 - https://teachablemachine.withgoogle.com/
 - https://github.com/googlecreativelab/teachablemachine-community
