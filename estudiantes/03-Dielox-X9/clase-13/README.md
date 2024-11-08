@@ -95,7 +95,7 @@
   }
 </script>
 ```
-- Como se ve en el código de GitHub las primeras 5 líneas son las utilizadas en P5:
+- Como se ve en el código de GitHub las primeras 5 líneas son las utilizadas en P5 en el apartado INDEX la cual al tener *Ml5@latest* da error de incompatibilidad con el código:
 
 ``` javascript
 <div>Teachable Machine Image Model - p5.js and ml5.js</div>
