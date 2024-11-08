@@ -10,9 +10,11 @@
 
 - Mitchel Resnick, profesor de nuestro profe, siempres sonriente en las fotos, creador de scratch para que niños pequeños puedan programar. es como un juego de puzles.
 
-- Trabajaremos con Teachable Machine propiedad de google, crear una guía en español para alguno de sus proyectos y adaptarlo a 2024.
+- Trabajaremos con Teachable Machine propiedad de google, crear una guía en español para alguno de sus proyectos y adaptar su código a 2024.
 
 - Mi grupo se conforma por Constantine Lobos, Diego Castillo y Leandro Méndez.
+
+- https://teachablemachine.withgoogle.com/
 
 
 
