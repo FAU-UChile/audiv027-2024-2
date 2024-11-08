@@ -13,7 +13,7 @@ Lifelong Kindergarten  https://www.media.mit.edu/groups/lifelong-kindergarten/ov
             Actualización, desarrollo y expansión de un proyecto de Andreas Refsgaard.  
             Traducción al español y creación de tutorial, con enfoque educativo, accesible y fácil de entender.  
   
-  Integrantes: @[Niquito2010](https://github.com/niquito2010) - @[valen288](https://github.com/valen288) - @[jibbx](https://github.com/jibbx)  
+  Integrantes: [Niquito2010](https://github.com/niquito2010) - [valen288](https://github.com/valen288) - [jibbx](https://github.com/jibbx)  
 
 Andreas Refsgaard - https://medium.com/processing-foundation/from-simple-to-advanced-ml5-js-70d6730b360b  
 
