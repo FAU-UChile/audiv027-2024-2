@@ -1,14 +1,3 @@
 # clase 12: RESUMEN
 
-## Primera Parte: 
-
-- LOREM IPSUM
-
----
-# *BREAK*
-
-## Segunda Parte:
-
-- LOREM IPSUM
-
-# CIERRE DE CLASE
+# FERIADO, NO HUBO CLASES.
