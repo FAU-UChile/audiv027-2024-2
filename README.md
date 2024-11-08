@@ -66,7 +66,7 @@ unidad 2: inteligencia artificial en computadores personales
 | [clase-09](clases/clase-09/) | 2024-10-11 viernes      | ia en computadores                 |
 | [clase-10](clases/clase-10/) | 2024-10-18 viernes      | ia en computadores                 |
 | [clase-11](clases/clase-11/) | 2024-10-25 viernes      | ia en computadores                 |
-| [clase-12](clases/clase-12/) | 2024-11-01 viernes      | ia en computadores                 |
+| no hay clase por feriado     | 2024-11-01 viernes      | no hay clase por feriado           |
 | [clase-13](clases/clase-13/) | 2024-11-08 viernes      | trabajo grupal en segundo proyecto |
 | semana de trabajo autónomo   | 2024-11-11/15           | no hay clase                       |
 | [clase-14](clases/clase-14/) | 2024-11-22 viernes      | trabajo grupal en segundo proyecto |
